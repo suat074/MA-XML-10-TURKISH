@@ -1,6 +1,6 @@
 MIUI V10 Turkish Translation
 
-[![Issue Stats](https://github.com/suat074/MA-XML-10-TURKISH/issues]
+[![Issue Stats](https://github.com/suat074/MA-XML-10-TURKISH/issues)
 
 ## Introduction
 
