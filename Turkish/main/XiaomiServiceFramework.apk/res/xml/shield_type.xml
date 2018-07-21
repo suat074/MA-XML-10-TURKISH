@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/new_permission_title" android:key="notification_type_shield"
+  xmlns:android="http://schemas.android.com/apk/res/android" />
