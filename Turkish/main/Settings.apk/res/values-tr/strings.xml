@@ -5722,7 +5722,6 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="secspace_fod_finger_tips">Doğrulanmadı. Tekrar deneyin.</string>
   <string name="secspace_fod_finger_title">Parmak izinizi doğrulayın</string>
   <string name="secspace_fod_use_password">Parolanı gir</string> 
-  <string name="rgb_manage_facerecoginition_text">2B yüz verilerini yönetin</string>
   <string name="structure_manage_facerecoginition_text">3B yüz verilerini yönetin</string>
   <string name="sound_stereo_mode_summary">Sadece hoparlör ile ses çalarken kullanılabilir</string>
   <string name="sound_stereo_mode_title">Stereo ses</string>
