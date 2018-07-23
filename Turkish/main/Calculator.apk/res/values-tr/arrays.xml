@@ -1,24 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="operators">
-        <item>(</item>
-        <item>)</item>
-        <item>!</item>
-        <item>ln</item>
-        <item>log</item>
-        <item>√</item>
-        <item>÷</item>
-        <item>×</item>
-        <item>+</item>
-        <item>−</item>
-        <item>.</item>
-        <item>^</item>
-        <item>tan</item>
-        <item>sin</item>
-        <item>cos</item>
-        <item>π</item>
-        <item>=</item>
-    </string-array>
     <string-array name="operatorDescs">
         <item>sol parantez</item>
         <item>sağ parantez</item>
@@ -37,10 +18,6 @@
         <item>kosinüs</item>
         <item>pi</item>
         <item>eşittir</item>
-    </string-array>
-    <string-array name="mortgage_repayment">
-        <item>Eşit Ödemeler</item>
-        <item>Azalan Ödemeler</item>
     </string-array>
     <string-array name="unit_data_order_currency_">
         <item>USD</item>
@@ -78,41 +55,6 @@
         <item>ld</item>
         <item>au</item>
         <item>ly</item>
-    </string-array>
-    <string-array name="unit_data_order_area_">
-        <item>sq.km</item>
-        <item>ha</item>
-        <item>are</item>
-        <item>sq.m</item>
-        <item>sq.dm</item>
-        <item>sq.cm</item>
-        <item>sq.mm</item>
-        <item>sq.um</item>
-        <item>acre</item>
-        <item>sq.mi</item>
-        <item>sq.yd</item>
-        <item>sq.ft</item>
-        <item>sq.in</item>
-        <item>sq.rd</item>
-        <item>qing</item>
-        <item>mu</item>
-        <item>sq.chi</item>
-        <item>sq.cun</item>
-    </string-array>
-    <string-array name="unit_data_order_volume_">
-        <item>cu.m</item>
-        <item>cu.dm</item>
-        <item>cu.cm</item>
-        <item>cu.mm</item>
-        <item>hl</item>
-        <item>l</item>
-        <item>dl</item>
-        <item>cl</item>
-        <item>ml</item>
-        <item>cu.ft</item>
-        <item>cu.in</item>
-        <item>cu.yd</item>
-        <item>cu.af</item>
     </string-array>
     <string-array name="unit_data_order_velocity_">
         <item>c</item>
