@@ -826,7 +826,6 @@
   <string name="settings_search_title_main">Müzik</string>
   <string name="settings_search_title_notification">Müzik Bildirimi</string>
   <string name="settings_search_title_vip_service">Özel İçerikli Şarkılar</string>
-  <string name="share_append_text">@MIUI den</string>
   <string name="share_choice">Seç</string>
   <string name="share_chooser_title">Paylaş</string>
   <string name="share_description">Mi Müzik Sunar</string>
