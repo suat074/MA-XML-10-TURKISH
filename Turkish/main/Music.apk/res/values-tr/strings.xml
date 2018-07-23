@@ -758,7 +758,6 @@
   <string name="repeat_all_notif">Bütün şarkıları tekrarla</string>
   <string name="repeat_current_notif">Geçerli şarkıyı tekrarla.</string>
   <string name="reply_comment">Yanıtla</string>
-  <string name="reply_comment_hint">@%s yanıtla</string>
   <string name="report">Rapor</string>
   <string name="report_comment_failed">Raporlama yapılamadı</string>
   <string name="report_comment_success">Başarıyla rapor edildi</string>
