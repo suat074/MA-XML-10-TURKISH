@@ -76,7 +76,6 @@
   <string name="ball_football_recent_end">Bitmiş</string>
   <string name="ball_football_recent_end_tip">Sonuçlar</string>
   <string name="ball_football_recent_ing">Devam</string>
-  <string name="ball_football_recent_middle">:</string>
   <string name="ball_football_recent_text_show">Metin yorumu</string>
   <string name="ball_football_title">Futbol</string>
   <string name="ball_football_total_rank">İstatistikler</string>
@@ -230,9 +229,7 @@
   <string name="express_booking_txt">Ekspres teslimat sipariş et</string>
   <string name="express_code_txt">Kod:</string>
   <string name="express_complete">Kabul edildi</string>
-  <string name="express_complete_flag">3</string>
   <string name="express_delivery">Teslim</string>
-  <string name="express_delivery_flag">5</string>
   <string name="express_icon_tip">Retrieve express delivery tracking info using your phone number and order info.</string>
   <string name="express_icon_tip_link">Security &amp; privacy</string>
   <string name="express_install_cainiao_description">%s requires installing the Cainiao app. Install now?</string>
@@ -648,7 +645,6 @@
   <string name="payment_upload_data_success">Verileri başarıyla yükle</string>
   <string name="payment_user_notice_bar_text">\\"Otomatik ödemeler\\" hakkında</string>
   <string name="personalAssistant_mainpage">Ana sayfa</string>
-  <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
   <string name="place_label">Sık kullanılan yerler</string>
   <string name="plan">Scheduled</string>
   <string name="preferences">Tercihler</string>
@@ -807,7 +803,6 @@
   <string name="steps_vip_des">Üçüncü taraf uygulamaları yüklemeden adımları sayın.</string>
   <string name="stock_card_add">Add companies</string>
   <string name="stock_card_title">Stocks</string>
-  <string name="stock_change_rate_format">%.2f%%</string>
   <string name="stock_color_schema">Renk uyumu</string>
   <string name="stock_list_empty_text">Hiçbir şirketi takip etmiyorsun.</string>
   <string name="stock_search_empty">Sonuç bulunamadı.</string>

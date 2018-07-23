@@ -93,7 +93,6 @@
   <string name="search_sources">Aranabilir öğeler</string>
   <string name="search_sources_summary">Telefonda aranacakları seçin</string>
   <string name="search_suggestion">İpuçları</string>
-  <string name="search_title_quicksearchbox">@string/app_name</string>
   <string name="search_videos">Videoları Ara</string>
   <string name="search_widget">Ara</string>
   <string name="send_secret_code">Kodu gönder</string>

@@ -1131,11 +1131,9 @@
   <string name="menu_text_antispam">Engelli Listesi</string>
   <string name="menu_text_antivirus">Virüs Tara</string>
   <string name="menu_text_garbage_cleanup">Temizleyici</string>
-  <string name="menu_text_garbage_cleanup_danger">%s</string>
   <string name="menu_text_license_manager">İzinler</string>
   <string name="menu_text_networkassistants">Veri Kullanımı</string>
   <string name="menu_text_networkassistants_danger">%s aşıldı</string>
-  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s kaldı</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1144,7 +1142,6 @@
   <string name="menu_text_optimize_manage">Hızlandır</string>
   <string name="menu_text_power_manager">Pil Kullanımı</string>
   <string name="menu_text_power_percent">%s</string>
-  <string name="menu_text_power_percent_title">%s</string>
   <string name="menu_wh_remove">İstisnalardan kaldır</string>
   <string name="menu_white">Hariç tutulan</string>
   <string name="mi_pay_lucky">小米钱包</string>
@@ -1277,7 +1274,6 @@
   <string name="om_media_scan_timeout_proc_detail">Medya sunucusu arkaplanda çalışıyor. Faaliyeti kısıtlayabilirsiniz.</string>
   <string name="om_media_scan_timeout_proc_name">Medya Sunucusu</string>
   <string name="om_memory_clean_cleaning_text">Hızlandırılıyor…</string>
-  <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_notify_cpu_load_too_high_summary">Arkaplan etkinliğini hız artırmak için sınırla</string>
   <string name="om_notify_cpu_load_too_high_title">%s CPU kullanımı çok yüksek</string>
   <string name="om_notify_need_clean_memory_summary">Hızı arttırmak için önbelleği temizle</string>
@@ -1525,7 +1521,6 @@
   <string name="pref_normal_traffic_limit">Veri planı tükendiğinde</string>
   <string name="pref_open_adjust_traffic">Operatörünüz istatistiklerini kullanarak her gün veri kullanımını güncelleyin</string>
   <string name="pref_operator_not_set">Operatör ayarlanmadı</string>
-  <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">Veri planınızı aştığınızda</string>
   <string name="pref_package_traffic_settings">Veri planı</string>
   <string name="pref_pkg_begin_date">Kullanımı sıfırlama tarihi</string>
@@ -1582,7 +1577,6 @@
   <string name="privacy_prompt_tc_sms_report_message">Veri kullanımı bilgilerinizi güncellemek için telefon numaranız ve operatör bilgileriniz  şifreli olacak ve Mi sunucularına yüklenecektir.</string>
   <string name="privacy_prompt_traffic_adjust_message">Kalibrasyona başladıktan sonra, MIUI ağa bağlanacak, operatörünüzün bilgisini, telefon numarasını, IMEI\'yi ve Mi Hesabı\'nı kodlayacak ve bu öğeleri Mi sunucularına yükleyecektir. Bu, taşıyıcının kalibrasyon şablonunu edinmek ve konumunuzda veri satın almanın mümkün olup olmadığını öğrenmek için yapılır.\n\nKalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir kısa mesaj gönderir.</string>
   <string name="privacy_prompt_upload">Yükle</string>
-  <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Medya Sunucusu</string>
   <string name="promotion">Reklam</string>
   <string name="prompt_all">Tümünü sor</string>
@@ -1821,7 +1815,6 @@
   <string name="st_antispam_mode_only_whitelist">Sadece istisnalara izin ver</string>
   <string name="st_antispam_mode_only_whitelist_sum">Sadece istisnalar listesindeki numaraların mesaj ve çağrılarına izin ver</string>
   <string name="st_antispam_mode_smart">Raporlu numaralar</string>
-  <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="st_antispam_mode_smart_sum">Diğer kullanıcılar ve sizin eklediğiniz numaraları engelle</string>
   <string name="st_antispam_title_anoy_incoming">Yabancılardan gelen çağrılar</string>
   <string name="st_antispam_title_anoy_sms">Yabancılardan gelen mesajlar</string>

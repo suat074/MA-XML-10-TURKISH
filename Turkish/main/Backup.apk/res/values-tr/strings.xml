@@ -338,11 +338,8 @@ alıcı aygıtın açık olduğundan emin olun"</string>
   <string name="user_notice_message">Bazı özelliklerin normal çalışması için internet bağlantısına erişmesi gerekiyor</string>
   <string name="user_notice_title">Dikkat</string>
   <string name="wifi_title">WLAN Ayarları</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"İndirme işlemi başlatılamadı. İndirme Yöneticisi'nin normal şekilde çalıştığından emin olun."</string>
   <string name="xiaomi_external_storage_unavailable">Depolama mevcut değil, SD kartınızı kontrol edin.</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Yönlendirici</string>
   <string name="xiaomi_router_location">Mi Yönlendirici: %s</string>
   <string name="xiaomi_update_dialog_message">"Tanıtım Sürümü: %1$s
@@ -454,7 +451,6 @@ https://appleid.apple.com/#!&amp;page=signin kapatmak için"</string>
 önce bir iCloud yedeklemesi oluşturmalısınız."</string>
   <string name="import_tip_title">İpuçları:</string>
   <string name="import_tip_summary">Uyumluluk sorunlarından dolayı, yalnızca kişileri ve fotoğrafları iOS cihazlarından aktarabilirsiniz. Aktarmaya başlamadan önce bir iCloud yedeklemesi oluşturduğunuzdan emin olun.</string>
-  <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
   <string name="button_import">Al</string>
   <string name="select_empty">Alınacak öğeleri seçin</string>
   <string name="select_item_summary_wait">Bekleyin...</string>

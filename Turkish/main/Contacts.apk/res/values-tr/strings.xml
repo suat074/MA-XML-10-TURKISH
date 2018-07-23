@@ -97,7 +97,6 @@
     <string name="call_sim_menu_title_suffix">(Birinci)</string>
     <string name="call_telex">Teleksi Ara</string>
     <string name="call_tty_tdd">"TTY/TDD'yi Ara"</string>
-    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">İşi Ara</string>
     <string name="call_work_mobile">İş Telefonunu Ara</string>
@@ -190,7 +189,6 @@
     <string name="composer_failed_to_get_database_infomation">Veritabanı bilgisi alınamıyor.</string>
     <string name="composer_has_no_exportable_contact">Dışa aktarılabilecek kişi bulunmamaktadır. Telefonunuzda kişileriniz varsa, bazı veri sağlayıcıları kişilerin, telefondan dışa aktarılmasına izin vermiyor olabilir.</string>
     <string name="composer_not_initialized">vCard oluşturucu düzgün başlamadı.</string>
-	<string name="config_import_vcard_type">varsayılan</string>
     <string name="confirm_delete_contact_all_call_logs">Tüm %s geçmişi temizlensin mi?</string>
     <string name="confirm_delete_selected_all_call_logs">Çağrı geçmişi temizlensin mi?</string>
     <string name="confirm_delete_sim_entry_miui_title">Sil</string>
@@ -492,7 +490,6 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
     <string name="force_touch_new_contact">Yeni Kişi</string>
     <string name="foundTooManyContacts">%d fazla bulundu.</string>
     <string name="frequentList">Sık Arananlar</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">Adı</string>
     <string name="gallery">Galeri</string>
     <string name="generic_no_account_prompt">Telefonunuzu kaybetseniz bile kişilerinizi güvende tutmak için çevrimiçi bir servis ile eşitleyin.</string>
@@ -571,7 +568,6 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
     <string name="keep_local">Eşitlenemedi</string>
     <string name="keep_local_btn">Telefonun dahili hafızasını kullan</string>
     <string name="label_custom_type">Özel</string>
-    <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">Tekrarlanmış kişi yok</string>
     <string name="label_notes">Notlar</string>
     <string name="label_sip_address">İnternetten Ara</string>
@@ -831,7 +827,6 @@ Kişinin adının yanındaki yıldıza dokunun
     <string name="payphone">Ödemeli Telefon</string>
     <string name="people">Kişiler</string>
     <string name="phoneLabelsGroup">Telefon</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Numara çok uzun</string>
     <string name="phone_primary">Birinci</string>
     <string name="photoPickerNotFoundText">Telefonda uygun resim yok</string>
@@ -1078,7 +1073,6 @@ Kişinin adının yanındaki yıldıza dokunun
     <string name="sim_unloaded">SIM kart yüklenmedi</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Grup üyesi yok</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Şirketler</string>
     <string name="smart_group_company_unavailable">Şirket bilgisi yok</string>
     <string name="smart_group_frequency_1">Geçen Aya Göre</string>
@@ -1212,7 +1206,6 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
     <string name="voip_audio_description">VoIP Çağrısı</string>
     <string name="voip_video_description">VoIP Görüntülü Çağrı</string>
     <string name="websiteLabelsGroup">Web Sitesi</string>
-    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Veriyi temizle</string>
     <string name="yellowPageNavigationIconLabel">Sarı Sayfalar</string>
     <string name="yellowPageNavigationLabel">Sarı Sayfalar</string>
@@ -1398,7 +1391,6 @@ Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardınd
     <string name="heavy_snow">Ağır Kış</string>
     <string name="hksar_establishment_day">Kurtuluş Günü</string>
     <string name="hoar_frost_falls">Ayaz</string>
-    <string name="import_weibo_progress_percent">%%%1$d</string>
     <string name="in_call_show">Video</string>
     <string name="in_call_show_camera_open_error">Kamera açılamadı</string>
     <string name="in_call_show_delete_message">Video silinsin mi?</string>

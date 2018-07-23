@@ -7,5 +7,4 @@
   <string name="error_not_acceptable">Senkronizasyon devre dışı bırakıldı.</string>
   <string name="error_title">Senkronize edilemedi</string>
   <string name="error_unauthorized">Senkronizasyon, çok fazla giriş denemesi nedeniyle devre dışı bırakıldı.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

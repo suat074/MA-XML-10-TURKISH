@@ -886,7 +886,6 @@
   <string name="bootloader_status_unlocked">Kilitsiz</string>
   <string name="bootloader_status_unlocked_info">Bu cihazın kilidi kaldırılmış</string>
   <string name="bootloader_summary">USB yoluyla cihazınızın yazılımını güncelleyin</string>
-  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Işık Rengi</string>
   <string name="breathing_light_color_summary">Yeni bildirim geldiğinde yanıp-sönme rengi</string>
   <string name="breathing_light_freq_summary">Yeni bildirimler olduğunda yanıp sönme sıklığı</string>
@@ -930,7 +929,6 @@
   <string name="calendar_sound_title">Takvim Sesi</string>
   <string name="call_manager_enable_summary">Çağrılarınızı yönetmek için bu servise izin verir</string>
   <string name="call_manager_enable_title">Çağrı Yöneticisi Etkin</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Çağrı Yöneticisi</string>
   <string name="call_settings_primary_user_only">İlk Alanındaki Çağrı Ayarlarını Değiştir</string>
   <string name="call_settings_summary">Sesli mesaj, çağrı yönlendirme, çağrı bekletme ve arayan kimliğini ayarla</string>
@@ -983,10 +981,6 @@
   <string name="carrier_enabled">APN etkin/devre dışı</string>
   <string name="carrier_enabled_summaryOff">APN devre dışı</string>
   <string name="carrier_enabled_summaryOn">APN etkin</string>
-  <string name="category_key_device">com.android.settings.category.device</string>
-  <string name="category_key_personal">com.android.settings.category.personal</string>
-  <string name="category_key_system">com.android.settings.category.system</string>
-  <string name="category_key_wireless">com.android.settings.category.wireless</string>
   <string name="category_personal">Kişisel</string>
   <string name="category_work">İş</string>
   <string name="cdma_security_settings_summary">Konumum, ekran kilidi açma, kimlik saklama kilidini ayarlamak</string>
@@ -997,7 +991,6 @@
   <string name="cellular_data_summary">Hücresel şebeke üzerinden veri kullanımına izin ver</string>
   <string name="cellular_data_title">Hücresel Veri</string>
   <string name="cellular_data_usage">Hücresel Veri Kullanımı</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Değiştir</string>
   <string name="change_password">Ekran kilidini değiştir</string>
   <string name="change_security_lock">Kilidini açmak için başka yollar deneyin</string>
@@ -1507,7 +1500,6 @@
   <string name="dndm_auto_button_title">Rahatsız Etme Tekrarı</string>
   <string name="dndm_auto_setting_group">Planlanmış</string>
   <string name="dndm_auto_time_setting">Zaman Ayarı</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Bitiş</string>
   <string name="dndm_auto_time_turn_off_title">Rahatsız Etme\'yi otomatik kapat</string>
   <string name="dndm_auto_time_turn_on">Başlangıç</string>
@@ -1930,7 +1922,6 @@
   <string name="gadget_picker_title">Araç seç</string>
   <string name="gadget_state_off">Kapalı</string>
   <string name="gadget_state_on">Açık</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">Kapatılıyor</string>
   <string name="gadget_state_turning_on">Açılıyor</string>
   <string name="gadget_sync">Eşitle</string>
@@ -2238,7 +2229,6 @@
   <string name="lift_to_wake_title">Uyandırmak için cihazı kaldır</string>
   <string name="line_breaking_summary">Paragrafın satır kırılmasını iyileştir</string>
   <string name="line_breaking_title">Metini iyi hale getir</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Bağlantı hızı:</string>
   <string name="list_bg_header_text">Arka plan bağlantısını kısıtlarsanız, yeni uygulamalar yüklemeden sonra arka planda internete bağlanamaz. Bundan sonra mesaj alamaz veya içerik indiremezler.</string>
   <string name="list_empty_text">Boş</string>
@@ -2580,7 +2570,6 @@
   <string name="memory_title">Kullanabilir: %1$s\u0009\u0009 Toplam: %2$s</string>
   <string name="memory_usage">Hafıza kullanımı</string>
   <string name="memory_usage_apps">Uygulamaların kullandığı hafıza</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Yaklaşık %1$s, son 3 saatte kullandığı hafıza</string>
   <string name="menu_cancel">Reddet</string>
   <string name="menu_check">Deneyim</string>
@@ -2826,7 +2815,6 @@
   <string name="nfc_how_it_works_got_it">Anladım</string>
   <string name="nfc_how_it_works_title">Terminale ödeniyor</string>
   <string name="nfc_more_title">Fazlası...</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_default">Ödeme varsayılanı</string>
   <string name="nfc_payment_default_not_set">Ayarsız</string>
   <string name="nfc_payment_favor_default">Her zaman varsayılan uygulamayı kullan</string>
@@ -3034,7 +3022,6 @@
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
   <string name="overlay_settings">Diğer uygulamaların aşımını yönet</string>
   <string name="owner_info_settings_edit_text_hint">Kilit ekranında görüntülenecek metni yazın</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Yok</string>
   <string name="owner_info_settings_title">Kilit Ekranda Sahip Bilgisi</string>
   <string name="owner_space">İlk Alan</string>
@@ -3133,7 +3120,6 @@
   <string name="phone_call_noise_suppression">Aramalar sırasında gürültüyü önle</string>
   <string name="phone_info_label">"Telefon Bilgileri "</string>
   <string name="phone_language">Diller</string>
-  <string name="physical_device_title">%1$s - %2$s</string>
   <string name="physical_keyboard_title">Fiziksel Klavye</string>
   <string name="pick_up_gesture_wakeup_title">Uyandırmak için cihazı kaldır</string>
   <string name="picture_color_mode">Renkli Resim Modu</string>
@@ -3163,9 +3149,7 @@
   <string name="power_cell">Şebeke Beklemedeyken:</string>
   <string name="power_center">Güç</string>
   <string name="power_charge_remaining">Şarj: %1$s</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - Tam Doluma: %2$s</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_checker">Pil Denetleyicisi</string>
   <string name="power_discharge_remaining">Kalan: %1$s</string>
   <string name="power_discharging_duration">%1$s - %2$s kaldı</string>
@@ -3350,8 +3334,6 @@
   <string name="private_sms_recording_intro_header">Kilit açma deseni çiz:</string>
   <string name="private_sms_reset_by_account">Şifrenizi sıfırlamak için Mi Hesabınızda oturum açın</string>
   <string name="process_dex2oat_label">Uygulamayı iyi hale getir</string>
-  <string name="process_format">%1$s (%2$d)</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">%1$s sağlayıcı kulanıyor.</string>
   <string name="process_service_in_use_description">%1$s hizmeti kullanıyor.</string>
@@ -3391,15 +3373,11 @@
   <string name="proxy_error_invalid_exclusion_list">Yazdığınız dışlama listesi doğru biçimlendirilmemiş. Dışlanan alanların virgülle ayrılmış listesini yazın.</string>
   <string name="proxy_error_invalid_host">Yazdığınız ana makine adı geçerli değil.</string>
   <string name="proxy_error_invalid_port">Yazdığınız bağlantı noktası geçerli değil.</string>
-  <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
   <string name="proxy_exclusionlist_label">Bypass için</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_hostname_label">Hostname</string>
-  <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Port</string>
   <string name="proxy_settings_label">Proxy Ayarları</string>
   <string name="proxy_settings_title">Proxy</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="proxy_url_title">"PAC URL: "</string>
   <string name="proxy_warning_limited_support">HTTP vekil tarayıcı tarafından kullanılmıştır ancak diğer uygulamalar tarafından kullanılamaz.</string>
   <string name="qtifeedback_settings_subtitle">Qualcomm Technologies Raporlama</string>
@@ -3939,7 +3917,6 @@
   <string name="security_encryption_attention_3">Yeni bir kilit ekran şifreniz olacak.</string>
   <string name="security_encryption_attention_4">Kilit ekran şifrenizi unutmayın, aksi halde tam sıfırlama yapmak zorunda kalırsınız ve tüm verileri kaybedebilirsiniz.</string>
   <string name="security_encryption_attention_info">Hesapları, ayarları, indirilen uygulamaları/ verilerini, medya ve diğer dosyaları şifreleyin.</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Önemli</string>
   <string name="security_encryption_close_dialog_info">Google Hizmetleri mevcut olmadığında cihazın kilit ekran şifrsiniz seçemeyebilirsiniz.</string>
   <string name="security_encryption_close_dialog_title">Varsayılan şifre korumasına geri dön</string>
@@ -4019,11 +3996,9 @@
   <string name="selinux_status_enforcing">Uygulanıyor</string>
   <string name="selinux_status_permissive">Müsamahâkar</string>
   <string name="service_background_processes">Boş: %1$s</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">Kullanılan: %1$s</string>
   <string name="service_manage">Kurulum</string>
   <string name="service_manage_description">%1$s: şuan kullanıyor. Denetlemek için Ayarlara dokunun.</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Yeniden başlatılıyor.</string>
   <string name="service_started_by_app">Uygulama tarafından başlatıldı.</string>
   <string name="service_stop">Durdur</string>
@@ -4047,7 +4022,6 @@
   <string name="settings_manual_activity_unavailable">Yüklemede bir problem oldu.</string>
   <string name="settings_notify_need_backup">Telefonunuzu değiştirdikten sonra onlara erişmek için ayarlarınızı Mi Bulut\'a yedekleyin.</string>
   <string name="settings_notify_phone_recycled">Telefon numaranız başarıyla silindi. Farklı bir telefon numarası eklemek için dokunun.</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_safetylegal_activity_loading">Yükleniyor...</string>
   <string name="settings_safetylegal_activity_title">Güvenlik Bilgisi</string>
   <string name="settings_safetylegal_activity_unreachable">Bir veri bağlantısı yok. Şimdi bu bilgiyi görüntüle, internet için herhangi bilgisayardan %s gidin.</string>
@@ -4183,7 +4157,6 @@
   <string name="sim_reenter_new">Yeni PIN kodunu tekrar girin</string>
   <string name="sim_select_card">SIM kartı seç</string>
   <string name="sim_selection_required_pref">Seçim yapmanız gerekli!</string>
-  <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">SIM Kartlar</string>
   <string name="sim_setup_wizard_title">SIM Kartlar</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4197,7 +4170,6 @@
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
-  <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Yine de atla</string>
   <string name="skip_label">Atla</string>
@@ -4260,7 +4232,6 @@
   <string name="status_bar_app_enable_message">Simgeler</string>
   <string name="status_bar_carrier_settings_no_sim_card">SIM kart yok</string>
   <string name="status_bar_key_position_custom">Tuş Pozisyonlarını Değiştir</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_screen_button_force_immersive_desc">Tuşları göstermek için ekranın altından yukarı doğru kaydırın</string>
   <string name="status_bar_screen_button_key_force_immersive">Tuşları gizle</string>
   <string name="status_bar_screen_key_back">Geri Tuşu</string>
@@ -4272,7 +4243,6 @@
   <string name="status_bar_settings_all_app_display_loading">Biraz bekleyin...</string>
   <string name="status_bar_settings_app_notification_preferences">Uygulama Ayarları</string>
   <string name="status_bar_settings_basic_settings">Temel Ayarlar</string>
-  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Operatör adını düzenle</string>
   <string name="status_bar_settings_custom_wifi_name">WLAN adını düzenle</string>
   <string name="status_bar_settings_enable_notification">Bildirimleri göster</string>
@@ -4448,8 +4418,6 @@
   <string name="suggestions_title">Öneriler</string>
   <string name="sum_carrier_select">Bir ağ operatörü seçin</string>
   <string name="summary_divider_text">", "</string>
-  <string name="summary_font_size">%1$s</string>
-  <string name="summary_range_symbol_combination">%1$s - %2$s</string>
   <string name="summary_range_verbal_combination">" %2$s / %1$s"</string>
   <string name="super_resolution_access_title">Erişilebilir uygulamalar</string>
   <string name="super_resolution_desc">Bir AI algoritması kullanarak görüntüleri daha canlı hale getirin</string>
@@ -4505,7 +4473,6 @@
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Şimdi eşitleniyor…</string>
   <string name="sync_is_failing">Eşitleme şu an problemli. Kısa süre sonra yeniden denenecek.</string>
-  <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Eşitlemeyi iptal et</string>
   <string name="sync_menu_sync_now">Şimdi eşitle</string>
   <string name="sync_now">Eşitle</string>

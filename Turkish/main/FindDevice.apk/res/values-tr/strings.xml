@@ -27,7 +27,6 @@ Lütfen satış temsilcinize başvurun."</string>
   <string name="find_device_notice">Cihazınızı bulmak, kilitlemek veya geri yüklemek için&lt;br /&gt;&lt;b&gt;&lt;font color=#e84700&gt;i.mi.com&lt;/font&gt;&lt;/b&gt;&lt;br /&gt;adresine gidin.</string>
   <string name="find_device_noise_title">Telefonu Bul Alarmı</string>
   <string name="find_device_notice_p1">Git</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">Cihazınızı bulmak, kilitlemek veya geri yüklemek için.</string>
   <string name="find_device_notice_sms_alert">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak başka bir SMS gönderilebilir.</string>
   <string name="find_device_stop_noise">Sessiz için Tamam\'a dokunun</string>

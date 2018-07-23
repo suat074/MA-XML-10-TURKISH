@@ -343,12 +343,6 @@
     <item>PIN</item>
     <item>Şifre</item>
   </string-array>
-  <string-array name="change_security_lock_picker_key">
-    <item>yüz</item>
-    <item>desen</item>
-    <item>sayısal</item>
-    <item>karışık</item>
-  </string-array>
   <string-array name="check_importance_entries">
     <item>Tavsiye edilen</item>
     <item>Önemli</item>

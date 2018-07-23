@@ -31,7 +31,6 @@
   <string name="alert_dialog_yes">Evet</string>
   <string name="antispam_local_marked">Yerel işaretli</string>
   <string name="antispam_marked_count">%1$d MIUI kullanıcısı tarafından bildirildi</string>
-  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Bilinmeyen numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
   <string name="areacode_set_default">Varsayılan olarak ayarla</string>
@@ -731,7 +730,6 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="phone_entered_ecm_text">Acil Durum Çağrı Moduna giriş yapıldı</string>
   <string name="phone_in_ecm_call_notification_text">Veri bağlantısı devre dışı</string>
   <string name="phone_in_ecm_notification_title">Acil Geri Arama Modu</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">İletişim bilgileri alınıyor...</string>
   <string name="pin2_changed">PIN2 başarıyla değiştirildi.</string>
   <string name="pin2_invalid">"Yanlış bir PIN girdiğiniz için FDN güncellenmedi."</string>

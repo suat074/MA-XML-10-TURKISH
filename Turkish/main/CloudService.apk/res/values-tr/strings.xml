@@ -86,8 +86,6 @@
   <string name="find_device_disabling">Kapatılıyor…</string>
   <string name="find_device_dspt">Uzaktan cihazın; Konumu, Kilitlenmesi veya Sıfırlanması sağlayın</string>
   <string name="find_device_dspt_provision">Eğer cihazını kaybedecek olursanız; %s konumu, kilitlenmesini veya sıfırlanmasını yapabilirsiniz. Bu özelliği istediğiniz zaman Ayarlar\'dan açıp/kapatabilirsiniz.</string>
-  <string name="find_device_dspt_provision_2">i.mi.com</string>
-  <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
   <string name="find_device_dspt_provision_3">. Bu özelliği istediğiniz zaman Ayarlar\'dan açıp/kapatabilirsiniz.</string>
   <string name="find_device_dspt_provision_4">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS gönderilecektir.</string>
   <string name="find_device_enabling">Açılıyor...</string>
@@ -260,7 +258,6 @@
   <string name="micloud_find_device_open_fail">Cihazı Bul açılamadı</string>
   <string name="micloud_find_device_opened">Cihazı Bul açık</string>
   <string name="micloud_find_device_opened_content">" %s telefonunuzu bulun"</string>
-  <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_find_device_sms_alert">Bu servisi etkinleştirmek SMS mesajı gönderilmesi gerekir. Bu mesaj için operatörünüz sizi ücretlendirebilir. SIM kartınızı değiştirdiğinizde, bu özelliği yeniden etkinleştirmek için otomatik olarak bir mesaj daha gönderilebilir.</string> 
   <string name="micloud_find_device_verify_button">Cihazı Bul\'u tekrar etkinleştir</string>
@@ -524,8 +521,6 @@
   <string name="sync_dspt_provision">"Fotoğrafları, kişileri, notları ve daha fazlasını eşitleyin, her yerden erişin "</string>
   <string name="sync_dspt_provision_header">Eşitle</string>
   <string name="sync_dspt_provision_title">Mi Bulut</string>
-  <string name="sync_dspt_provision2">i.mi.com</string>
-  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">. Bu özelliği istediğiniz zaman Ayarlardan açıp/kapatabilirsiniz.</string>
   <string name="sync_item_calllog_summary">Arama ses kayıtlarını eşitle</string>
   <string name="sync_item_calllog_title">Çağrı geçmişini eşitle</string>

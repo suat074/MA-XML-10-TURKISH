@@ -763,10 +763,6 @@
   <string name="keyguard_charged">Şarj oldu</string>
   <string name="keyguard_charging_info_battery_used_time_text">Pilde</string>
   <string name="keyguard_charging_info_click_to_detail">Detaylara bak</string>
-  <string name="keyguard_charging_info_data_c">%s℃</string>
-  <string name="keyguard_charging_info_data_ma">%smA</string>
-  <string name="keyguard_charging_info_data_percent">%%%s</string>
-  <string name="keyguard_charging_info_data_v">%sV</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Boşalma</string>
   <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Bugün %s</string>
@@ -778,7 +774,6 @@
   <string name="keyguard_charging_info_tip_text4">Cihazınızın aşırı ısınmasını önlemek için şarj ederken aktif olarak kullanmayın.</string>
   <string name="keyguard_charging_info_tip_text5">Piller normalden daha sıcak olduklarında daha fazla şarj olurlar.</string>
   <string name="keyguard_charging_info_tip_text6">Ekranı kapatın ve soğutmak için cihazınızdan uzaklaşın.</string>
-  <string name="keyguard_fancy_colon"></string>
   <string name="keyguard_indication_charging_time">Şarj oluyor (Tam doluma %s)</string>
   <string name="keyguard_indication_charging_time_fast">Hızlı şarj (Tam doluma %s)</string>
   <string name="keyguard_indication_charging_time_slowly">Yavaş şarj (Tam doluma %s)</string>
@@ -794,7 +789,6 @@
   <string name="keyguard_missing_sim_instructions_long">SIM kart yok veya okunamıyor. SIM kart takın.</string>
   <string name="keyguard_missing_sim_message">Telefonda SIM kart yok.</string>
   <string name="keyguard_missing_sim_message_short">SIM kart yok</string>
-  <string name="keyguard_more_overflow_text">+%d</string>
   <string name="keyguard_network_locked_message">Ağ kilitli</string>
   <string name="keyguard_password_enter_password_code">Kilidini açmak için şifreyi yazın</string>
   <string name="keyguard_password_enter_pin_code">PIN kodunu yazın</string>
@@ -1004,7 +998,6 @@
   <string name="notification_default_channel_desc">Bu uygulamanın bildirim kategorileri yok</string>
   <string name="notification_done">Tamam</string>
   <string name="notification_group_collapse_button_text">Daralt</string>
-  <string name="notification_group_divider_symbol">" • "</string>
   <string name="notification_header_default_channel">Bildirimler</string>
   <string name="notification_header_title">Bildirimler</string>
   <string name="notification_hidden_by_policy_text">Politika tarafından gizlenen içerikler</string>
@@ -1069,7 +1062,6 @@
   <string name="picture_color_mode_desc">sRGB\'yi kullan</string>
   <string name="pip_close">PIP kapat</string>
   <string name="pip_fullscreen">Tam ekran</string>
-  <string name="pip_menu_bounds">596 280 1324 690</string>
   <string name="pip_menu_title">Resim içerisinde resim menüsü</string>
   <string name="pip_notification_message">%s uygulamasının bu özelliği kullanmasını istemiyorsanız, ayarları açmak ve özelliği kapatmak için dokunun.</string>
   <string name="pip_notification_title">%s resim içerisinde resim modunda</string>
@@ -1080,7 +1072,6 @@
   <string name="pip_phone_expand">Genişlet</string>
   <string name="pip_phone_minimize">Küçült</string>
   <string name="pip_play">Oynat</string>
-  <string name="pip_settings_bounds">662 756 1142 1026</string>
   <string name="pip_skip_to_next">Sonrakine git</string>
   <string name="pip_skip_to_prev">Öncekine git</string>
   <string name="please_slide_agian">Tekrar kaydır</string>

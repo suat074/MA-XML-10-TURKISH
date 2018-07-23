@@ -352,7 +352,6 @@ kullanarak numarayı ara"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Özellik kodu tamamlandı.</string>
   <string name="fcError">Bağlantı sorunu veya geçersiz özellik kodu.</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Bul</string>
   <string name="find_next">Sonrakini bul</string>
   <string name="find_on_page">Sayfada bul</string>
@@ -548,7 +547,6 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="kg_reordering_delete_drop_target_text">Kaldır</string>
   <string name="kg_sim_pin_instructions">SIM PIN kodunu girin</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIM kart kilidi açılıyor…</string>
-  <string name="kg_text_message_separator">" — "</string>
   <string name="kg_too_many_failed_attempts_countdown">%1$d saniye içinde tekrar deneyin.</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Şifrenizi %1$d kez yanlış yazdınız. 
 
@@ -793,7 +791,6 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="needPuk2">Engellenen SIM kartı açmak için PUK2 kodunu yazın.</string>
   <string name="negative_duration">−%1$s</string>
   <string name="network_available_sign_in">Ağda oturum açın</string>
-  <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="new_app_action">%1$s uygulamasını başlat</string>
   <string name="new_app_description">Kaydetmeden eski uygulamayı durdurun.</string>
   <string name="new_sms_notification_content">Görüntülenecek SMS uygulamasını açın</string>
@@ -811,7 +808,6 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="notification_hidden_text">İçerik gizli</string>
   <string name="notification_inbox_ellipsis">…</string>
   <string name="notification_listener_binding_label">Bildirim dinleyici</string>
-  <string name="notification_messaging_title_template">%1$s: %2$s</string>
   <string name="notification_ranker_binding_label">Bildirim sıralama hizmeti</string>
   <string name="notification_title">%1$s hesabında oturum açılamadı</string>
   <string name="notification_work_profile_content_description">İş profili</string>
@@ -1332,33 +1328,6 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="ssl_ca_cert_warning">Ağ izlenebilir</string>
   <string name="ssl_certificate">Güvenlik Sertifikası</string>
   <string name="ssl_certificate_is_valid">Bu sertifika geçerli.</string>
-  <string name="status_bar_alarm_clock">alarm_clock</string>
-  <string name="status_bar_battery">battery</string>
-  <string name="status_bar_bluetooth">bluetooth</string>
-  <string name="status_bar_cast">cast</string>
-  <string name="status_bar_cdma_eri">cdma_eri</string>
-  <string name="status_bar_clock">clock</string>
-  <string name="status_bar_data_connection">data_connection</string>
-  <string name="status_bar_data_saver">data_saver</string>
-  <string name="status_bar_headset">headset</string>
-  <string name="status_bar_hotspot">hotspot</string>
-  <string name="status_bar_ime">ime</string>
-  <string name="status_bar_location">location</string>
-  <string name="status_bar_managed_profile">managed_profile</string>
-  <string name="status_bar_mute">mute</string>
-  <string name="status_bar_nfc">nfc</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="status_bar_phone_evdo_signal">phone_evdo_signal</string>
-  <string name="status_bar_phone_signal">phone_signal</string>
-  <string name="status_bar_rotate">rotate</string>
-  <string name="status_bar_secure">secure</string>
-  <string name="status_bar_speakerphone">speakerphone</string>
-  <string name="status_bar_sync_active">sync_active</string>
-  <string name="status_bar_sync_failing">sync_failing</string>
-  <string name="status_bar_tty">tty</string>
-  <string name="status_bar_volume">volume</string>
-  <string name="status_bar_wifi">wifi</string>
-  <string name="status_bar_zen">zen</string>
   <string name="stk_cc_ss_to_dial">SS isteği DIAL isteği olarak değiştirildi.</string>
   <string name="stk_cc_ss_to_ss">SS isteği yeni SS isteği olarak değiştirildi.</string>
   <string name="stk_cc_ss_to_ussd">SS isteği USSD isteği olarak değiştirildi.</string>
@@ -1552,7 +1521,6 @@ Kapatmak ister misiniz?"</string>
   <string name="zen_mode_feature_name">Rahatsız Etme</string>
   <string name="zen_mode_forever">Kapatılana Kadar</string>
   <string name="zen_mode_forever_dnd">Rahatsız Etme özelliği kapatılana kadar</string>
-  <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">%1$s saate kadar</string>
   <string name="press_color_to_apply">Seçmek için renk üzerine tıklayın</string>
   <string name="auto_app_launch">Başlatmak için uygulama</string>

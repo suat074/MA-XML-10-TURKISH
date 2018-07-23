@@ -24,7 +24,6 @@
   <string name="administrative_disable">Yönetici kapalı</string>
   <string name="administrative_enable">Yönetici etkin</string>
   <string name="advanced_settings">Diğer Ayarlar</string>
-  <string name="advanced_settings_container">Ek konteyner parametreleri</string>
   <string name="advanced_settings_hide">Tümünü gizlemek için dokunun ▼</string>
   <string name="advanced_settings_show">Tümünü göstermek için dokunun ▲</string>
   <string name="advertisements_disable">Reklamlar devre dışı</string>
@@ -549,7 +548,6 @@
   <string name="disable_sim_pin">SIM PIN devre dışı</string>
   <string name="disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
   <string name="disabled_by_admin_summary_text">Yönetici tarafından kontrol edilir</string>
-  <string name="display_name">Ekran adı</string>
   <string name="display_name_summary">&lt;Kullanıcı adıyla aynı&gt;</string>
   <string name="display_name_title">Görünen Adı</string>
   <string name="domain_address_title">Sunucu</string>
@@ -979,7 +977,6 @@
   <string name="outgoingcall_title">Giden sonrası</string>
   <string name="overlay_display_devices_title">İkincil ekranları taklit edin</string>
   <string name="overseas_roaming_setting">Veri Dolaşımı</string>
-  <string name="password">Şifre</string>
   <string name="password_changed">Şifre değiştirildi</string>
   <string name="password_title">Şifre</string>
   <string name="path_answer_state_setting_title">Sistem Uygulamaları/Telefon/Gelen Çağrı Ayarları</string>
@@ -1409,7 +1406,6 @@
   <string name="time_end_minute">dakika</string>
   <string name="time_formate_am">ÖÖ</string>
   <string name="time_formate_pm">ÖS</string>
-  <string name="time_interval_char">:</string>
   <string name="time_next_day"> ertesi gün</string>
   <string name="time_start">Şurdan:</string>
   <string name="time_start_hour">saat</string>
@@ -1419,7 +1415,6 @@
   <string name="to_hint">1111:to;sip:abby@example.com:bcc;sip:bill@example.com:cc;</string>
   <string name="track_frame_time">Profil GPU oluşturma</string>
   <string name="transition_animation_scale_title">Geçiş animasyon ölçeği</string>
-  <string name="transport">Protokol</string>
   <string name="transport_title">Taşıma Tipi</string>
   <string name="tts_default_lang_summary">Konuşulan metnin dile özgü sesini ayarlar</string>
   <string name="tts_default_lang_title">Dil</string>
@@ -1467,7 +1462,6 @@
   <string name="usb_audio_disable_routing">USB ses yönlendirmeyi devre dışı bırak</string>
   <string name="usb_audio_disable_routing_summary">USB ses çevre birimlerine otomatik yönlendirmeyi devre dışı bırak</string>
   <string name="user_guest">Konuk</string>
-  <string name="username">Kullanıcı adı</string>
   <string name="username_title">Kullanıcı adı</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="ussdRunning">USSD kodu çalışıyor...</string>

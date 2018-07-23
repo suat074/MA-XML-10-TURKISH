@@ -176,7 +176,6 @@
     <string name="file_size">Boyut:</string>
     <string name="file_title">Adı:</string>
     <string name="file_width_height">Boyut:</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">Yeni Mesaj</string>
     <string name="forward_from">İleten:</string>
     <string name="forward_prefix">"İLT: "</string>
@@ -517,7 +516,6 @@
     <string name="send_signature_confirm_dialog_title">Mesaj gönder</string>
     <string name="send_sms">Mesaj gönder</string>
     <string name="send_to">Kime:</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">Gönderim: %1s</string>
     <string name="sent_label">"Gönderildi: "</string>
     <string name="service_message_not_found">Mesajın süresi doldu veya kullanılamıyor.</string>
@@ -664,9 +662,6 @@ Yapılan girişim: %s."</string>
     <string name="pref_title_auto_delete">Eski mesajları sil</string>
     <string name="pref_title_mms_retrieval_during_international_roaming">Uluslararası dolaşımda MMS içeriğini indir</string>
     <string name="pref_title_mms_retrieval_during_national_roaming">Ulusal dolaşımda MMS içeriğini indir</string>
-    <string name="prefDefault_vibrateWhen">asla</string>
-    <string name="prefDefault_vibrate_false">asla</string>
-    <string name="prefDefault_vibrate_true">her zaman</string>
     <string name="sqlite_disk_full">Cihazınızdaki depolama alanı dolu.</string>
     <string name="sqlite_low_memory">Yeterli depolama alanı yok</string>
     <string name="button_emoji_creature">Hayvan emojisi</string>
