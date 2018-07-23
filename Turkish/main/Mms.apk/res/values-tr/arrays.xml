@@ -31,11 +31,6 @@
     <item>Sadece sessizde iken</item>
     <item>Asla</item>
   </string-array>
-  <string-array name="prefValues_vibrateWhen">
-    <item>her zaman</item>
-    <item>sessiz</item>
-    <item>asla</item>
-  </string-array>
   <string-array name="resent_via_entries_mms">
     <item>SMS</item>
     <item>Mi Mesajı</item>
@@ -61,9 +56,4 @@
     <item>Mi Mesaj</item>
     <item>CMCC Akıllı SMS</item>
   </string-array>
-  <string-array name="prefValues_vibrateWhen">
-    <item>her zaman</item>
-    <item>sessiz</item>
-    <item>asla</item>
-  </string-array>  
 </resources>
