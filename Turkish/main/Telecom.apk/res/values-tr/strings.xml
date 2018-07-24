@@ -405,7 +405,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="power_discharging_duration">^1 - yaklaşık ^2 kaldı</string>
   <string name="power_discharging_duration_enhanced">^1 - kullanımınıza göre yaklaşık ^2 kaldı</string>
   <string name="power_discharging_duration_short">^1 - ^2 kalan</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">^1 - tam doluma ^2 kaldı</string>
   <string name="pull_to_call_back">Tap to pull</string>
   <string name="remaining_length_format">%1$s kaldı</string>
