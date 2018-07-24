@@ -158,4 +158,12 @@
     <item quantity="other">%d dakika kaldı</item>
     <item quantity="one">%d dakika kaldı</item>
   </plurals>
+  <plurals name="comment_input_length_invalid">
+    <item quantity="other">%1$d karaktere kadar girebilirsiniz.</item>
+    <item quantity="one">%1$d karaktere kadar girebilirsiniz.</item>
+    </plurals>
+  <plurals name="swipe_to_load_head_complete_success">
+    <item quantity="other">Selam %1$s! İşte sizin için %1$d güncellemesi:</item>
+    <item quantity="one">Selam %1$s! İşte sizin için %1$d güncellemesi:</item>
+  </plurals> 
 </resources>
