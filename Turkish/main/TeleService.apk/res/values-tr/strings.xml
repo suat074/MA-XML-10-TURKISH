@@ -332,7 +332,7 @@
   <string name="card_title_dialing">Aranıyor</string>
   <string name="card_title_forwardcheckreceived">Çağrı yönlendirme tespit edildi ve alındı</string>
   <string name="card_title_forwarded_MTcall">Yönlendirilmiş Gelen Çağrı</string>
-  <string name="card_title_hanging_up">Kapatıyorum</string>
+  <string name="card_title_hanging_up">Kapatıyorum </string>
   <string name="card_title_in_call">Çağrıda</string>
   <string name="card_title_incoming_barred">Gelen Engelli Çağrı</string>
   <string name="card_title_incoming_call">Gelen çağrı</string>

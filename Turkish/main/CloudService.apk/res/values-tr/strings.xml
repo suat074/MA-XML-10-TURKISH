@@ -579,5 +579,6 @@
   <string name="hybrid_network_access_denied">Ağ erişimi reddedildi</string>
   <string name="hybrid_network_unavaliable">Ağa bağlanılamıyor</string>
   <string name="hybrid_service_unavailiable">Hizmet kullanılamıyor</string>
-  <string name="hybrid_try_again">Tekrar dene</string>  
+  <string name="hybrid_try_again">Tekrar dene</string> 
+  <string name="close_shortcut">Kapat</string>
 </resources>

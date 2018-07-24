@@ -98,4 +98,5 @@
   <string name="work_profile_setup_later_message">İş profilini sonra cihaz yönetiminden ayarlayabilirsiniz.</string>
   <string name="work_profile_setup_later_title">Profil durdurulsun mu?</string>
   <string name="work_profile_setup_stop">Dur</string>
+  <string name="user_is_not_owner">İş profillerinin cihazın birincil kullanıcısı tarafından ayarlanması gerekir</string>
 </resources>

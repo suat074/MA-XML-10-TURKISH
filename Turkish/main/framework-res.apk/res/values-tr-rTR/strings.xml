@@ -1525,4 +1525,18 @@ Kapatmak ister misiniz?"</string>
   <string name="press_color_to_apply">Seçmek için renk üzerine tıklayın</string>
   <string name="auto_app_launch">Başlatmak için uygulama</string>
   <string name="move_button_text">Düğme</string>
+  <string name="EmergencyCallWarningSummary">Acil durum çağrıları için mobil ağ gereklidir.</string>
+  <string name="EmergencyCallWarningTitle">WLAN çağrısı aktif</string>
+  <string name="notification_channel_mobile_data_status">Mobil veri durumu</string>
+  <string name="notification_reply_button_accessibility">Cevapla</string>
+  <string name="popup_window_default_title">Açılır Pencere</string>
+  <string name="usb_unsupported_audio_accessory_message">Eklenen cihaz bu telefonla uyumlu değil. Daha fazla bilgi için dokunun.</string>
+  <string name="usb_unsupported_audio_accessory_title">Analog ses aksesuarı tespit edildi</string>
+  <string name="wifi_available_action_all_networks">Tüm Ağlar</string>
+  <string name="wifi_available_action_connect">Bağlan</string>
+  <string name="wifi_available_content_failed_to_connect">Tüm ağları görmek için dokunun</string>
+  <string name="wifi_available_title">WLAN ağını açmak için bağlanın</string>
+  <string name="wifi_available_title_connected">WLAN ağına bağlandı</string>
+  <string name="wifi_available_title_connecting">WLAN ağını açmak için bağlanıyor</string>
+  <string name="wifi_available_title_failed_to_connect">WLAN ağına bağlanılamadı</string> 
 </resources>

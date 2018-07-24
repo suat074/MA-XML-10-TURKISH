@@ -66,4 +66,5 @@ Anahtar: %2$
 "</string>
   <string name="wifi_ttls_config_text">"Kullanıcı adı: %s
 "</string>
+  <string name="storage_error">Sertifika kaydedilemedi. Yeniden denemek için Tamam\'a dokunun.</string> 
 </resources>
