@@ -684,7 +684,7 @@ Yapılan girişim: %s."</string>
     <string name="url_scan_again">Tekrar kontrol et</string> 
     <string name="notification_channel_msg_description">Mesaj bildirimi</string>
     <string name="notification_channel_msg_name">Mesaj</string>
-    <string name="notification_channel_other_description">Mesaj olmadan bildirim/string>
+    <string name="notification_channel_other_description">Mesaj olmadan bildirim</string>
     <string name="notification_channel_other_name">Diğer</string>
     <string name="notification_channel_sim1_description">SIM1 mesaj bildirimi</string>
     <string name="notification_channel_sim1_name">SIM1 Mesajı</string>
