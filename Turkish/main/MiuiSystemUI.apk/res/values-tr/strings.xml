@@ -918,7 +918,6 @@
   <string name="menu_ime">Klavye değiştirici</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ile kilit açıldı</string>
   <string name="miui_ringer_count_down">Geri sayım</string>
-  <string name="miui_ringer_count_down_time">Geri sayım: %s</string>
   <string name="miui_ringer_standard">Sessiz</string>
   <string name="miui_ringer_standard_description">Gelen aramalar ve bildirimler için zil sesleri sessiz</string>
   <string name="miui_ringer_total">Rahatsız etme</string>
@@ -1667,4 +1666,6 @@
   <string name="data_saver_enable_button">Aç</string>
   <string name="data_saver_enable_title">Veri Tasarrufu açılsın mı?</string> 
   <string name="keyguard_left_mi_wallet">Mi Cüzdan</string>
+  <string name="accessibility_quick_settings_alarm_on">Alarm açık.</string>
+  <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bluetooth cihaz pili yüzde %d.</string>  
 </resources>

@@ -1078,7 +1078,7 @@ mevcut değil"</string>
   <string name="which_call_to_activate">Hangi çağrı etkinleştirilsin?</string>
   <string name="wild_prompt_str">Joker karakteri değiştirin</string>
   <string name="wrong_password">Şifre hatası</string>
-  <string name="video_crbt_title">%s video zil sesi</string>
+  <string name="video_crbt_title">Diğer tarafın video zil sesi çalınıyor</string>
   <string name="crbt_second_hold_prompt">%s beklemede…</string>
   <string name="crbt_second_hold_prompt_conference">Konferans görüşmesi beklemede…</string>
   <string name="crbt_second_hold_prompt_no_name">Önceki çağrı beklemede…</string>

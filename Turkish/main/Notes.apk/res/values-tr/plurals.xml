@@ -25,7 +25,7 @@
         <item quantity="one">%d saniye kaldı</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%s Karakter</item>
-        <item quantity="one">%s Karakter</item>
+        <item quantity="other">%d karakter</item>
+        <item quantity="one">%d karakter</item>
     </plurals>	
 </resources>

@@ -678,10 +678,18 @@ Yapılan girişim: %s."</string>
     <string name="dialog_title_fake_cell_detect_error">Düzelt</string>
     <string name="draft">Taslak</string>
     <string name="fake_cell_alert_detect_error">Bu sahte bir baz hücresinden gönderilmedi</string> 
-    <string name="notification_channel_description">Mesajlaşma Bildirimleri</string>
-    <string name="notification_channel_name">Mesajlaşma</string>
     <string name="notification_copy">OTP\'yi kopyala</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="toast_pending_hangup_msg">Çağrı sona erdikten sonra mesaj gönderilecektir</string>
-    <string name="url_scan_again">Tekrar kontrol et</string>    
+    <string name="url_scan_again">Tekrar kontrol et</string> 
+    <string name="notification_channel_msg_description">Mesaj bildirimi</string>
+    <string name="notification_channel_msg_name">Mesaj</string>
+    <string name="notification_channel_other_description">Mesaj olmadan bildirim/string>
+    <string name="notification_channel_other_name">Diğer</string>
+    <string name="notification_channel_sim1_description">SIM1 mesaj bildirimi</string>
+    <string name="notification_channel_sim1_name">SIM1 Mesajı</string>
+    <string name="notification_channel_sim2_description">SIM2 mesaj bildirimi</string>
+    <string name="notification_channel_sim2_name">SIM2 Mesajı</string>
+    <string name="notification_group_name">Mesajlaşma</string>
+    <string name="unsubscribe">Abonelikten çık</string>	
 </resources>

@@ -126,7 +126,6 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="notealert_enter">Notu Aç</string>
   <string name="notealert_ok">Reddet</string>
   <string name="notelist_menu_new">Not Ekle</string>
-  <string name="notelist_string_info">...</string>
   <string name="notify_alarm_title">Not Hatırlatıcı</string>
   <string name="permdesc_accessNote">Kötü niyetli uygulamalar bunu kişisel bilgilerinize erişmek için kullanabilir.</string>
   <string name="permlab_accessNote">Notlara Erişim</string>
@@ -226,9 +225,6 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="trash_folder_reminder">Sildiğiniz notlar 30 gün içinde kalıcı olarak silinir.</string>
   <string name="undo">Geri Al</string>
   <string name="unknown_source">Bilinmeyen kaynak</string>
-  <string name="welcome_note_for_cm">"Ve daha büyük özellikler!
-  - Mi Bulut ile eşitle 
-  - Hatırlatıcı Ayarları"</string>
   <string name="widget_content_loading">Biraz bekleyin...</string>
   <string name="widget_havenot_content">Bir not oluşturmak için dokunun. Yeniden boyutlandırmak için Araçlar\'a basılı tutun.</string>
   <string name="widget_under_privacy_mode">"Misafir Modunda notları görüntüleyemezsiniz"</string>

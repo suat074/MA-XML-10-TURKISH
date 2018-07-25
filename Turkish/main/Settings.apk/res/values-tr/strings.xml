@@ -954,7 +954,6 @@
   <string name="cancel_action">İptal</string>
   <string name="cancel_alert">Değişiklikler iptal edilsin mi?</string>
   <string name="cancel_button">iptal</string>
-  <string name="cancel_description">İptal</string>
   <string name="cancel_download_buton_text">İptal</string>
   <string name="cant_sync_dialog_message">Bu öğe için Eşitleme şu anda devre dışı. Bu ayarı değiştirmek için, geçici olarak arka plan verilerini ve otomatik eşitlemeyi açın.</string>
   <string name="cant_sync_dialog_title">Elle eşitlenemez</string>
@@ -1089,7 +1088,6 @@
   <string name="confirm_action">Tamam</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Ekle</string>
   <string name="confirm_convert_to_fbe_warning">Gerçekten kullanıcı verilerisilinsin ve dosya şifrelemesine dönüştürülsün mü?</string>
-  <string name="confirm_description">Onayla</string>
   <string name="confirm_download_cancelation_dialog_message">İndirme iptal edilsin mi?</string>
   <string name="confirm_enable_oem_unlock_text">UYARI: Cihaz koruma özelliği bu ayar açıldığında çalışmaz.</string>
   <string name="confirm_enable_oem_unlock_title">OEM kilidi açılsın mı?</string>
@@ -4564,8 +4562,7 @@
   <string name="toast_lockscreen_glogin_empty_password">Şifreyi girin</string>
   <string name="toast_need_login">Mi Hesabınızda oturum açın</string>
   <string name="total">Rahatsız Etme</string>
-  <string name="total_info">Sessiz alarmlar dışında %1$s sesleri</string>
-  <string name="total_info_sub">ve titreşimi kapat</string>
+  <string name="total_info">Alarm haricinde sesler sessiz ve titreşim devre dışı</string>
   <string name="total_memory">Toplam Hafıza</string>
   <string name="total_size">Toplam: %s</string>
   <string name="total_size_label">Toplam</string>
@@ -5733,4 +5730,5 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="structure_face_enroll_not_able_low_electric_itle">Düşük pil nedeniyle bu özelliği kullanamazsınız</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Kaydın başlaması için pilin şarjı en az 5% olmalıdır.</string>
   <string name="status_bar_settings_notification_shade_shortcut">Bildirim alanı kısayolu</string>
+  <string name="total_info_no_vibrator">Alarm dışında sesler sessiz</string>
 </resources>

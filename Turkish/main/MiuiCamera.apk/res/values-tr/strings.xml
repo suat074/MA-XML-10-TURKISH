@@ -577,4 +577,6 @@ kullanabilirsiniz"</string>
   <string name="lighting_pattern_stage">Aşama</string>
   <string name="pref_camera_super_resolution_title">SR\'yi aç</string>
   <string name="pref_google_lens">Google lens</string>
+  <string name="pref_camera_video_bokeh_off">Video bokeh kapalı</string>
+  <string name="pref_camera_video_bokeh_on">Video bokeh</string>  
 </resources>
