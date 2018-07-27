@@ -316,5 +316,6 @@
   <string name="feedback_status_upload_log_failed">Ekler yüklenemedi</string>  
   <string name="toast_loading_app_id">Bilgi alınıyor…</string>
   <string name="reply_option_log_hint">İsteğe bağlı</string>
-  <string name="reply_select_log_hint">Günlük dosyasını seçin</string>  
+  <string name="reply_select_log_hint">Günlük dosyasını seçin</string>
+  <string name="mobile_data_note_dialog_content">Ücretli bir ağa bağlı olduğunuz anlaşılıyor. Günlükleri yüklemek ek ücretler oluşturabilir</string>
 </resources>

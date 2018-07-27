@@ -2751,8 +2751,6 @@
   <string name="navigation_guide_app_title">Uygulama tetikleme eylemi</string>
   <string name="navigation_guide_appswitch_summary">Ekranın kenarından sola veya sağa kaydırın ve bir süre basılı tutun</string>
   <string name="navigation_guide_appswitch_title">Önceki uygulamaya geç</string>
-  <string name="navigation_guide_back_anim_summary">Animasyon ile hareketi göster</string>
-  <string name="navigation_guide_back_anim_title">Geri hareket animasyonu</string>
   <string name="navigation_guide_back_summary">Ekrandan sola veya sağa kaydırın</string>
   <string name="navigation_guide_back_title">Son sayfaya dön</string>
   <string name="navigation_guide_dialog_dont_show_again">Tekrar gösterme</string>

@@ -122,7 +122,7 @@
   <string name="deep_clean_completed_tips">Başarıyla temizlendi</string>
   <string name="deep_clean_data_path_clean_title">Önbelleği temizle</string>
   <string name="deep_clean_uninstall_completed_tips">Başarıyla kaldırıldı</string>
-  <string name="deepclean_1_k_clean">Hızlı Temizle</string>
+  <string name="deepclean_1_k_clean">Hafızayı temizle</string>
   <string name="deepclean_apk_content">Gereksiz uygulamaları veya APKları sil</string>
   <string name="deepclean_apk_summary_empty">Herşey güzel gözüküyor, silinecek APK dosyası yok</string>
   <string name="deepclean_apk_version_error">Bilinmiyor</string>
@@ -631,7 +631,7 @@
   <string name="tips_low_storage_dialog_title">Depolama alanı azalıyor</string>
   <string name="clean_long_msg">"%1$d dosya temizleniyor,%2$d tamamlandı 
 %3$d%% öğe/saniye kaldı:%4$s"</string> 
-  <string name="main_total_garbage">Toplam çöp</string>
+  <string name="main_total_garbage">Çöp boyutu</string>
   <string name="whatsapp_btn_quick_cleanup">Seçilen öğeleri sil (%s)</string>
   <string name="whatsapp_clean_exit_confirm_cancel">Taramaya devam et</string>
   <string name="whatsapp_clean_exit_confirm_msg">Whatsapp taramasını bitirmediniz. Şimdi tarama durdurulsun mu?</string>

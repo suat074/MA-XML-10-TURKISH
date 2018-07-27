@@ -1231,9 +1231,9 @@
   <string name="video_editor_smart_effect_radical">İyimser</string>
   <string name="video_editor_smart_effect_rhythm">Nabız</string>
   <string name="video_editor_smart_effect_street">Metropolis</string>
-  <string name="video_editor_smart_effect_time_limit_txt_40">Bu efekti, 40 saniyeye kadar olan videolara uygulayabilirsiniz.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_40">Bu efekt, 40 saniyeden uzun olmayan videolara uygulanabilir. Süre otomatik olarak ayarlandı.</string>
   <string name="video_editor_smart_effect_time_limit_txt_6">Bu efekti en az 6 saniye süren videolara uygulayabilirsiniz.</string>
-  <string name="video_editor_smart_effect_time_limit_txt_60">Bu efekti, 60 saniyeye kadar olan videolara uygulayabilirsiniz.</string>
+  <string name="video_editor_smart_effect_time_limit_txt_60">Bu efekt, 60 saniyeden uzun olmayan videolara uygulanabilir. Süre otomatik olarak ayarlandı.</string>
   <string name="video_editor_text_edit_all">Hepsi</string>
   <string name="video_editor_text_edit_input_all_hint">Metin girin</string>
   <string name="video_editor_unzip_file_fail">Video açılamadı.</string>
@@ -1269,5 +1269,5 @@ mevcut"</string>
   <string name="picker_origin_request_progress_message">Orijinal dosyalar hazırlanıyor (%1$d/%2$d)…</string>
   <string name="search_request_requesting">Uygulandı. Başlamadan önce biraz bekleyin.</string>
   <string name="secret_reason_video_not_support">Gizli albüme video eklenemez</string>
-  <string name="video_editor_video_loading">Video hazırlanıyor, bir iki saniye bekleyin ve tekrar deneyin.</string>  
+  <string name="video_editor_video_loading">Video hazırlanıyor… Bir iki saniye bekleyin ve tekrar deneyin.</string>  
 </resources>
