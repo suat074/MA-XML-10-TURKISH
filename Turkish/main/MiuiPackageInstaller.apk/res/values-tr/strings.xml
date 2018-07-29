@@ -447,13 +447,13 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="permission_group_title_privacy_related">Gizlilik</string>
   <string name="permission_group_title_settings_related">Ayarlar</string>
   <string name="permission_request_title">İzin İsteği</string>
-  <string name="permission_review_title_template_install">%1$s erişmesine izin verileceklerin seçimini yapın</string>
-  <string name="permission_review_title_template_update">%1$s güncellendi. Bu uygulamanın erişmesine izin vereceklerinizi seçin.</string>
-  <string name="permission_review_warning_title_template_update">%1$s güncellendi. %1$s neye erişmesine izin veriyorsunuz?</string>
+  <string name="permission_review_title_template_install">&lt;b&gt;%1$s&lt;/b&gt; için erişebileceği izinleri seçin</string>
+  <string name="permission_review_title_template_update">&lt;b&gt;%1$s&lt;/b&gt; güncellendi. Bu ugulamanın erişebileceği izinleri seçin.</string>
+  <string name="permission_review_warning_title_template_update">%1$s güncellendi. %1$s için aşağıdakilere erişim izni verilsin mi?</string>
   <string name="permission_send_sms_descx">Uygulama SMS ve MMS gönderebilir</string>
   <string name="permission_summary_enforced_by_policy">Politika zorunluluğu:</string>
   <string name="permission_title">%1$s izini</string>
-  <string name="permission_warning_template">"%2$s'daki %1$s izin verilsin mi?</string>
+  <string name="permission_warning_template">%1$s için %2$s izni verilsin mi?</string>
   <string name="permlab_togglePermissions">İzin geçişi</string>
   <string name="privacyPerms">Gizlilik</string>
   <string name="privacy_relative">Gizlilik</string>

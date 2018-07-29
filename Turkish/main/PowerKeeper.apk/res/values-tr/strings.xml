@@ -84,5 +84,7 @@
   <string name="sleepmode_privacy_content">Bu özellik telefonunuzun sistem ve cihaz bilgilerini kullanacaktır. Sunucularımıza yüklenmeyecek.</string>
   <string name="sleepmode_privacy_link">Gizlilik ve güvenlik hakkında daha fazla bilgi edinin</string>
   <string name="sleepmode_privacy_title">Uyku modu</string>
-  <string name="search_result_text">Herhangi bir uygulama bulunamadı</string>  
+  <string name="search_result_text">Herhangi bir uygulama bulunamadı</string>
+  <string name="nonui_mode_config_description">MIUI cihazınızı kullanmadığınızı tespit ettiğinde, bildirimler için ekranı aydınlatmayacak, LED ışığını, parmak izi sensörünü ve dokunmatik kontrolleri kapatacak.</string>
+  <string name="nonui_mode_config_title">Etkileşimsiz mod</string>
 </resources>

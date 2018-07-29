@@ -2896,17 +2896,17 @@
   <string name="notification_channels_other">Diğer</string>
   <string name="notification_content_block_summary">Bildirimleri hiçbir zaman gölgede veya çevre birimi cihazlarında gösterme</string>
   <string name="notification_content_block_title">Bildirim göster</string>
-  <string name="notification_importance_blocked">Bu uygulamadaki bildirimleri asla gösterme</string>
-  <string name="notification_importance_default">Tam ekran kesintisi veya atlama yok</string>
+  <string name="notification_importance_blocked">Bildirimleri asla gösterme</string>
+  <string name="notification_importance_default">Ses çıkar</string>
   <string name="notification_importance_default_title">Yüksek</string>
-  <string name="notification_importance_high">Daima gözetle. Tam ekran kesintisi yok.</string>
+  <string name="notification_importance_high">Ses çıkar ve açılır pencere göster</string>
   <string name="notification_importance_high_title">Acil</string>
-  <string name="notification_importance_low">Tam ekran kesintisi, bakış açısı, ses veya titreşim yok.</string>
+  <string name="notification_importance_low">Ses yok</string>
   <string name="notification_importance_low_title">Orta</string>
-  <string name="notification_importance_min">Tam ekran kesintisi, bakış açısı, ses veya titreşim yok. Bildirim listesinin alt kısmında gösterin. Kilit ekranından ve durum çubuğundan gizle.</string>
+  <string name="notification_importance_min">Ses veya görsel kesinti yok</string>
   <string name="notification_importance_min_title">Düşük</string>
-  <string name="notification_importance_title">Önemli</string>
-  <string name="notification_importance_unspecified">Uygulama, her bildirim için önemi belirler</string>
+  <string name="notification_importance_title">Önem</string>
+  <string name="notification_importance_unspecified">Uygulama bildirim ayarı</string>
   <string name="notification_listener_disable_warning_cancel">İptal</string>
   <string name="notification_listener_disable_warning_confirm">Kapalı</string>
   <string name="notification_listener_disable_warning_summary">%1$s için bildirim erişimini kapatırsanız, Rahatsız Etme erişimi de kapatılabilir.</string>
@@ -3848,7 +3848,7 @@
   <string name="search_sound_settings">Ses;Sesler;Sessiz Mod;Alarm;Müzik;Titreşim;Telefon Zili;Varsayılan Bildirim Sesi;Mesaj alındı;Mesaj teslim edildi;Dokunma;Kilit Ekran Sesi;Ses Ayarları;Gürültüyü önle</string>
   <string name="search_status_bar_settings">Bildirimler &amp; Durum Çubuğu;Bildirimleri;Durum Çubuğu</string>
   <string name="search_status_bar_settings_custom_carrier">Şebeke Adını Düzenle</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Kilit ekranında göster, kilit ekranında göster</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Kilit ekranında göster;kilit ekranında göster</string>
   <string name="search_status_bar_settings_manage_notification">Uygulama Bildirimleri; Bildirimler</string>
   <string name="search_status_bar_settings_show_carrier">Şebeke Adını Göster</string>
   <string name="search_status_bar_settings_show_network_speed">Bağlantı Hızını Göster</string>
@@ -5148,7 +5148,7 @@
   <string name="wifi_aggressive_handover_summary">Etkinleştirildiğinde, Wi-Fi; Wi-Fi sinyali düşük olduğunda, veri bağlantısını Hücresel cihaza aktarmada daha agresif olur</string>
   <string name="wifi_allow_scan_with_traffic">WLAN Dolaşım Taramasına her zaman izin ver</string>
   <string name="wifi_allow_scan_with_traffic_summary">Arayüzde mevcut veri trafiği miktarına dayalı olarak WLAN Dolaşım Taramalarına İzin Ver/İzin Verme</string>
-  <string name="wifi_and_mobile_skipped_message">Wi-Fi\'yi atlarsan:\"\n\n\"Telefonunuzun İnternet bağlantısı olmayacak.\"\n\n\"Internet\'e bağlanana kadar yazılım güncellemelerini almazsınız.\"\n\n\"Şu anda cihaz koruma özelliklerini etkinleştiremezsiniz.</string>
+  <string name="wifi_and_mobile_skipped_message">Telefon yazılımının güncel olduğunu doğrulamak mümkün olmayacaktır</string>
   <string name="wifi_ap_band_config">Erişim Noktası Bandı Seç</string>
   <string name="wifi_ap_choose_2G">2.4 GHz Bandı</string>
   <string name="wifi_ap_choose_5G">5 GHz Bandı</string>
@@ -5729,4 +5729,10 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="structure_face_enroll_not_able_low_electric_msg">Kaydın başlaması için pilin şarjı en az 5% olmalıdır.</string>
   <string name="status_bar_settings_notification_shade_shortcut">Bildirim alanı kısayolu</string>
   <string name="total_info_no_vibrator">Alarm dışında sesler sessiz</string>
+  <string name="install_unknown_applications">Bilinmeyen kaynaklardan uygulama yüklemeye izin ver</string>
+  <string name="manage_device_admin_summary">Cihaz yöneticilerini görüntüleyin veya devre dışı bırakın</string>
+  <string name="device_admin_title">Cihaz yönetimi</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Güvenli kilit ekranında göster</string>
+  <string name="status_bar_settings_notification_sound_custom">Özel ses</string>
+  <string name="status_bar_settings_notification_led_custom">Özel renk</string>  
 </resources>
