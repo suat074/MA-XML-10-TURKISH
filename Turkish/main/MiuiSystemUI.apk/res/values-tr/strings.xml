@@ -1062,7 +1062,7 @@
   <string name="pip_menu_title">Resim içerisinde resim menüsü</string>
   <string name="pip_notification_message">%s uygulamasının bu özelliği kullanmasını istemiyorsanız, ayarları açmak ve özelliği kapatmak için dokunun.</string>
   <string name="pip_notification_title">%s resim içerisinde resim modunda</string>
-  <string name="pip_notification_unknown_title">(Başlık programı yok)</string>
+  <string name="pip_notification_unknown_title">(Program başlığı yok)</string>
   <string name="pip_pause">Duraklat</string>
   <string name="pip_phone_close">Kapat</string>
   <string name="pip_phone_dismiss_hint">Kapatmak için aşağı doğru kaydırın</string>
@@ -1669,5 +1669,6 @@
   <string name="accessibility_quick_settings_alarm_on">Alarm açık.</string>
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bluetooth cihaz pili yüzde %d.</string> 
   <string name="keyguard_left_bankcard">Hesap Makinesi</string>
-  <string name="keyguard_left_buscard">Notlar</string>  
+  <string name="keyguard_left_buscard">Notlar</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Ebeveyn denetimleri açıkken alanlar arasında geçiş yapılamaz</string>
 </resources>

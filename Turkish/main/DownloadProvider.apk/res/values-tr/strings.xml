@@ -93,5 +93,9 @@ Bu indirme işlemini Wi-Fi ağa bir sonraki bağlanmanızda başlatmak için %s 
   <string name="dialog_tip_no_limit">"Uyarma"</string>
   <string name="dialog_tip_limit0">Her defasında uyar</string>
   <string name="dialog_content_limit_max">Sınırsız</string>
-  <string name="dialog_content_limit0">İndirmeleri kısıtla</string>  
+  <string name="dialog_content_limit0">İndirmeleri kısıtla</string> 
+  <string name="channel_active">Aktif indirme</string>
+  <string name="channel_complete">İndirme tamamlandı</string>
+  <string name="channel_insufficient_space">Yetersiz alan</string>
+  <string name="channel_waiting">İndirme bekliyor</string>	  
 </resources>

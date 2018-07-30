@@ -300,7 +300,7 @@
   <string name="app_list_memory_use">Uygulama Kullanımı</string>
   <string name="app_list_preference_none">Yok</string>
   <string name="app_memory_use">Hafıza Kullanımı</string>
-  <string name="app_mobile">Mobil</string>
+  <string name="app_mobile">Mobil veri</string>
   <string name="app_name_label">Uygulama</string>
   <string name="app_name_na">Veri kullanımı</string>
   <string name="app_not_found_dlg_text">Yüklü uygulamalar listesinde uygulama bulunamadı.</string>
@@ -354,7 +354,7 @@
   <string name="apply_now_button_text">Güncelle</string>
   <string name="apply_password_to_category_title">Kilitinin açılması gerekiyor</string>
   <string name="apply_update_fail">Güncellenemedi!</string>
-  <string name="approve_title">Doğrula</string>
+  <string name="approve_title">Sertifika</string>
   <string name="apps_storage">Uygulama Depolaması</string>
   <string name="apps_summary">%1$d uygulama yüklendi</string>
   <string name="apps_summary_example">24 uygulama yüklendi</string>
@@ -5090,21 +5090,21 @@
   <string name="wallpaper_suggestion_summary">Ekranı kişiselleştirin</string>
   <string name="wallpaper_suggestion_title">Duvar Kağıdını değiştir</string>
   <string name="wapi_auto_sel_cert">Otomatik olarak seç</string>
-  <string name="wapi_auto_sel_cert_fail">Sertifika otomatik olarak seçilemiyor. Lütfen listeden bir sertifika seçin ve bağlanmayı deneyin.</string>
-  <string name="wapi_cert_is_not_selected">Lütfen önce sertifikayı seçin</string>
+  <string name="wapi_auto_sel_cert_fail">Sertifikalar otomatik olarak seçilemiyor. Listeden bir sertifika seçin ve bağlanmayı deneyin.</string>
+  <string name="wapi_cert_is_not_selected">İlk önce sertifikayı seçin</string>
   <string name="wapi_cert_manage_summary">WAPI sertifikasını ekle veya sil</string>
   <string name="wapi_cert_manage_title">WAPI sertifikası yönetimi</string>
   <string name="wapi_cert_select">WAPI sertifikası</string>
-  <string name="wapi_no">hayır</string>
-  <string name="wapi_no_vaild_cert">Kullanılabilir sertifika yok, şimdi yükleyin?</string>
-  <string name="wapi_password_empty">Lütfen şifreyi giriniz</string>
-  <string name="wapi_password_hex_format_invalid">Geçersiz onaltılık karakterler</string>
-  <string name="wapi_password_hex_length_invalid">Onaltılı karakterlerin sayısı çift sayı olmalıdır.</string>
-  <string name="wapi_password_length_invalid">Şifre: 8-64 karakter olmalıdır</string>
+  <string name="wapi_no">Hayır</string>
+  <string name="wapi_no_vaild_cert">Gerekli sertifikalar yüklü değil gibi görünüyor. Şimdi yükle?</string>
+  <string name="wapi_password_empty">Parolayı girin</string>
+  <string name="wapi_password_hex_format_invalid">Geçersiz parola biçimi</string>
+  <string name="wapi_password_hex_length_invalid">Onaltılık karakterlerin sayısı bir çift sayı olmalıdır</string>
+  <string name="wapi_password_length_invalid">Şifre 8 ila 64 karakter uzunluğunda olmalıdır</string>
   <string name="wapi_psk_type">Şifre türü</string>
   <string name="wapi_psk_type_ascii">ASCII</string>
   <string name="wapi_psk_type_hex">Onaltılık</string>
-  <string name="wapi_yes">evet</string>
+  <string name="wapi_yes">Evet</string>
   <string name="warm_color">Sıcak</string>
   <string name="web_action_enable_summary">Yüklü olmasalar bile uygulamalardaki bağlantıları açın</string>
   <string name="web_action_enable_title">Hazır uygulamalar</string>
@@ -5703,12 +5703,12 @@
   <string name="status_bar_settings_show_keyguard_notification_summary">Kilit ekranında önemli bildirimlere izin ver</string>
   <string name="flash_drive_backup_restore">USB kullanarak yedekleme veya geri yükleme</string>
   <string name="flash_drive_backup_restore_summary">Bir USB sürücü bağlayın</string>
-  <string name="bt_ldac_declaration">Bluetooth cihazı LDAC destekliyorsa, varsayılan olarak bağlanacaktır. LDAC, yüksek kaliteli ses deneyimi ve daha yüksek güç tüketimi sağlar. Bluetooth donanım sınırlamaları nedeniyle oynatma oluşabilir</string>
+  <string name="bt_ldac_declaration">Bir Bluetooth cihazı LDAC desteklediğinde, varsayılan olarak bağlanır. LDAC, yüksek kaliteli bir ses deneyimi sağlar, ancak güç tüketimini de artırır. Bluetooth donanım sınırlamaları nedeniyle oynatma sırasında sorunlar meydana gelebilir.</string>
   <string name="bt_ldac_dialog_summary">"LDAC yüksek kaliteli ses deneyimi ve daha yüksek güç tüketimi sağlar
 Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="bt_ldac_dialog_title">Geçerli cihaz, varsayılan olarak bağlı olan LDAC destekler:</string>
-  <string name="bt_ldac_open_dialog_summary">LDAC yüksek kaliteli ses deneyimi ve daha yüksek güç tüketimi sağlar. Bluetooth donanım sınırlamaları nedeniyle oynatma oluşabilir</string>
-  <string name="bt_ldac_open_dialog_title">LDAC açtığınızdan emin misiniz?</string>
+  <string name="bt_ldac_open_dialog_summary">LDAC, yüksek kaliteli bir ses deneyimi sağlar, ancak güç tüketimini de artırır. Bluetooth donanım sınırlamaları nedeniyle oynatma sırasında sorunlar meydana gelebilir.</string>
+  <string name="bt_ldac_open_dialog_title">LDAC açılsın mı?</string>
   <string name="bt_ldac_pre_summary">Yüksek kaliteli bir ses deneyimi sağlayın</string>
   <string name="bt_ldac_pre_title">LDAC</string>
   <string name="bt_ldac_property">Öznitelik</string>
@@ -5718,7 +5718,7 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="secspace_fod_finger_title">Parmak izinizi doğrulayın</string>
   <string name="secspace_fod_use_password">Parolanı gir</string> 
   <string name="structure_manage_facerecoginition_text">3B yüz verilerini yönetin</string>
-  <string name="sound_stereo_mode_summary">Sadece hoparlör ile ses çalarken kullanılabilir</string>
+  <string name="sound_stereo_mode_summary">Sadece hoparlör ile çalışır</string>
   <string name="sound_stereo_mode_title">Stereo ses</string>
   <string name="unmute_sound_title">Sesi açma sesi</string>
   <string name="Data_set">" / Veri: "</string>
@@ -5734,5 +5734,8 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="device_admin_title">Cihaz yönetimi</string>
   <string name="status_bar_settings_expandable_under_keyguard">Güvenli kilit ekranında göster</string>
   <string name="status_bar_settings_notification_sound_custom">Özel ses</string>
-  <string name="status_bar_settings_notification_led_custom">Özel renk</string>  
+  <string name="status_bar_settings_notification_led_custom">Özel renk</string>
+  <string name="miui_lab_install_drive_mode_error">Yüklenemedi, tekrar deneyin.</string>
+  <string name="miui_lab_install_drive_mode_summary">Araç modu bir sistem uygulamasıdır. Kurulum internet bağlantısı gerektirmez.</string>
+  <string name="miui_lab_install_drive_mode_title">Araç modunu yükle</string>  
 </resources>

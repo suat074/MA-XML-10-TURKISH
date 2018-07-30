@@ -768,7 +768,7 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="installing_email">Yükleniyor...</string>	
   <string name="action_bar_return">Onay</string>
   <string name="date_calculate_direction_content_description">Yön, geçerli %1s</string>
-  <string name="talk_back_read_date">Geçerli tarih %1$s,%2$s,</string>
+  <string name="talk_back_read_date">%1$s (Ay takvimine göre %2$s).</string>
   <string name="miuishare_account_activate_confirmation">Mi Hesabını Etkinleştir</string>
   <string name="miuishare_account_activate_ok">Etkinleştir</string>
   <string name="miuishare_account_login_cancel">İptal</string>
@@ -803,5 +803,10 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="tab_title_agenda">Etkinlik</string>
   <string name="tab_title_day">Gün</string>
   <string name="tab_title_month">Ay</string>
-  <string name="tab_title_week">Hafta</string>  
+  <string name="tab_title_week">Hafta</string> 
+  <string name="close_alarm">Kapat</string>
+  <string name="guide_card_close">kapat</string>
+  <string name="login_failed_toast">Oturum açılamadı, yenileyin ve tekrar deneyin</string>
+  <string name="talk_back_month">ay</string>
+  <string name="talk_back_setting">ayar</string> 
 </resources>
