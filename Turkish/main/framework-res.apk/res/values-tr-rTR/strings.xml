@@ -232,6 +232,7 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="default_audio_route_name_headphones">Kulaklık</string>
   <string name="default_browser"/>
   <string name="default_media_route_name_hdmi">HDMI</string>
+  <string name="default_notification_channel_label">Kategorisiz</string>
   <string name="decline_remote_bugreport_action">Reddet</string>
   <string name="delete">Sil</string>
   <string name="deleteText">Sil</string>
@@ -1561,5 +1562,5 @@ Kapatmak ister misiniz?"</string>
   <string name="wifi_available_title">WLAN ağını açmak için bağlanın</string>
   <string name="wifi_available_title_connected">WLAN ağına bağlandı</string>
   <string name="wifi_available_title_connecting">WLAN ağını açmak için bağlanıyor</string>
-  <string name="wifi_available_title_failed_to_connect">WLAN ağına bağlanılamadı</string> 
+  <string name="wifi_available_title_failed_to_connect">WLAN ağına bağlanılamadı</string>
 </resources>
