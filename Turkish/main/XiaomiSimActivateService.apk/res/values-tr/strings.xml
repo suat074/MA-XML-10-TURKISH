@@ -117,10 +117,10 @@
   <string name="privacy_revoke_tips">Yetkilendirmeyi iptal ettikten sonra, Mesajlaşma verilerinizi toplamayı durdurur ve tüm verilerinizi sunucularından siler. Mi Bulut, Mi Mesaj ve diğer Mesajlaşma özellikleriyle senkronizasyon artık kullanılamayacak. Yine de yetkilendirme iptal edilsin mi?</string>
   <string name="sim_unactivated_title">SIM kartınız etkin değil</string>
   <string name="activate_feature_voip">Mi Mesaj VoIP</string>
-  <string name="checking_client">istemci env kontrol ediliyor</string>
+  <string name="checking_client">Aktivasyon ortamı kontrol ediliyor</string>
   <string name="error_checking_client">Aktivasyon sırasında bir hata oluştu</string>
   <string name="error_network_io">Bir ağ hatası oluştu</string>
   <string name="error_no_send_sms_permission">Xiaomi SIM Aktivasyon Hizmetinin SMS göndermek için izne ihtiyacı var</string>
-  <string name="error_sim_not_in_service">SIM\'in etkinleştirilmesi bekleniyor</string>
-  <string name="waiting_sim_in_service">sim hizmeti bekleniyor</string>  
+  <string name="error_sim_not_in_service">SIM kartı etkinleştiremezsiniz. Bakiyenizin yeterli olduğundan emin olun</string>
+  <string name="waiting_sim_in_service">SIM\'in etkinleştirilmesi bekleniyor</string>  
 </resources>

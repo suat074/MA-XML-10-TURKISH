@@ -70,12 +70,9 @@
   <string name="summary_not_set">Ayarlanmadı</string>
   <string name="system_navigation_mode">Sistem gezinme modu</string>
   <string name="terms_of_use">Hükümler ve Koşullar</string>
-  <string name="terms_of_use_label">"Gizliliğiniz bizim için çok önemlidir. Lütfen Hizmet Şartları ve Gizlilik Politikasını okuyarak topladığımız bilgileri, nasıl kullandığımızı anlayın.
+  <string name="terms_of_use_label">"Gizliliğiniz bizim için çok önemlidir. Topladığımız bilgileri, bunları nasıl kullandığımızı ve sizin için hangi seçeneklerin bulunduğunu anlamak için Hizmet Şartları ve Gizlilik Politikamızı okuyun.
   
-MIUI\'yi kullanabilmeniz için önce Hizmet Şartlarımızı ve Gizlilik Politikamızı kabul etmeniz gerekir. Etkinleştirme esnasında; Mi Hizmetleri, Telefonu Bul, sistem bileşenlerinden MSA ve istatistik bileşenleri internete bağlanarak konumunuzu tespit eder."</string>
-  <string name="terms_of_use_label_gms">"Gizliliğiniz bizim için çok önemli. Hangi bilgileri topladığımızı, nasıl kullandığımızı ve hangi seçenekleri kullanabileceğinizi anlamak için Hizmet Şartlarımızı ve Gizlilik Politikamızı okuyun.
-  
-MIUI\'yi kullanabilmeniz için önce Hizmet Şartlarımızı ve Gizlilik Politikamızı kabul etmeniz gerekir. Mi hizmetleri, Mi SIM etkinleştirme hizmetleri, Mi Bulut, Cihazı bul, Giriş ekranı, Oyun merkezi, MAB, MiuiDaemon ve MSA sistem bileşenleri, web uygulamaları, hızlı kartlar, istatistikler, akıllı kartlar, Mi Bağlantısı, Mi Hesabı ve Google Play hizmetleri bileşenleri internete bağlanacak ve konumunuzu belirleyecektir."</string>
+MIUI\'yi kullanabilmeniz için Hizmet Şartlarımız ve Gizlilik Politikamızı kabul etmeniz gerekir. %s ve Mi Hesabı bileşenleri internete bağlanır ve konumunuzu alır."</string>
   <string name="title_fingerprint">Şifreyi belirle</string>
   <string name="user_agreement">Hizmet Şartları</string>
   <string name="voice_assist_desp">Telefonunuza \"Mi AI\" deyin. Mi AI sesinizi tanıyacak ve cihazınızı kontrol edebilecek.</string>
@@ -87,7 +84,7 @@ MIUI\'yi kullanabilmeniz için önce Hizmet Şartlarımızı ve Gizlilik Politik
   <string name="start_up_slogan">Tam ekran deneyimi için tasarlandı</string>
   <string name="agree_terms_input_method_facemoji">Facemoji Gizlilik Politikasını okudum ve kabul ettim.</string>
   <string name="agree_terms_input_method_kika">Kika Gizlilik Politikasını okudum ve kabul ettim.</string>
-  <string name="terms_of_use_label_systemhelper">Kendinden kayıtlı servis</string>
+  <string name="terms_of_use_label_systemhelper">, Kendinden kayıtlı servis</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Bu özelliği kullanmadan önce Facemoji Gizlilik Politikasını kabul etmeniz gerekir."</string>
@@ -97,4 +94,7 @@ Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerek
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Gizlilik Politikası</string>
   <string name="terms_privacy_policy_input_method_kika">Kika Gizlilik Politikası</string>
   <string name="voice_assist_desp_screen_light">Ekran ışığı açılınca, telefonunuza \"Mi AI\" deyin. Mi AI sesinizi tanıyacak ve cihazınızı kontrol edebileceksiniz.</string>
+  <string name="terms_of_use_lable_gms">, Google Play hizmetleri</string>
+  <string name="terms_of_use_lable_smart_cards">, Akıllı kartlar</string>
+  <string name="terms_of_use_lable_apps">Mi hizmetleri, Mi SIM etkinleştirme hizmetleri, Mi Bulut, Cihazı bul, Ana ekran, Oyun merkezi, MAB, MIUI Daemon ve MSA sistem bileşenleri, Çeviri hizmetleri, Hızlı uygulamalar, Uygulama kasası, istatistik, Mi Link</string>  
 </resources>

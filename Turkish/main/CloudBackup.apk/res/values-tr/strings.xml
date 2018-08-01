@@ -164,8 +164,8 @@
   <string name="btn_restore_cancel">İptal</string>
   <string name="btn_restore_resume">Devam</string>
   <string name="btn_restore_retry">Tekrar dene</string>
-  <string name="msg_alert_cancel_restore">Bulut yedekleme geri yükleniyor, durdurulsun mu?</string>
-  <string name="msg_alert_restore_error">Bulut yedeği geri yüklemesi başarısız oldu, lütfen tekrar deneyin.</string>
+  <string name="msg_alert_cancel_restore">Ögeler geri yükleniyor. Şimdi dur?</string>
+  <string name="msg_alert_restore_error">Mi Bulut\'tan öğeler geri yüklenemedi. Tekrar dene.</string>
   <string name="title_alert_cancel_restore">Geri yüklemeyi durdur</string>
-  <string name="title_alert_restore_error">Geri yükleme başarısız oldu</string>  
+  <string name="title_alert_restore_error">Geri yüklenemedi</string>  
 </resources>

@@ -935,7 +935,7 @@ Kişinin adının yanındaki yıldıza dokunun
     <string name="quick_dial_setting_delete_dialog_message">Atanan hızlı arama numarasını sil?</string>
     <string name="quick_dial_setting_delete_dialog_option_delete">Sil</string>
     <string name="quick_dial_setting_hint">Hızlı arama numarası atamak veya kaldırmak için bir tuşa dokunun. Aramak için numarayı atadığınız tuşa basılı tutun.</string>
-    <string name="quick_dial_setting_set_dialog_message">Bu tuşa bir hızlı arama numarası atama?</string>
+    <string name="quick_dial_setting_set_dialog_message">Bu tuşa hızlı arama numarası atansın mı?</string>
     <string name="quick_dial_setting_set_dialog_option_set">Evet</string>
     <string name="quick_dial_setting_title">Hızlı arama</string>
     <string name="quickcontact_missing_app">Bu eylemi gerçekleştirecek uygulama yok</string>

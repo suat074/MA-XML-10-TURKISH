@@ -87,7 +87,7 @@
   <string name="search_result_text">Herhangi bir uygulama bulunamadı</string>
   <string name="nonui_mode_config_description">MIUI cihazınızı kullanmadığınızı tespit ettiğinde, bildirimler için ekranı aydınlatmayacak, LED ışığını, parmak izi sensörünü ve dokunmatik kontrolleri kapatacak.</string>
   <string name="nonui_mode_config_title">Etkileşimsiz mod</string>
-  <string name="active_classify">Aktif duruma göre sınıflandır</string>
-  <string name="appconfig_active_app_dialog_title">Etkin uygulama yapılandırma yönetimi</string>
-  <string name="config_classify">Yapılandırarak sınıflandır</string>  
+  <string name="active_classify">Etkinlik durumuna göre sırala</string>
+  <string name="appconfig_active_app_dialog_title">Etkin uygulamaları yönet</string>
+  <string name="config_classify">Uygulama ayarlarına göre sırala</string>  
 </resources>

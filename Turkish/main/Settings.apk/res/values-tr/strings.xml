@@ -2892,7 +2892,7 @@
   <string name="notification_channel_badge_title">Bildirim noktasını göster</string>
   <string name="notification_channel_sound_title">Ses</string>
   <string name="notification_channel_title">Bildirim kategorisi</string>
-  <string name="notification_channels">Kategoriler</string>
+  <string name="notification_channels">Bildirim kategorileri</string>
   <string name="notification_channels_other">Diğer</string>
   <string name="notification_content_block_summary">Bildirimleri hiçbir zaman gölgede veya çevre birimi cihazlarında gösterme</string>
   <string name="notification_content_block_title">Bildirim göster</string>
@@ -5737,5 +5737,6 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="status_bar_settings_notification_led_custom">Özel renk</string>
   <string name="miui_lab_install_drive_mode_error">Yüklenemedi, tekrar deneyin.</string>
   <string name="miui_lab_install_drive_mode_summary">Araç modu bir sistem uygulamasıdır. Kurulum internet bağlantısı gerektirmez.</string>
-  <string name="miui_lab_install_drive_mode_title">Araç modunu yükle</string>  
+  <string name="miui_lab_install_drive_mode_title">Araç modunu yükle</string> 
+  <string name="play_pause_description">Oynat/Duraklat düğmesi</string>
 </resources>
