@@ -5732,7 +5732,7 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="install_unknown_applications">Bilinmeyen kaynaklardan uygulama yüklemeye izin ver</string>
   <string name="manage_device_admin_summary">Cihaz yöneticilerini görüntüleyin veya devre dışı bırakın</string>
   <string name="device_admin_title">Cihaz yönetimi</string>
-  <string name="status_bar_settings_expandable_under_keyguard">Güvenli kilit ekranında göster</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Kilit ekranında göster</string>
   <string name="status_bar_settings_notification_sound_custom">Özel ses</string>
   <string name="status_bar_settings_notification_led_custom">Özel renk</string>
   <string name="miui_lab_install_drive_mode_error">Yüklenemedi, tekrar deneyin.</string>
