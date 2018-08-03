@@ -882,5 +882,6 @@
   <string name="yellow_page_website">Resmi internet sitesi</string>
   <string name="yesterday">Dün</string>
   <string name="express_setting_other">Diğer</string>
-  <string name="net_unavailable">Ağa bağlanılamadı.</string>  
+  <string name="net_unavailable">Ağa bağlanılamadı.</string> 
+  <string name="search">Arama</string>  
 </resources>

@@ -319,4 +319,5 @@
   <string name="reply_select_log_hint">Günlük dosyasını seçin</string>
   <string name="mobile_data_note_dialog_content">Ücretli bir ağa bağlı olduğunuz anlaşılıyor. Günlükleri yüklemek ek ücretler oluşturabilir</string>
   <string name="feedback_contact_info_hint">Telefon numarası/Eposta</string>
+  <string name="mobile_data_note_dialog_content_with_file_size">Ücretli bir ağa bağlısınız gibi görünüyor. Yükleme günlükleri için %sMB mobil veri gerekiyor</string>
 </resources>

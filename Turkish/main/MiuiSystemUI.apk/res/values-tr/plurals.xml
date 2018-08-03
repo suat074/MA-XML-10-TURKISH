@@ -73,8 +73,8 @@
     <item quantity="one">SIM şimdi devre dışı. Devam etmek için PUK kodunu girin. SIM\'in kalıcı olarak kullanılamaz hale gelmesinden önce %d deneme hakkınız kaldı. Ayrıntılar için operatörünüz ile iletişime geçin.</item>
   </plurals>
   <plurals name="kg_password_wrong_pin_code">
-    <item quantity="other">Yanlış SIM PIN kodu, %d deneme hakkınız kaldı.</item>
-    <item quantity="one">Yanlış SIM PIN kodu, cihazınızın kilidini açmak için operatörünüze başvurmadan önce %d deneme hakkınız kaldı.</item>
+    <item quantity="other">Yanlış SIM PIN kodu. %d denemeniz kaldı.</item>
+    <item quantity="one">Yanlış SIM PIN kodu. Cihazınızın kilidini açmak için operatöre başvurmadan önce %d denemeniz kaldı.</item>
   </plurals>
   <plurals name="kg_password_wrong_puk_code">
     <item quantity="other">Yanlış SIM PUK kodu, SIM\'in kalıcı olarak kullanılamaz hale gelmesinden önce %d deneme hakkınız kaldı.</item>

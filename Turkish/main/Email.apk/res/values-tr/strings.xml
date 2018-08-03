@@ -1130,5 +1130,6 @@ Posta eşitlenmeden önce "Şimdi Eşitleye dokunun veya bu hesabın postaları 
   <string name="title_activity_about">Hakkında</string>
   <string name="verify_code">Doğrulama Kodu</string>
   <string name="version_string">Versiyon: %s</string>
-  <string name="wps_title">WPS Posta</string>  
+  <string name="wps_title">WPS Posta</string>
+  <string name="privacy_policy">Gizlilik politikası</string>  
 </resources>

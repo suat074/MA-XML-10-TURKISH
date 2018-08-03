@@ -377,7 +377,7 @@
     <string name="pref_show_sms_template_entry_summary">Bir kerelik şifreleri algıla ve hızlı menüleri göster</string>
     <string name="pref_show_sms_template_in_summary">Bir kez kullanılan parolaların SMS mesajlarını otomatik olarak algıla</string>
     <string name="pref_show_sms_template_summary">Mi Mesajda akıllı özellikleri kullanmayı açarsanız kodları kopyalayabilir, dengeleri kontrol edebilirsiniz vb...</string>
-    <string name="pref_smart_messages_settings">Akıllı Mesajlar</string>
+    <string name="pref_smart_messages_settings">Akıllı Mesajlaşma</string>
     <string name="pref_sms_theme_title">Görüntüle</string>
     <string name="pref_summary_allow_si_sl_push">Mesajların web sitelerinden içerik yüklemesine izin verir</string>
     <string name="pref_summary_allow_upload_message_info">"Spam mesajları ve gönderenin bilgisi MIUI'ye rapor verirken yüklenecektir."</string>
@@ -682,14 +682,14 @@ Yapılan girişim: %s."</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="toast_pending_hangup_msg">Çağrı sona erdikten sonra mesaj gönderilecektir</string>
     <string name="url_scan_again">Tekrar kontrol et</string> 
-    <string name="notification_channel_msg_description">Mesaj bildirimi</string>
-    <string name="notification_channel_msg_name">Mesaj</string>
-    <string name="notification_channel_other_description">Mesaj olmadan bildirim</string>
+    <string name="notification_channel_msg_description">Mesajlarla ilgili bildirimler</string>
+    <string name="notification_channel_msg_name">Mesajlar</string>
+    <string name="notification_channel_other_description">Diğer bildirimler</string>
     <string name="notification_channel_other_name">Diğer</string>
-    <string name="notification_channel_sim1_description">SIM1 mesaj bildirimi</string>
-    <string name="notification_channel_sim1_name">SIM1 Mesajı</string>
-    <string name="notification_channel_sim2_description">SIM2 mesaj bildirimi</string>
-    <string name="notification_channel_sim2_name">SIM2 Mesajı</string>
+    <string name="notification_channel_sim1_description">SIM1 mesajları ile ilgili bildirimler</string>
+    <string name="notification_channel_sim1_name">SIM1 mesajları</string>
+    <string name="notification_channel_sim2_description">SIM2 mesajları ile ilgili bildirimler</string>
+    <string name="notification_channel_sim2_name">SIM2 mesajları</string>
     <string name="notification_group_name">Mesajlaşma</string>
     <string name="unsubscribe">Abonelikten çık</string>	
 </resources>
