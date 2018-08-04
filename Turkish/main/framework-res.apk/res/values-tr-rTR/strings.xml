@@ -957,7 +957,7 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="permdesc_writeSettings">Uygulamaya, sistem ayarı verilerini değiştirme izni verir. Kötü amaçlı uygulamalar sistem yapılandırmanızı bozabilir.</string>
   <string name="permdesc_writeSyncSettings">Uygulamaya bir hesaba ait senkronizasyon ayarlarını değiştirme izni verir. Örneğin, bu izne sahip bir uygulama Kişiler uygulamasının bir hesapla senkronize edilmesini etkinleştirebilir.</string>
   <string name="permgroupdesc_calendar">takviminize erişme</string>
-  <string name="permgroupdesc_camera">Fotoğraf çeker ve video kaydeder</string>
+  <string name="permgroupdesc_camera">Fotoğraf çekme ve video kaydetme</string>
   <string name="permgroupdesc_contacts">kişilerinize erişme</string>
   <string name="permgroupdesc_costMoney">Ücretli İşlemler</string>
   <string name="permgroupdesc_developmentTools">Uygulama geliştiricileri için özellik sağlar</string>
