@@ -656,5 +656,6 @@
   <string name="whatsapp_type_image_send">Gönderilen resimler</string>
   <string name="whatsapp_delete_confirm_cancel">İptal</string>
   <string name="whatsapp_delete_confirm_message">Şimdi sil?</string>
-  <string name="whatsapp_delete_confirm_ok">Tamam</string>  
+  <string name="whatsapp_delete_confirm_ok">Tamam</string> 
+  <string name="clean_summary">%1$s dosya temizlendi</string>
 </resources>

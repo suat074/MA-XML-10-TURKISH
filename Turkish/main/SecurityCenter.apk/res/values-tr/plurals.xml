@@ -334,5 +334,9 @@
    <plurals name="privacy_apps_disable_header_title">
      <item quantity="other">%d uygulama gizli</item>
      <item quantity="one">%d uygulama gizli</item>
-   </plurals>  
+   </plurals>
+   <plurals name="reset_data_dialog_ok_tick">
+     <item quantity="other">Fabrika sıfırlama(%ds)</item>
+     <item quantity="one">Fabrika sıfırlama(%ds)</item>
+   </plurals>   
 </resources>

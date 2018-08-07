@@ -1515,7 +1515,7 @@
   <string name="pref_key_tethering_setting">Bir kerelik veri sınırlaması</string>
   <string name="pref_key_tethering_title">Bir kerelik veri sınırlaması</string>
   <string name="pref_manual_adjust">Kullanım istatistiklerini elle ayarla</string>
-  <string name="pref_mi_sim_settings">Mi SIM Ayarları</string>
+  <string name="pref_mi_sim_settings">%s paket ayarları</string>
   <string name="pref_more_settings">Ek Ayarlar</string>
   <string name="pref_new_installed_preconfig_title">Yeni uygulamaların varsayılan ayarları</string>
   <string name="pref_normal_traffic_limit">Veri planı tükendiğinde</string>
@@ -1529,7 +1529,7 @@
   <string name="pref_roaming_setting_gategory">Ayarlar</string>
   <string name="pref_special_package_setting">Özel Veri Planı</string>
   <string name="pref_special_package_setting_summary">Üste veri limitini, kontör paketlerini, günlük veri limitini ve faaliyetlerinizi yönetin</string>
-  <string name="pref_summary_upload_data_usage">MIUI\'yi geliştirmemize yardımcı olması için veri kullanım istatistiklerinizi bildirin. Raporlama, Gizlilik Politikamız uyarınca yürütülür.</string>
+  <string name="pref_summary_upload_data_usage">MIUI hizmetlerini geliştirmemize yardımcı olmak için veri kullanım bilgilerinizi bildirin. Raporlama işlemi Gizlilik Politikamıza uygun olarak yapılacaktır.</string>
   <string name="pref_title_declaration">Önemli Feragat</string>
   <string name="pref_title_diagnostics_show_float_notification">Kayan Bildirimler</string>
   <string name="pref_title_manual_check_virus_db_update">Güncellemeleri kontrol et</string>
@@ -1537,7 +1537,7 @@
   <string name="pref_title_traffic_limit_number">Boyut</string>
   <string name="pref_title_traffic_speed_state">Ağ hızını göster</string>
   <string name="pref_title_update_notification">Veri kullanım bildirimleri</string>
-  <string name="pref_title_upload_data_usage">Veri kullanımı istatistiklerini bildir</string>
+  <string name="pref_title_upload_data_usage">Veri kullanım bilgisini raporla</string>
   <string name="pref_traffic_manage_title">Veri Kullanımı</string>
   <string name="pref_warning_values">Veri kullanımı uyarı düzeyi</string>
   <string name="pref_whitelist_setting">Veri Dolaşım Kısıtlamaları</string>
@@ -2316,5 +2316,8 @@
   <string name="gb_first_window_start">Oynamaya başla</string>
   <string name="gb_first_window_summary">Sistem düzeyinde hız ve performans artışı</string>
   <string name="gb_first_window_title">Oyun hız yükselticisi</string>
-  <string name="manage_hybrid_permissions">Uygulamanın izinlerini yönet</string> 
+  <string name="manage_hybrid_permissions">Uygulamanın izinlerini yönet</string>
+  <string name="reset_data_title">Parola geri yüklenemiyor</string>
+  <string name="reset_data_dialog_message">Bu cihaz Mi hesabınızla ilişkili değil. Şifre geri yüklenemez veya sıfırlanamaz. Tüm önemli öğeleri yedekleyin ve fabrika ayarlarına sıfırlayın. Tüm veriler kalıcı olarak silinecek ve bu sırada SD kartınızda formatlanacaktır.</string>
+  <string name="reset_data_dialog_ok">Fabrika sıfırlama</string>  
 </resources>

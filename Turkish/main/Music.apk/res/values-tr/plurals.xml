@@ -114,4 +114,8 @@
     <item quantity="other">%1$s görünüm</item>
     <item quantity="one">%1$s görünüm</item>
   </plurals>
+  <plurals name="Nnowplaying_songs">
+    <item quantity="other">(%d şarkı)</item>
+    <item quantity="one">(%d şarkı)</item>
+  </plurals>  
 </resources>

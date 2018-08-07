@@ -1069,7 +1069,7 @@
   <string name="condition_cellular_title">Hücresel veriler kapalı</string>
   <string name="condition_expand_hide">Gizle</string>
   <string name="condition_expand_show">Göster</string>
-  <string name="condition_hotspot_summary">Mobil WLAN Hotspot %1$s etkin, bu cihaz için WLAN kapalı.</string>
+  <string name="condition_hotspot_summary">%1$s mobil Wi-Fi hotspot etkin, bu cihaz için Wi-Fi kapalı.</string>
   <string name="condition_hotspot_title">Hotspot açık</string>
   <string name="condition_night_display_summary">Ekran rengi amber tonuna geçirilir. Bu renk, uyumanıza yardımcı olabilir.</string>
   <string name="condition_night_display_title">Gece Işığı açık</string>
@@ -5739,4 +5739,8 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="miui_lab_install_drive_mode_summary">Araç modu bir sistem uygulamasıdır. Kurulum internet bağlantısı gerektirmez.</string>
   <string name="miui_lab_install_drive_mode_title">Araç modunu yükle</string> 
   <string name="play_pause_description">Oynat/Duraklat düğmesi</string>
+  <string name="bootloader_locked_answer_2_no_sim">"1.Mi Hesabınızı bu cihazla ilişkilendirmek için aşağıdan \"Hesap ekle\" ye dokunun.
+2. Kilit açma aracını web sitemizden indirin. Bir bilgisayar kullanarak cihazın kilidini açmanız gerektiğini unutmayın. Buradan indirin:"</string>
+  <string name="security_input">Güvenlik girişi</string>
+  <string name="security_input_hint">Güvenlik klavyesini kullanarak şifre girin</string>  
 </resources>

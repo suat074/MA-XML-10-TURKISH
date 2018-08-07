@@ -380,7 +380,7 @@
   <string name="cfnry_time_twenty_sec">20 sn</string>
   <string name="cfnry_title">Cevaplanmazsa Yönlendir</string>
   <string name="cfu_title">Daima Çağrıları Yönlendir</string>
-  <string name="change_data_preference_4g_only_prompt">Sadece 4G SIM Kartı var gibi gözüküyor. Varsayılan olarak ayarlansın mı?</string>
+  <string name="change_data_preference_4g_only_prompt">Sadece 4G bir SIM kartınız var gibi görünüyor. Normal çalışabilmesi adına, mobil veri için varsayılan olarak ayarlayın. Şimdi ayarla?</string>
   <string name="change_default_data_card">Varsayılan mobil veri SIM kartı</string>
   <string name="change_default_data_card_summary">SIM kartları değiştirmişsiniz gibi görünüyor. Bu kartı, mobil veri bağlantınız için varsayılan SIM olarak ayarlamak ister misiniz?</string>
   <string name="change_num">Güncelle</string>
@@ -1570,5 +1570,8 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
   <string name="data_plan">Mobil veri planı</string>
   <string name="dc_alert_dialog_message">Bazı uygulamalar mobil veri bağlantısı gerektirir. %s\'nin size uygun olup olmadığını öğrenmek için operatörünüzle iletişime geçebilirsiniz</string>
   <string name="dc_alert_dialog_title">Veri kullanımı uyarısı</string>
-  <string name="do_not_show_again">Tekrar gösterme</string>  
+  <string name="do_not_show_again">Tekrar gösterme</string> 
+  <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s sadece 4G\'yi destekler. SIM kartınızın normal çalıştığından emin olmak için, çift 4G açık.</string>
+  <string name="change_data_sim_4g_only_prompt">SIM %1$s sadece 4G\'yi destekler. SIM %2$s mobil veri için varsayılan SIM\'iniz değilse, SIM kart normal şekilde çalışmayabilir. Şimdi değiştir?</string>
+  <string name="opened_dual_4g_confirm_prompt">Sadece 4G bir SIM kartınız var gibi görünüyor. Çift 4G otomatik olarak açıldı.</string>  
 </resources>

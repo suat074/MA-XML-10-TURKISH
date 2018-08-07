@@ -171,4 +171,5 @@
   <string name="cloud_service_state_open_reminder">Kayıt dosyalarını senkronize etmek için Mi Bulut ile senkronizasyonu açın.</string>
   <string name="menu">Menü</string>
   <string name="record_format_preference_title">Kayıt formatı</string>
+  <string name="privacy_policy_title">Gizlilik Politikası</string>
 </resources>
