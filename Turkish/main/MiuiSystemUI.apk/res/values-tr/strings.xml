@@ -1670,5 +1670,5 @@
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bluetooth cihaz pili yüzde %d.</string> 
   <string name="keyguard_left_bankcard">Hesap Makinesi</string>
   <string name="keyguard_left_buscard">Notlar</string>
-  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Ebeveyn denetimleri açıkken alanlar arasında geçiş yapılamaz</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">FamilyGuard açıkken alanlar arasında geçiş yapılamaz</string>
 </resources>

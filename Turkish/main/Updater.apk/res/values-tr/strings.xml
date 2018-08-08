@@ -56,4 +56,5 @@
   <string name="version">Yüklü Sürüm:</string>
   <string name="weekly">haftalık</string>
   <string name="wifi_recommended">İndirmeye başlamak için WiFi bağlantısı yok!</string>
+  <string name="menu_title_privacy">Gizlilik Politikası</string>
 </resources>
