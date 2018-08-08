@@ -33,7 +33,7 @@
   <string name="extreme_power_config_mode_desc">Senkronizasyon, Bluetooth, GPS, NFC, çift tıklama, düğme ışıkları, bildirimler için uyanma, kilit ekranı yanı sıra bildirim ışıklarını kapatmak için aşırı moduna geçin. MIUI pil tasarrufuna odaklanacak.</string>
   <string name="extreme_power_config_mode_title">Aşırı mod</string>
   <string name="failure">Hata</string>
-  <string name="hide_mode_desc">Uygulama arkaplanda çalıştığında, aktiviteler pil kullanım ne şekilde etkileyecek diye izlenecek.</string>
+  <string name="hide_mode_desc">Bir uygulama arka planda çalışırken, pil kullanımını azaltmak için etkinlikleri izlenir.</string>
   <string name="hide_system_app">Sistem uygulamalarını gizle</string>
   <string name="hints_loading_text">Biraz bekleyin...</string>
   <string name="important_warning">Dikkat</string>
