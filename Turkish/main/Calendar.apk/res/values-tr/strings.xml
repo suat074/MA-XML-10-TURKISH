@@ -805,8 +805,8 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="tab_title_month">Ay</string>
   <string name="tab_title_week">Hafta</string> 
   <string name="close_alarm">Kapat</string>
-  <string name="guide_card_close">kapat</string>
+  <string name="guide_card_close">Kapat</string>
   <string name="login_failed_toast">Oturum açılamadı, yenileyin ve tekrar deneyin</string>
   <string name="talk_back_month">ay</string>
-  <string name="talk_back_setting">ayar</string> 
+  <string name="talk_back_setting">Ayarlar</string> 
 </resources>

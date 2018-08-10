@@ -5742,5 +5742,11 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="bootloader_locked_answer_2_no_sim">"1.Mi Hesabınızı bu cihazla ilişkilendirmek için aşağıdan \"Hesap ekle\" ye dokunun.
 2. Kilit açma aracını web sitemizden indirin. Bir bilgisayar kullanarak cihazın kilidini açmanız gerektiğini unutmayın. Buradan indirin:"</string>
   <string name="security_input">Güvenlik girişi</string>
-  <string name="security_input_hint">Güvenlik klavyesini kullanarak şifre girin</string>  
+  <string name="security_input_hint">Güvenlik klavyesini kullanarak şifre girin</string>
+  <string name="forget_password_dialog_button_text">Geri</string>
+  <string name="forget_password_dialog_content_four"><Data>2. &lt;font color=#e6e6e6>[Verileri temizle]&lt;/font> seçin, ve cihazınız yeniden başlatılıncaya kadar bekleyin.</Data></string>
+  <string name="forget_password_dialog_content_one"><Data>Şifrenizi unutursanız, geri yükleyemezsiniz. Ancak, &lt;font color=#ec2700>cihazınızdaki tüm veriler silindikten&lt;/font> (fotoğraf, kişi vb. dahil) sonra geri yükleyebilirsiniz. Bunun için önce önemli verileri yedekleyin.</Data></string>
+  <string name="forget_password_dialog_content_three"><Data>"1. Cihazınızı kapatın. &lt;font color=#e6e6e6>[Güç]&lt;/font> düğmesine ve &lt;font color=#e6e6e6>[Ses+]&lt;/font> düğmesine aynı anda basın, ve &lt;img src=''> simgeyi görene kadar basılı tutun."</Data></string>
+  <string name="forget_password_dialog_content_two">Verileri silmek için şu adımları izleyin:</string>
+  <string name="forget_password_dialog_title">Şifrenizi sıfırlayın</string>   
 </resources>

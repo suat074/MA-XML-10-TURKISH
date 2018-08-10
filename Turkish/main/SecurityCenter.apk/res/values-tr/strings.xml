@@ -820,7 +820,7 @@
   <string name="gmscore_support_service">Google Hizmetleri</string>
   <string name="go_to">İlerle</string>
   <string name="go_to_setting_fingerprint">Ayarlar</string>
-  <string name="google_base_app_install_choice">\"%s\" normal çalışması için Google hizmetleri çerçevesi gerektirir,indirilsin ve yüklensin mi?</string>
+  <string name="google_base_app_install_choice">Uygulamanın normal çalışması için Google Hizmetleri Çerçevesi gereklidir, indirilsin ve yüklensin mi?</string>
   <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
   <string name="gs_anto_clean_memory_whitelist">İstisnalar</string>
   <string name="gs_app_back_self_start">Pil koruyucu</string>
