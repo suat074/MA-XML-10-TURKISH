@@ -225,4 +225,6 @@
   <string name="timer_end_time">Zamanlayıcı %s olunca duracak</string>
   <string name="timer_end_time_format">HH:mm MMM dd</string>
   <string name="timer_end_time_format_today">HH:mm</string> 
+  <string name="timer_can_continue_in_timer">Devam etmek için Zamanlayıcıyı Aç</string>
+  <string name="timer_is_paused">Zamanlayıcı duraklatıldı</string>
 </resources>

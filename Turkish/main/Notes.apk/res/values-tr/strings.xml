@@ -267,5 +267,7 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="date_time_picker_alarm_reminder">Alarm</string>
   <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
   <string name="date_time_picker_has_not_set_alarm">Alarm ayarlanmadı</string>
-  <string name="date_time_picker_has_set_alarm">Alarmı başarılı bir şekilde ayarlandı</string>  
+  <string name="date_time_picker_has_set_alarm">Alarmı başarılı bir şekilde ayarlandı</string>
+  <string name="setting_other">DİĞER</string>
+  <string name="setting_privacy">Gizlilik Politikası</string>  
 </resources>

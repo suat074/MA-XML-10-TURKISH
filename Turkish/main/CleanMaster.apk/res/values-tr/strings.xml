@@ -575,10 +575,10 @@
   <string name="wechat_copying_video_empty">Aktarılacak video yok</string>
   <string name="wechat_copying_video_success">Başarıyla aktarıldı</string>
   <string name="wechat_qq_activity_title">Derin temizlik</string>
-  <string name="wechat_qq_celan_tab_file">Dosya</string>
-  <string name="wechat_qq_celan_tab_image">Resim</string>
-  <string name="wechat_qq_celan_tab_video">Video</string>
-  <string name="wechat_qq_celan_tab_voice">Ses</string>
+  <string name="wechat_qq_celan_tab_file">Dosyalar</string>
+  <string name="wechat_qq_celan_tab_image">Resimler</string>
+  <string name="wechat_qq_celan_tab_video">Videolar</string>
+  <string name="wechat_qq_celan_tab_voice">Sesli mesajlar</string>
   <string name="wechat_qq_chat_files">Sohbet geçmişi</string>
   <string name="wechat_qq_deep_clean_button_text">Derin temizlik</string>
   <string name="wechat_qq_normal_files">Çöp</string>

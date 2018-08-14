@@ -1671,4 +1671,8 @@
   <string name="keyguard_left_bankcard">Hesap Makinesi</string>
   <string name="keyguard_left_buscard">Notlar</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">FamilyGuard açıkken alanlar arasında geçiş yapılamaz</string>
+  <string name="accessibility_fingerprint_dialog_app_icon">Uygulama simgesi</string>
+  <string name="accessibility_fingerprint_dialog_fingerprint_icon">Parmak izi simgesi</string>
+  <string name="accessibility_fingerprint_dialog_help_area">Yardım mesajı alanı</string>
+  <string name="fingerprint_dialog_touch_sensor">Parmak izi sensörüne dokunun</string>  
 </resources>

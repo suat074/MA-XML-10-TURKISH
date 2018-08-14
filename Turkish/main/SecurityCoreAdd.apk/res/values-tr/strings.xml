@@ -386,4 +386,30 @@
   <string name="net_work_notice">Ebeveyn kontrollerinin internete bağlanması ve normal çalışabilmesi için konum erişimi gerekir. Bu izinler pil seviyeleri, adım sayısı ve konumunuz ile ilgili bilgileri kontrollü cihazlara göndermek için gereklidir. İzin ver?</string> 
   <string name="qq_login">QQ\'da oturum açın</string>
   <string name="this_function_can_not_use_in_second_space">Bu özellik sadece İlk Alanda kullanılabilir</string>
+  <string name="about_ent_mode">Kurumsal mod hakkında</string>
+  <string name="activate_ent_mode">Kurumsal modu etkinleştir</string>
+  <string name="ent_activating">Etkinleştiriliyor…</string>
+  <string name="ent_activation">Etkinleştir</string>
+  <string name="ent_activation_hint">Kurumsal modu etkinleştirmek için lisans kodu ile birlikte kurumsal kodunuzu girin. Bundan sonra, özel kurumsal hizmetler etkinleştirilecek.</string>
+  <string name="ent_activation_hint_whit_licence">"Özel kurumsal hizmetleri etkinleştirmek için Kurumsal modu etkinleştirin.
+Şirketiniz adının doğru olduğundan emin olun. Etkinleştirmeden önce ilgili gizlilik politikalarını okuyun ve kabul edin."</string>
+  <string name="ent_agency_code">Şirket kodu</string>
+  <string name="ent_agency_code_hint">Şirket kodunu girin</string>
+  <string name="ent_agency_code_invalid">Girdiğiniz şirket kodu geçersiz.</string>
+  <string name="ent_agree_privacy_policy">Gizlilik Politikasını okudum ve kabul ediyorum</string>
+  <string name="ent_app_verified">Cihazınızda yüklü kurumsal uygulamalar var gibi görünüyor. Kurumsal mod etkinleştirilsin mi?</string>
+  <string name="ent_confirm_dialog_content">Kurumsal modu etkinleştirdikten sonra sisteminizin şu anki durumuna geri dönemezsiniz. Ancak, tüm verileriniz bu cihazda saklanacak. Kurumsal modu etkinleştirmek için cihazı yeniden başlatmanız gerekir. Şimdi etkinleştir?</string>
+  <string name="ent_disallow_running">Uygulamanın çalışması yasaktır</string>
+  <string name="ent_error_dialog_content">Girdiğiniz kodlardan en az biri yanlış. Kurumsal ve lisans kodlarınızı kontrol edip tekrar girin.</string>
+  <string name="ent_get_code_hint">Kurumsal ve lisans kodlarını amirinizden alabilirsiniz</string>
+  <string name="ent_invalid_agency">Şirket kodu geçersiz.</string>
+  <string name="ent_invalid_qr">QR kodu geçersiz.</string>
+  <string name="ent_licence_code">Lisans kodu</string>
+  <string name="ent_licence_code_hint">Lisans kodunu girin</string>
+  <string name="ent_licence_code_invalid">Girdiğiniz lisans kodu geçersiz.</string>
+  <string name="ent_mode_activated">Kurumsal mod etkinleştirildi</string>
+  <string name="ent_network_error">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
+  <string name="ent_next_step">Sonraki</string>
+  <string name="ent_privacy_policy_notice">* Bu moddaki kişisel veriler, kurumunuzun oluşturduğu politikalara göre toplanır. Xiaomi bu modda kişisel veri toplamaz.</string>
+  <string name="enterprise_mode">Kurumsal mod</string>  
 </resources>
