@@ -175,4 +175,8 @@
         <item quantity="other">%1$d dakika içinde</item>
         <item quantity="one">%1$d dakika içinde</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">%1$d kişi içe aktarıldı</item>
+        <item quantity="one">%1$d kişi içe aktarıldı</item>
+    </plurals>	
 </resources>

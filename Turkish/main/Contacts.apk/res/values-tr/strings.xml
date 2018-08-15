@@ -361,7 +361,6 @@ Kartvizitler kapalı"</string>
     <string name="device_import_progress_begin_message">Aktarılıyor...</string>
     <string name="device_import_progress_end_message">İçe aktarım tamamlandı</string>
     <string name="device_import_progress_message">Aktarılıyor...</string>
-    <string name="device_import_progress_toast">%1$d kişi içe aktarıldı</string>
     <string name="device_import_title">İçe aktar</string>
     <string name="device_list_title">Telefon Seç</string>
     <string name="device_other_guide">"Diğer telefon Bluetooth'u destekliyor mu?"</string>
@@ -1490,4 +1489,5 @@ Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardınd
     <string name="white_dews">Beyaz Çiy</string>
     <string name="winter_begins">Kış Başlangıcı</string>
     <string name="winter_solstice">Günberi</string>
+	<string name="preference_privacy_policy_title">Gizlilik Politikası</string>
 </resources>
