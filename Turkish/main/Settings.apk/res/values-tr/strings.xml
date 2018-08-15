@@ -210,7 +210,7 @@
   <string name="allow_data_usage_title">Dolaşımda veri kullanımına izin ver</string>
   <string name="allow_mock_location">Sahte konumlara izin ver</string>
   <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
-  <string name="allow_overlay_description">Bu izin uygulamanın diğer uygulamanın kullandıklarına müdahale etmeye ve değiştirmeye izin verir.</string>
+  <string name="allow_overlay_description">Bu uygulamanın, kullanmakta olduğunuz diğer uygulamaların üstünde gösterilmesine izin verin. Bu uygulamaların kullanımınıza müdahale edebilir veya görünme veya davranma biçimini değiştirebilir.</string>
   <string name="allow_sound">Sese izin ver</string>
   <string name="alpha_build">\nAlfa</string>
   <string name="always">Her zaman</string>
@@ -1568,7 +1568,7 @@
   <string name="downloading_description">İndiriliyor…</string>
   <string name="doze_summary">Cihaz ve bildirimler geldiğinde ekranı uyandır</string>
   <string name="doze_title">Ortam Görüntüsü</string>
-  <string name="draw_overlay">Diğer uygulamaları belirt</string>
+  <string name="draw_overlay">Diğer uygulamalar üzerinde göster</string>
   <string name="dtmf_tone_enable_title">Tuş Takımı Sesleri</string>
   <string name="edge_mode_back">Geri Dön</string>
   <string name="edge_mode_back_summary">Telefonunuzun kenarına geri dönmek için iki kez hafifçe vurun</string>
@@ -3016,7 +3016,7 @@
   <string name="other_sound_category_preference_title">Diğer sesler ve titreşimler</string>
   <string name="other_sound_settings">Diğer sesler</string>
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
-  <string name="overlay_settings">Diğer uygulamaların aşımını yönet</string>
+  <string name="overlay_settings">Diğer uygulamalar üzerinde göster</string>
   <string name="owner_info_settings_edit_text_hint">Kilit ekranında görüntülenecek metni yazın</string>
   <string name="owner_info_settings_summary">Yok</string>
   <string name="owner_info_settings_title">Kilit Ekranda Sahip Bilgisi</string>
@@ -3105,7 +3105,7 @@
   <string name="permission_settings_summary">Konum, Depolama, Telefon, Mesaj ve Kişilerin izinlerini yönet.</string>
   <string name="permission_settings_title">Uygulama İzinleri</string>
   <string name="permissions_label">İzinler</string>
-  <string name="permit_draw_overlay">Diğer uygulamaların izinlerini belirt</string>
+  <string name="permit_draw_overlay">Diğer uygulamalar üzerinde gösterime izin ver</string>
   <string name="permit_running_network">Arkaplan verisi</string>
   <string name="permit_usage_access">Müsaade kullanarak eriş</string>
   <string name="permit_write_settings">Sistem ayarlarını değiştirmeye izinli</string>
@@ -4478,12 +4478,12 @@
   <string name="sync_wifi_label">WLAN</string>
   <string name="sync_wifi_only">Sadece WLAN</string>
   <string name="system">Sistem</string>
-  <string name="system_alert_window_access_title">Diğer uygulamaları belirt</string>
+  <string name="system_alert_window_access_title">Diğer uygulamalar üzerinde göster</string>
   <string name="system_alert_window_apps_title">Uygulamalar</string>
   <string name="system_alert_window_off">Hayır</string>
   <string name="system_alert_window_on">Evet</string>
-  <string name="system_alert_window_settings">Diğer Uygulamaları Belirt</string>
-  <string name="system_alert_window_summary" formatted="false">%d / %d uygulamalarla diğer uygulamaları belirt</string>
+  <string name="system_alert_window_settings">Diğer uygulamalar üzerinde göster</string>
+  <string name="system_alert_window_summary">%2$d uygulamanın %1$d diğer uygulamalarda gösterilmesine izin verildi</string>
   <string name="system_and_device_section_title">Sistem &amp; Cihaz</string>
   <string name="system_app">(Sistem)</string>
   <string name="system_app_settings">Sistem Uygulamaları</string>
@@ -5751,4 +5751,5 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="forget_password_dialog_title">Şifrenizi sıfırlayın</string>  
   <string name="keyguard_vertical_clock_title">Dikey Saat</string>
   <string name="enterprise_mode">Kurumsal mod</string>
+  <string name="extended_power_menu">Genişletilmiş güç menüsü</string>
 </resources>
