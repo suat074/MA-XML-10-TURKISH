@@ -745,7 +745,7 @@ Yapılan girişim: %s."</string>
     <string name="rcs_send_rms_remind_title">Çin Mobil Mesajlaşma kullanarak mesaj gönderin</string>
     <string name="rcs_setting">Çin Mobil Mesajlaşma ayarları</string>
     <string name="rcs_silence_message">Mesaj bildirimleri sessiz</string>
-    <string name="rcs_summary_auto_resend_mms">Orijinal mesaj gönderilemezse Çin Mobil multimedya mesajlarını SMS\’e dönüştürün. Bu mesaj için operatörünüz sizi ücretlendirecektir.</string>
+    <string name="rcs_summary_auto_resend_mms">Orijinal mesaj gönderilemezse Çin Mobil multimedya mesajlarını SMS\'e dönüştürün. Bu mesaj için operatörünüz sizi ücretlendirecektir.</string>
     <string name="rcs_summary_auto_resend_sms">Orijinal mesaj gönderilemezse Çin Mobil metin mesajlarını SMS\'e dönüştürün. Bu mesaj için operatörünüz sizi ücretlendirecektir.</string>
     <string name="rcs_summary_silence_message">Masaüstü istemcisi çalışırken bildirimler sessiz</string>
     <string name="rcs_wait_for_retry_text">Bekliyor…</string>
