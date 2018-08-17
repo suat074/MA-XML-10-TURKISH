@@ -84,7 +84,7 @@
   <string name="button_sure_abandon">Değişikliklerden vazgeçilsin mi?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Ağ bağlantısını kontrol edip, yeniden deneyin.</string>
-  <string name="china_version_first_start_network_msg">"Bu ürünü kullanarak, Xiaomi'nin %1$s ve %2$s'lerini kabul edersiniz. Bu uygulamanın internete bağlanması ve konumunuza normal olarak erişmek için erişmesi gerekir."</string>
+  <string name="china_version_first_start_network_msg">"Bu ürünü kullanarak, Xiaomi'nin %1$s ve %2$s kabul edersiniz. Daha doğru hava durumu bilgilerini almanıza yardımcı olmak için hava, konum bilgilerinizi alır ve bununla ilgili ağa bağlanması gerekir. Kabul ediyor musun?"</string>
   <string name="city_exceeded_warning">10 şehir ekleyebilirsiniz</string>
   <string name="commercial">Ticari</string>
   <string name="common_loading_text">Biraz bekleyin…</string>
@@ -111,7 +111,7 @@
   <string name="data_provided_by">Veri Sağlayıcısı: </string>
   <string name="edit_alert_city_title">Uyarıları Yönet</string>
   <string name="edit_city">Şehri düzenle</string>
-  <string name="eu_region_version_first_start_network_msg">"Bu ürünü kullanarak, Xiaomi'nin aradığınız şehirlerin koordinatları ve Gizlilik Politikamızda belirtilen diğer veri türleri de dahil olmak üzere kişisel bilgilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul edersiniz. Bilgileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. \"Kabul et\" öğesine dokunarak Xiaomi'nin %1$s ve %2$s'lerini kabul edersiniz."</string>
+  <string name="eu_region_version_first_start_network_msg">"Bu ürünü kullanarak, bu ürünün ağa bağlanacağını, aradığınız şehirlerin koordinatları ve Gizlilik Politikamızda belirtilen diğer veri türleri de dahil olmak üzere kişisel bilgilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul edersiniz. Bilgileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. \"Kabul et\" öğesine dokunarak Xiaomi'nin %1$s ve %2$s kabul edersiniz."</string>
   <string name="feedback_heavy_rain">Şiddetli Yağmurlu</string>
   <string name="feedback_heavy_snow">Karlı</string>
   <string name="feedback_light_rain">Hafif Yağmurlu</string>
@@ -301,4 +301,10 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="xiaomi_weather_description_title">Hava Durumu Hakkında</string>
   <string name="yes_vote_ratio">%%%1$s</string>
   <string name="your_location">Konumunuz</string>
+  <string name="aqi_quality_detail_24_hours">24 saatlik hava tahmini</string>
+  <string name="aqi_quality_detail_5_days">5 günlük hava tahmini</string>
+  <string name="hourly_forecast_title_24_hours_desc">24 saatlik hava tahmini</string>
+  <string name="hourly_forecast_title_hourly_desc">saatlik tahmin</string>
+  <string name="privacy_policy">Gizlilik Politikası</string>
+  <string name="user_agreement">Kullanım Şartları</string> 
 </resources>
