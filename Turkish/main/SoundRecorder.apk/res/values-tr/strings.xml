@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_clear_records">Seçili kayıt silinsin mi?</string>
-  <string name="alert_message_delete_record">Cihazdan silinecek kayıtlar, aynı zamanda Mi Bulut üzerinden de silinmesini sağlayacak. Buna rağmen kayıtlar silinsin mi?</string>
+  <string name="alert_message_delete_record">Kayıt cihazdan silindiği zaman Mi Bulut üzerinden de silinecek. Şimdi sil?</string>
   <string name="alert_message_delete_record_title">Kayıt silinsin mi?</string>
   <string name="app_name">Kaydedici</string>
   <string name="back">Geri</string>
-  <string name="btn_clear_records">Kayıtları Sil (%d öğe)</string>
   <string name="button_queue_for_wifi">Bekle</string>
   <string name="button_start_now">İndir</string>
   <string name="call_record">Kaydedilen Çağrılar</string>
-  <string name="choose_call_records_count">%d öğe</string>
   <string name="clear_records">Eşitlenmiş kayıtları sil</string>
   <string name="cloud_record">%d eşitlendi</string>
   <string name="cloud_record_open">Kayıtları eşitle</string>
