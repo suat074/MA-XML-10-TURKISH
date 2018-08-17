@@ -411,5 +411,6 @@
   <string name="ent_network_error">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
   <string name="ent_next_step">Sonraki</string>
   <string name="ent_privacy_policy_notice">* Bu moddaki kişisel veriler, kurumunuzun oluşturduğu politikalara göre toplanır. Xiaomi bu modda kişisel veri toplamaz.</string>
-  <string name="enterprise_mode">Kurumsal mod</string>  
+  <string name="enterprise_mode">Kurumsal mod</string> 
+  <string name="menu_item_about_privacy_title">Gizlilik Politikası</string>
 </resources>

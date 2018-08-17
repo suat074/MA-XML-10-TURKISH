@@ -854,4 +854,47 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Bu dosya türü desteklenmiyor.</string>
   <string name="vp_VideoView_error_text_unknown">Tanımlanamayan bir hata oluştu.</string>
   <string name="vp_VideoView_error_title">Bilinmeyen hata</string>
+  <string name="install">Yükle</string>
+  <string name="installing">Yükleniyor…</string>
+  <string name="message_center_activity_title">Mesajlarım</string>
+  <string name="message_center_activity_title_setting">Ayarlar</string>
+  <string name="message_comment_item_my_content"><Data>&lt;font color=#3f3f3f>Ben&lt;/font></Data>: %s</string>
+  <string name="message_comment_item_my_reply_content"><Data>&lt;font color=#3f3f3f>Benim&lt;/font></Data> cevabım <Data>&lt;font color=#3f3f3f>%1$s&lt;/font></Data>: %2$s</string>
+  <string name="message_comment_item_reply"><Data>&lt;font color=#5C7997>%s&lt;/font></Data> yanıtladı:</string>
+  <string name="message_list_fragment_login_comment">Yorumlar hakkındaki mesajları görmek için giriş yapın.</string>
+  <string name="message_list_fragment_login_praise">Beğenilerle ilgili mesajları görüntülemek için oturum açın.</string>
+  <string name="message_list_fragment_no_message">Henüz hiç mesajınız yok.</string>
+  <string name="message_praise_item_more">%1$s, %2$s, <Data>&lt;font color=#3f3f3f>ve&lt;/font></Data> %3$s <Data>&lt;font color=#3f3f3f>diğer insanlar&lt;/font></Data></string>
+  <string name="message_praise_item_my_content"><Data>&lt;font color=#3f3f3f>Ben&lt;/font></Data>: %s</string>
+  <string name="message_praise_item_my_reply_content"><Data>&lt;font color=#3f3f3f>Benim&lt;/font></Data> cevabım <Data>&lt;font color=#3f3f3f>%1$s&lt;/font></Data>: %2$s</string>
+  <string name="message_praise_item_praise">yorumu beğen</string>
+  <string name="message_praise_item_praised">yorumunuzu beğendi</string>
+  <string name="message_setting">Mesajları yönet</string>
+  <string name="message_setting_clear_message_dialog_clear_all">Tüm mesajlar</string>
+  <string name="message_setting_clear_message_dialog_clear_comment">Yorumlar hakkındaki mesajlar</string>
+  <string name="message_setting_clear_message_dialog_clear_notification">Bildirimler</string>
+  <string name="message_setting_clear_message_dialog_clear_prasie">Beğenilerle ilgili mesajlar</string>
+  <string name="message_setting_clear_message_dialog_title">Mesajları temizle</string>
+  <string name="message_setting_clear_message_title">Mesajları temizle</string>
+  <string name="message_setting_clear_message_toast_fail">Mesajlar temizlenemedi</string>
+  <string name="message_setting_clear_message_toast_success">Mesajlar başarıyla silindi</string>
+  <string name="message_setting_unread_message_summary">Bildirimleri almak için aç</string>
+  <string name="message_setting_unread_message_title">Okunmamış mesajlardan haberdar et</string>
+  <string name="notification_desc_offline">Tamamlanan indirmeleri bildir</string>
+  <string name="notification_name_apklaunch">Diğer uygulamaları başlatma hakkında bildirim.</string>
+  <string name="notification_name_appupdate">Güncelleme bildirimleri</string>
+  <string name="notification_name_common">Düzenli bildirimler</string>
+  <string name="notification_name_message_push">Push bildirimleri</string>
+  <string name="notification_name_offline">İndirme bildirimleri</string>
+  <string name="open">Açık</string>
+  <string name="operate_message_item_dialog_comment">Yorumları görüntüle</string>
+  <string name="operate_message_item_dialog_delete">Sil</string>
+  <string name="operate_message_item_dialog_reply">Cevap</string>
+  <string name="operate_message_item_dialog_video">\"%s\" görüntüle</string>
+  <string name="privacy">Gizlilik politikası</string>
+  <string name="toast_operate_message_delete_success">Başarıyla silindi</string>
+  <string name="toast_gprs_network">Video akışı için mobil verileri kullanma…</string>
+  <string name="v_notification_settings_summary">Durum çubuğu bildirimleri</string>
+  <string name="v_notification_settings_title">Bildirimleri yönet</string>
+  <string name="dolby_audio_cant_play">Bu ses parçası, telif hakkı kısıtlamaları nedeniyle oynatılamaz.</string>  
 </resources>

@@ -2320,4 +2320,5 @@
   <string name="reset_data_title">Parola geri yüklenemiyor</string>
   <string name="reset_data_dialog_message">Bu cihaz Mi hesabınızla ilişkili değil. Şifre geri yüklenemez veya sıfırlanamaz. Tüm önemli öğeleri yedekleyin ve fabrika ayarlarına sıfırlayın. Tüm veriler kalıcı olarak silinecek ve bu sırada SD kartınızda formatlanacaktır.</string>
   <string name="reset_data_dialog_ok">Fabrika sıfırlama</string>  
+  <string name="menu_item_about_privacy_title">Gizlilik Politikası</string>
 </resources>

@@ -667,4 +667,5 @@
   <string name="memory_clean_icon_text">Hafızayı temizle</string>
   <string name="pref_title_create_onekeyclean_shortcut">Ana ekranda kısayol göster</string>
   <string name="memory_clean_no_trash_tip">Her şey iyi görünüyor</string>  
+  <string name="pref_about_privacy_title">Gizlilik Politikası</string>
 </resources>

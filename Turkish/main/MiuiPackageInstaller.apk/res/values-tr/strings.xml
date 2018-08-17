@@ -643,4 +643,5 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="miui_message_staging_1">Uygulama hazırlanıyor.  </string>
   <string name="miui_message_staging_2">Uygulama hazırlanıyor.. </string>
   <string name="miui_message_staging_3">Uygulama hazırlanıyor...</string>
+  <string name="pref_about_privacy_title">Gizlilik Politikası</string>
 </resources>

@@ -9,7 +9,7 @@
   <string name="app_name">Geribildirim</string>
   <string name="btn_send">Gönder</string>
   <string name="bugreport_dialog_not_show_again">"Tekrar gösterme"</string>
-  <string name="bugreport_dialog_submit_content">Geribildiriminiz kişisel bilginizi içerir.</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"Şimdi bu cihazda yazılım günlüklerini kaydediyorsunuz. Günlükleri kişisel bilgi ve konum verileri içerebilir. Bu bilginin açığa çıkmasını istemiyorsanız, günlükleri kimseyle paylaşmayın. \"Kabul\" seçeneğini seçmek &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikası&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmesi&amp;lt;/a&amp;gt; okuduğunuzu ve kabul ettiğinizi ifade eder."&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Görüntülemek için dokunun</string>
   <string name="bugreport_dump_complete_notification_title">Hata raporu oluşturuldu.</string>
   <string name="bugreport_dump_start_notification_summary">Bu işlem birkaç dakika sürebilir.</string>
@@ -255,7 +255,7 @@
   <string name="server_unknown_error_message">Sunucu hatası, lütfen tekrar deneyin</string>
   <string name="submit_dialog_cancel">İptal</string>
   <string name="submit_dialog_confirm">Gönder</string>
-  <string name="submit_dialog_content">"Görüşleriniz, ekler ve günlüklerle birlikte MIUI sunucularına gönderilecek. Kişisel bilgiler içerebilir."</string>
+  <string name="submit_dialog_content">&lt;Data&gt;"Ekleriniz ve eklerle birlikte geri bildiriminiz, MIUI sunucularına gönderilecektir. Kişisel bilgi ve konum verilerinizi içerebilir. \"Kabul\" seçeneğini seçmek &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikası&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmesi&amp;lt;/a&amp;gt; okuduğunuzu ve kabul ettiğinizi ifade eder."&lt;/Data&gt;</string>
   <string name="submit_dialog_not_wifi_content">"Görüşleriniz, bir Wi-Fi bağlantısı sağlandığında Xiaomi sunucularına hata raporları ve görüntüleri ile birlikte gönderilir."</string>
   <string name="submit_dialog_title">Raporu gönder</string>
   <string name="submit_feedback_info_failed">"Rapor gönderilemedi"</string>
@@ -307,7 +307,7 @@
   <string name="feedback_title_reproductivity">Tekrarlanabilir olanı seçin</string>  
   <string name="app_search">Uygulamaları ara</string>
   <string name="issue_search">Arama</string>
-  <string name="submit_dialog_content_global">Görüşleriniz, ekler ve günlüklerle birlikte MIUI sunucularına gönderilecek. Kayıtlar, kişisel bilgi ve konum verileri içerebilir. İlişkili kutunun işaretini kaldırarak günlük göndermemeyi seçebilirsiniz.</string> 
+  <string name="submit_dialog_content_global">&lt;Data&gt;"Ekleriniz (varsa) ve kayıtlar (yükleme yapmak istemediğiniz öğeler için ilgili kutuların işaretini kaldırabilirsiniz) ile birlikte geri bildiriminiz, MIUI sunucularına ve geliştiriciler için MIUI Forum\'un kısıtlı bir bölümüne gönderilecektir. Konularınız ve forum etkinliğiniz hakkındaki bilgiler, analiz ve daha fazla iletişim için de toplanacaktır. Günlükler kişisel bilgi ve konum verilerinizi içerebilir. \"Kabul\" seçeneğini seçmek &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politikası&amp;lt;/a&amp;gt; ve &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Kullanıcı Sözleşmesi&amp;lt;/a&amp;gt; okuduğunuzu ve kabul ettiğinizi ifade eder."&lt;/Data&gt;</string>
   <string name="feedback_status_collect_log_failed">Günlükler alınamadı</string>
   <string name="feedback_status_get_and_save_bbs_info_failed">Ek URL adresi alınamadı</string>
   <string name="feedback_status_save_log_info_failed">Ek URL adresi alınamadı</string>
@@ -322,4 +322,5 @@
   <string name="mobile_data_note_dialog_content_with_file_size">Ücretli bir ağa bağlısınız gibi görünüyor. Yükleme günlükleri için %sMB mobil veri gerekiyor</string>
   <string name="privacy_policy_title">Gizlilik politikası</string>
   <string name="tab_title_preferences">Ayarlar</string>
+  <string name="privacy_category_title">Gizlilik</string>
 </resources>

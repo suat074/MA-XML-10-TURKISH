@@ -5752,4 +5752,5 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="keyguard_vertical_clock_title">Dikey Saat</string>
   <string name="enterprise_mode">Kurumsal mod</string>
   <string name="extended_power_menu">Genişletilmiş güç menüsü</string>
+  <string name="status_bar_settings_expand_top_notification">Üst bildirimi genişlet</string>
 </resources>

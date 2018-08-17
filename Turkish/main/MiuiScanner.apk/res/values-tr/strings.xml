@@ -207,4 +207,5 @@
   <string name="wifi_pwd">Şifre:</string>
   <string name="wifi_security">Güvenlik:</string>
   <string name="wifi_ssid">SSID:</string>
+  <string name="miracast_message">%s için yayınla?</string>
 </resources>

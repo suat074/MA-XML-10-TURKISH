@@ -41,5 +41,10 @@
   <string-array name="server_list_entries">
     <item>Test sunucusu</item>
     <item>Resmi Sunucu</item>
+  </string-array>
+  <string-array name="message_center_tab_list">
+    <item>Yorumlar</item>
+    <item>Beğeniler</item>
+    <item>Bildirimler</item>
   </string-array>  
 </resources>
