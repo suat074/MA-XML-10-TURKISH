@@ -3983,7 +3983,7 @@
   <string name="select_ssid_type_title">SSID Seç</string>
   <string name="select_to_speak_summary">Sesli okunması için ekranınızdaki öğelere dokunun</string>
   <string name="select_usb_configuration_dialog_title">USB bağlantı şeklini seçin</string>
-  <string name="select_usb_configuration_title">USB Bağlantısının Yapılandır</string>
+  <string name="select_usb_configuration_title">USB yapılandırmasını seç</string>
   <string name="select_webview_provider_dialog_title">WebView uygulamasını ayarlayın</string>
   <string name="select_webview_provider_title">WebView uygulaması</string>
   <string name="select_webview_provider_toast_text">Bu seçim artık geçerli değil. Tekrar deneyin.</string>
