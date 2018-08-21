@@ -19,7 +19,8 @@
   <string name="settings_license_activity_unavailable">Lisans yüklenirken bir sorun oluştu.</string>
   <string name="settings_safetylegal_activity_loading">Yükleniyor...</string>
   <string name="settings_safetylegal_activity_title">Güvenlik Bilgisi</string>
-  <string name="settings_safetylegal_activity_unreachable">"Bir veri bağlantısı yok. Şimdi bu bilgileri görüntülemek için, internete bağlı herhangi bir bilgisayardan %s\'a gidin."</string>
+  <string name="settings_safetylegal_activity_unreachable">"Bir veri bağlantısı yok. Şimdi bu bilgileri görüntülemek için, internete bağlı herhangi bir bilgisayardan %s adresine gidin."</string>
   <string name="settings_safetylegal_title">Güvenlik Bilgisi</string>
   <string name="ime_privacy_policy">Klavyeyi seç</string>
+  <string name="open_wifi_connect_and_use_data_summary">trafiği kullanmaya devam edin, wifiyi değiştirmek ve doğrulamak için dokunun.</string>
 </resources>

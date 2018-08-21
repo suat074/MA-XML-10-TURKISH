@@ -5753,4 +5753,7 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="enterprise_mode">Kurumsal mod</string>
   <string name="extended_power_menu">Genişletilmiş güç menüsü</string>
   <string name="status_bar_settings_expand_top_notification">Üst bildirimi genişlet</string>
+  <string name="delete_sound_effect">Sesi \"Sil\"</string>
+  <string name="keyguard_security_setting_others">Diğerleri</string>
+  <string name="keyguard_security_setting_privacy_policy">Gizlilik Politikası</string>  
 </resources>

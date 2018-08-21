@@ -1674,5 +1674,16 @@
   <string name="accessibility_fingerprint_dialog_app_icon">Uygulama simgesi</string>
   <string name="accessibility_fingerprint_dialog_fingerprint_icon">Parmak izi simgesi</string>
   <string name="accessibility_fingerprint_dialog_help_area">Yardım mesajı alanı</string>
-  <string name="fingerprint_dialog_touch_sensor">Parmak izi sensörüne dokunun</string>  
+  <string name="fingerprint_dialog_touch_sensor">Parmak izi sensörüne dokunun</string>
+  <string name="battery_can_use_time">Yaklaşık %s kaldı</string>
+  <string name="dlg_cancel">İptal</string>
+  <string name="dlg_confirm">Aç</string>
+  <string name="dlg_summary_close_app">Arka plan etkinliğini ve bildirimleri kısıtla</string>
+  <string name="dlg_summary_close_theme">Animasyonlu temaları sınırla</string>
+  <string name="dlg_summary_close_wifi">WLAN, Bluetooth ve taşınabilir hotspot\'u kapat</string>
+  <string name="dlg_summary_nfc">NFC\'yi kapat</string>
+  <string name="dlg_summary_title">Aşırı pil tasarrufu, bir uygulamadan çıktıktan ve Ana ekrana geri döndükten sonra tüm arka plan etkinliklerini durdurur. Bir uygulamanın arka planda çalışmasını istiyorsanız, bunu arka plan istisnalarına ekleyin.</string>
+  <string name="enable_extreme_power_save_mode">Aşırı pil tasarrufu</string>
+  <string name="open_extreme_power_save_mode_title">Aşırı pil tasarrufunu aç</string>
+  <string name="quick_settings_extreme_batterysaver_label">Aşırı pil tasarrufu</string>
 </resources>

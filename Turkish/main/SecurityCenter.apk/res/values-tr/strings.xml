@@ -245,7 +245,7 @@
   <string name="applock_add_account_info">Mi Hesabı şifresini sıfırlarken unutmayacağınız\nbir şifre kullanın</string>
   <string name="applock_add_account_setting">Hesap &amp; Gizlilik</string>
   <string name="applock_bind_account_title">Parolamı unuttum</string>
-  <string name="applock_close_dialog_summary">Uygulamalar artık korunmayacak ve uygulama kilidini kapattıktan sonra şifreniz silinecektir.</string>
+  <string name="applock_close_dialog_summary">Tüm gizli uygulamalar görünecek, Ana ekran kısayolları geri yüklenecek ve Uygulama kilidi şifreniz silinecek. Uygulama kilidini kapat?</string>
   <string name="applock_close_dialog_title">Uygulama kilidi kapatılsın mı?</string>
   <string name="applock_exit_account_info">Hesap oturum kapatılınca otomatik olarak kaldırılacak</string>
   <string name="applock_header_text_less_than_half">Çok küçük. Biraz daha sürükleyin.</string>
@@ -2321,4 +2321,29 @@
   <string name="reset_data_dialog_message">Bu cihaz Mi hesabınızla ilişkili değil. Şifre geri yüklenemez veya sıfırlanamaz. Tüm önemli öğeleri yedekleyin ve fabrika ayarlarına sıfırlayın. Tüm veriler kalıcı olarak silinecek ve bu sırada SD kartınızda formatlanacaktır.</string>
   <string name="reset_data_dialog_ok">Fabrika sıfırlama</string>  
   <string name="menu_item_about_privacy_title">Gizlilik Politikası</string>
+  <string name="extreme_power_save_mode_title">Aşırı pil tasarrufu</string>
+  <string name="extreme_power_save_mode_summary">Aşırı pil tasarrufu arka plan aktivitesini kısıtlar, senkronizasyonu durdurur ve ekran renklerini azaltır.</string>
+  <string name="extreme_power_save_description"><li>"Aşırı pil tasarrufu, bir uygulamayı kapattıktan ve Ana ekrana geri döndükten sonra uygulamanın tüm aktivitelerini durdurur. Bu uygulama size bildirim göndermeyecek veya güncelleme almayacak."</li>"
+"<li>Bir uygulamanın arka planda çalışmasını istiyorsanız, Son uygulamalar bölümünde kilitleyin veya aşağıdaki arka plan istisnalarına ekleyin. Aşırı pil tasarrufu açıkken 4 uygulamaya kadar arka planda çalışabilir.</li>"
+"<li>Aşırı pil tasarrufu varsayılan olarak NFC\'yi kapatır. Bunu Ayarlar\'dan değiştirebilirsiniz.</li>"
+"<li>Cihazınızın tüm özelliklerini normal şekilde kullanabilmeniz için, pil 30% şarj olduğunda Aşırı pil tasarrufu otomatik olarak kapatılacaktır.</li></string>
+  <string name="extreme_add_white_list_title">Arka plan istisnaları</string>
+  <string name="extreme_add_white_list_summary">4 uygulamaya kadar ekle</string>
+  <string name="notification_open_extreme_mode_text">Aşırı pil tasarrufu açık</string>
+  <string name="notification_exit_extreme_mode_title">Aşırı pil tasarrufu devre dışı</string>
+  <string name="notification_exit_extreme_mode_text">Pil %s\'den fazla şarj edildi</string>
+  <string name="privacy_apps_category_title">Gizli uygulamalar</string>
+  <string name="privacy_apps">Gizli uygulamalar</string>
+  <string name="privacy_apps_enable_summary">Uygulamaları gizli bir klasöre taşıyın ve ana ekran kısayollarını kaldırın</string>
+  <string name="privacy_apps_manage">Gizli uygulamaları yönet</string>
+  <string name="privacy_apps_tutorial">Öğretici</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">"Bir uygulamayı gizlediğinizde, gizli bir klasöre taşınır. Ana ekran kısayolu gizlenir.
+Bu özellik sistem uygulamaları için desteklenmez."</string>
+  <string name="privacy_apps_tutorial_prompt_pagetwo">Ekranda iki parmağınızı yayın. Uygulama kilitleme şifrenizi girmenizi isteyen bir mesaj görürsünüz.</string>
+  <string name="privacy_apps_tutorial_prompt_pagethree">Şifrenizi girdikten sonra, gizli uygulamaların bulunduğu klasör görünecektir.</string>
+  <string name="privacy_apps_manage_dialog_title">Gizli uygulamalar hakkında</string>
+  <string name="privacy_apps_manager_dialog_message">Uygulamaları gizlemek için, uygulama ekran kilidinizi ayarlamanız gerekir. Gizli uygulamalar için bildirimler kapatılacak. Bu uygulamayı gizle?</string>
+  <string name="privacy_apps_checkbox_remind_choice">Tekrar gösterme</string>
+  <string name="privacy_apps_go_to_use">Başla</string>
+  <string name="privacy_apps_close">Kapat</string>  
 </resources>

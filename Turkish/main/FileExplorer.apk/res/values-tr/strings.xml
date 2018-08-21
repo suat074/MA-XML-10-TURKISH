@@ -1168,4 +1168,5 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="homepage_tab_file_view_phone">Depolama</string>
   <string name="cannot_send">"Harici depolama biriminden dosya gönderilemiyor"</string>  
   <string name="search_guid_hint">Dosya arayın</string>
+  <string name="operation_show_privacy_policy">Gizlilik politikasını göster</string>
 </resources>

@@ -1269,5 +1269,6 @@ mevcut"</string>
   <string name="picker_origin_request_progress_message">Orijinal dosyalar hazırlanıyor (%1$d/%2$d)…</string>
   <string name="search_request_requesting">Uygulandı. Başlamadan önce biraz bekleyin.</string>
   <string name="secret_reason_video_not_support">Gizli albüme video eklenemez</string>
-  <string name="video_editor_video_loading">Video hazırlanıyor… Bir iki saniye bekleyin ve tekrar deneyin.</string>  
+  <string name="video_editor_video_loading">Video hazırlanıyor… Bir iki saniye bekleyin ve tekrar deneyin.</string> 
+  <string name="photo_editor_crop_auto">Otomatik</string>  
 </resources>

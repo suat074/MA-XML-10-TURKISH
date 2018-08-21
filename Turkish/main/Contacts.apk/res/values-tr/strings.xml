@@ -1490,4 +1490,5 @@ Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardınd
     <string name="winter_begins">Kış Başlangıcı</string>
     <string name="winter_solstice">Günberi</string>
 	<string name="preference_privacy_policy_title">Gizlilik Politikası</string>
+	<string name="rcs_app_name">Mini uygulama</string>
 </resources>

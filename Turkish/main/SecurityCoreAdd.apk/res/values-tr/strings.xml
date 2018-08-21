@@ -413,4 +413,11 @@
   <string name="ent_privacy_policy_notice">* Bu moddaki kişisel veriler, kurumunuzun oluşturduğu politikalara göre toplanır. Xiaomi bu modda kişisel veri toplamaz.</string>
   <string name="enterprise_mode">Kurumsal mod</string> 
   <string name="menu_item_about_privacy_title">Gizlilik Politikası</string>
+  <string name="ent_installing">Yükleniyor…</string>
+  <string name="ent_download_install_dialog_content">Kurumsal modu etkinleştirmek için kurumsal uygulamaları yüklemeniz gerekir. Şimdi yükle?</string>
+  <string name="ent_download_install_dialog_title">Kurumsal uygulamaları indirin</string>
+  <string name="ent_downloading_message">%d%% indiriliyor</string>
+  <string name="install">Yükle</string>
+  <string name="install_error">Yüklenemedi. Tekrar deneyin.</string>
+  <string name="ent_install_dialog_content">Uygulamaları yükle ve cihazınızı şimdi yeniden başlat?</string>  
 </resources>

@@ -204,8 +204,9 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="toast_message_add_text_warn">"Bu dosya türü desteklenmiyor"</string>
   <string name="toast_note_privacy_mode">"Misafir modunda not oluşturamazsınız"</string>
   <string name="toast_notes_delete_success">Başarıyla silindi</string>
-  <string name="toast_notes_hidden">Başarıyla gizlendi</string>
   <string name="toast_notes_hidden_count">%1$s başarıyla gizlendi</string>
+  <string name="toast_notes_hidden_edit">Bu not başarıyla gizlendi. Gizli notları görmek için aşağı çekin.</string>
+  <string name="toast_notes_hidden_home">Bu not başarıyla gizlendi. Gizli notları görmek için aşağı çekin.</string>    
   <string name="toast_notes_unhidden">Başarıyla gizlenme açıldı</string>
   <string name="toast_notes_unhidden_count">%1$s başarıyla gizlenme açıldı</string>
   <string name="toast_privacy_mode">"Bunu gizli notlar için yapamazsınız"</string>
@@ -269,5 +270,5 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="date_time_picker_has_not_set_alarm">Alarm ayarlanmadı</string>
   <string name="date_time_picker_has_set_alarm">Alarmı başarılı bir şekilde ayarlandı</string>
   <string name="setting_other">DİĞER</string>
-  <string name="setting_privacy">Gizlilik Politikası</string>  
+  <string name="setting_privacy">Gizlilik Politikası</string> 
 </resources>

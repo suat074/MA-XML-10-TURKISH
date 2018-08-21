@@ -1576,4 +1576,5 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
   <string name="opened_dual_4g_confirm_prompt">Sadece 4G bir SIM kartınız var gibi görünüyor. Çift 4G otomatik olarak açıldı.</string> 
   <string name="dds_switch_warning_message_data_off">SIM %1$s bulunamadı. SIM %2$s şimdi varsayılan mobil veri kartınız olarak ayarlandı. Mobil veri şu anda kapalı.</string>
   <string name="dds_switch_warning_message_data_on">SIM %1$s bulunamadı. SIM %2$s şimdi varsayılan mobil veri kartınız olarak ayarlandı. Gereksiz operatör ücretlerinden kaçınmak için mobil veri kapatıldı.</string>  
+  <string name="privacy_policy_title">Gizlilik Politikası</string>
 </resources>

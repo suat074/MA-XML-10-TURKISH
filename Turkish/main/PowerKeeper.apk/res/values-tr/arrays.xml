@@ -27,5 +27,9 @@
   <string-array name="hmode_app_classify2">
     <item>Aktif uygulamalar</item>
     <item>Uyuyan uygulamalar</item>
+  </string-array>
+  <string-array name="emode_app_groups">
+    <item>Sistem uygulamaları</item>
+    <item>Diğer uygulamalar</item>
   </string-array>  
 </resources>
