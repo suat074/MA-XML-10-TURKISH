@@ -141,8 +141,8 @@
   <string name="gift_use_confirmation_dlg_title">Bu hediye gönderilsin mi?</string>
   <string name="gift_use_fail_dlg_title">Bir şeyler yanlış gitti</string>
   <string name="gift_used">Gönderildi</string>
-  <string name="hide_free">"Ücretsiz %1$s gizle "</string>
-  <string name="hide_incompatible">"Uyumsuz %1$s gizle "</string>
+  <string name="hide_free">Ücretsiz %1$s gizle</string>
+  <string name="hide_incompatible">Uyumsuz %1$s gizle</string>
   <string name="home_apply_failured">Ana Ekrana duvar kağıdı uygulanamıyor</string>
   <string name="home_apply_success">Ana Ekran duvar kağıdı uygulandı</string>
   <string name="in_the_end">Daha fazla yok</string>
