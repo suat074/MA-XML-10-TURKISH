@@ -346,7 +346,7 @@
   <string name="application_permission_manager">Uygulama İzinleri</string>
   <string name="application_permissions">Uygulama İzinleri</string>
   <string name="application_restrictions">Uygulama ve içeriğe izin ver</string>
-  <string name="application_size_label">Uygulama</string>
+  <string name="application_size_label">Uygulama boyutu</string>
   <string name="applications_settings">Yüklü Uygulamalar</string>
   <string name="applications_settings_header">Uygulama Ayarları</string>
   <string name="applications_settings_summary">Uygulamaları yönet, hızlı başlatma kısayollarını ayarla</string>
