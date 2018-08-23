@@ -5335,7 +5335,7 @@
   <string name="wifi_off_airplane_on_content">Uçak Modunda elle WLAN ağını açabilirsiniz.</string>
   <string name="wifi_off_airplane_on_not_remind">Tekrar gösterme</string>
   <string name="wifi_off_airplane_on_title">Dikkat</string>
-  <string name="wifi_on_time">WLAN açık kalma süresi</string>
+  <string name="wifi_on_time">Wi-Fi açık kalma süresi</string>
   <string name="wifi_other_connection_mode">Diğer bağlantı seçenekleri</string>
   <string name="wifi_p2p_cancel_connect_message">%1$s ile bağlantı için daveti iptal etmek istiyor musunuz?</string>
   <string name="wifi_p2p_cancel_connect_title">Daveti iptal etmek istiyor musunuz?</string>
@@ -5749,7 +5749,7 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="forget_password_dialog_content_three"><Data>"1. Cihazınızı kapatın. &lt;font color=#e6e6e6>[Güç]&lt;/font> düğmesine ve &lt;font color=#e6e6e6>[Ses+]&lt;/font> düğmesine aynı anda basın, ve &lt;img src=''> simgeyi görene kadar basılı tutun."</Data></string>
   <string name="forget_password_dialog_content_two">Verileri silmek için şu adımları izleyin:</string>
   <string name="forget_password_dialog_title">Şifrenizi sıfırlayın</string>  
-  <string name="keyguard_vertical_clock_title">Dikey Saat</string>
+  <string name="keyguard_vertical_clock_title">Dikey saat</string>
   <string name="enterprise_mode">Kurumsal mod</string>
   <string name="extended_power_menu">Genişletilmiş güç menüsü</string>
   <string name="status_bar_settings_expand_top_notification">Üst bildirimi genişlet</string>
