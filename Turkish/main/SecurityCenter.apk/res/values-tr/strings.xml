@@ -2363,7 +2363,6 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="exo_download_failed">İndirme başarısız</string>
   <string name="exo_download_notification_channel_name">İndirilenler</string>
   <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
-  <string name="exo_track_bitrate">%1$.2f Mbps</string>
   <string name="exo_track_mono">Mono</string>
   <string name="exo_track_selection_auto">Otomatik</string>
   <string name="exo_track_selection_none">Yok</string>
