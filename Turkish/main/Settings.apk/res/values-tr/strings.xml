@@ -5755,5 +5755,13 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="status_bar_settings_expand_top_notification">Üst bildirimi genişlet</string>
   <string name="delete_sound_effect">Sesi \"Sil\"</string>
   <string name="keyguard_security_setting_others">Diğerleri</string>
-  <string name="keyguard_security_setting_privacy_policy">Gizlilik Politikası</string>  
+  <string name="keyguard_security_setting_privacy_policy">Gizlilik Politikası</string>
+  <string name="status_bar_settings_notification_use_app_icon">Bildirimler için uygulama simgelerini kullanın</string>
+  <string name="sccret_code_error">Girdiğiniz kod yanlış.</string>
+  <string name="stop_upload_audio_log">Ses günlüğü almayı bitir</string>
+  <string name="stop_upload_gps_log">GPS günlüğü almayı bitir</string>
+  <string name="stop_upload_modem_log">Modem günlüğü almayı bitir</string>
+  <string name="upload_audio_log">Ses günlüğü almaya başla</string>
+  <string name="upload_gps_log">GPS günlüğü almaya başla</string>
+  <string name="upload_modem_log">Modem günlüğünü almaya başla</string>  
 </resources>

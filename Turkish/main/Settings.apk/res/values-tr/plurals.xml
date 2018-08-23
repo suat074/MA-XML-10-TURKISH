@@ -299,5 +299,17 @@
   <plurals name="show_reset_countdown">
     <item quantity="other">Fabrika ayarlarına sıfırlama işlemi için %1$d adımlarını tamamlayın</item>
     <item quantity="one">Fabrika ayarlarına sıfırlama işlemi için %1$d adımını tamamlayın</item>
+  </plurals>
+  <plurals name="show_audio_logcat_countdown">
+    <item quantity="other">Ses günlüğü alabilmeniz için %1$d  adım kaldı</item>
+    <item quantity="one">Ses günlüğü alabilmeniz için %1$d  adım kaldı</item>
+  </plurals>
+  <plurals name="show_gps_logcat_countdown">
+    <item quantity="other">GPS günlüğü alabilmeniz için %1$d  adım kaldı</item>
+    <item quantity="one">GPS günlüğü alabilmeniz için %1$d  adım kaldı</item>
+  </plurals>
+  <plurals name="show_modem_logcat_countdown">
+    <item quantity="other">Modem günlüğü alabilmeniz için %1$d  adım kaldı</item>
+    <item quantity="one">Modem günlüğü alabilmeniz için %1$d  adım kaldı</item>
   </plurals>  
 </resources>

@@ -584,4 +584,6 @@ kullanabilirsiniz"</string>
   <string name="edit_eyebrow_dye">Kaşlar</string>
   <string name="edit_jelly_lips">Dudak parlatıcısı</string>
   <string name="edit_pupil_line">Göz kalemi</string>
+  <string name="accessibility_intent_done_retry">Tekrar çek</string>
+  <string name="view_privacy_policy">Gizlilik Politikasını Görüntüle</string>  
 </resources>

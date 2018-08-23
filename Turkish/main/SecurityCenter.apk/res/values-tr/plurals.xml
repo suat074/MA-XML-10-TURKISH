@@ -338,5 +338,13 @@
    <plurals name="reset_data_dialog_ok_tick">
      <item quantity="other">Fabrika sıfırlama(%ds)</item>
      <item quantity="one">Fabrika sıfırlama(%ds)</item>
+   </plurals>
+   <plurals name="hide_txt_hint_with_blank_2">
+     <item quantity="other">    +%1$d daha fazla karakter</item>
+     <item quantity="one">    +%1$d daha fazla karakter</item>
+   </plurals>
+   <plurals name="first_aid_result_summary_exception">
+     <item quantity="other">%1$d sorun optimizasyon gerektirir</item>
+     <item quantity="one">%1$d sorun optimizasyon gerektirir</item>
    </plurals>   
 </resources>

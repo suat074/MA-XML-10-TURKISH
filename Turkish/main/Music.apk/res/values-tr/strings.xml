@@ -87,7 +87,6 @@
   <string name="change_download_quality">İndirme kalitesini değiştir</string>
   <string name="checking_new_version">Güncellemeler kontrol ediliyor…</string>
   <string name="choose_download_quality">İndirme kalitesini seçin</string>
-  <string name="choose_language">Dil Seçin</string>
   <string name="choose_stream_quality">Akış kalitesini seç</string>
   <string name="click_to_shuffle">Hepsini karışık oynatmak için dokunun</string>
   <string name="close_music_time">"Kalan süre: "</string>
@@ -460,8 +459,6 @@
   <string name="miuishare_share_editor_title">Paylaş</string>
   <string name="miuishare_title_more">Fazlası</string>
   <string name="miuishare_title_share">Paylaş</string>
-  <string name="miuishare_wechat_timeline_title">Wechat Anları</string>
-  <string name="miuishare_weibo_title">Weibo</string>
   <string name="mobile_recommended_title">Mobil Veri Kullanımı</string>
   <string name="modify_lyric">Şarkı sözünü düzenle</string>
   <string name="modify_pic">Kapağı değiştir</string>
@@ -472,7 +469,7 @@
   <string name="more">Fazlası</string>
   <string name="more_add_song_list">Çalma listesine ekle</string>
   <string name="more_settings">Gelişmiş Ayarlar</string>
-  <string name="more_settings_summary">İndirme ayarları, Uyku Modu, Mobil Veri, Dosya Filtreleri, vb...</string>
+  <string name="more_settings_summary">Uyku zamanlayıcısı, dosyaları filtreleme ve daha fazlası</string>
   <string name="more_share">Paylaş</string>
   <string name="music_browser_label">Müzik</string>
   <string name="music_filter">Ses dosyalarını filtrele</string>
@@ -499,7 +496,7 @@
   <string name="no_online_song_selected">Seçilen şarkı yok</string>
   <string name="no_results_return">Arama sonucu yok</string>
   <string name="no_scanned_songs">Boş</string>
-  <string name="no_song_downloaded">Sunucuya bağlanılamıyor</string>
+  <string name="no_song_downloaded">İndirilecek şarkı bulunamadı</string>
   <string name="no_song_subtitle">Kendinizi sesin içine bırakın</string>
   <string name="no_song_title">Mi Müzik</string>
   <string name="no_system_cropper_find">Resimleri kırpmak için bir araç bulunamadı.</string>
@@ -772,4 +769,21 @@
   <string name="vip_tomorrow_renew_message">Yüksek kaliteli ses akışı sağlayamayacaksınız, ancak bazı şarkılar normal kalitede sunulacak.</string>
   <string name="wifi_required_body" formatted="false">WLAN kullanarak %s dosyayı indirin. \n\nDaha sonraki bir zamanda WLAN ağına bağlanırsanız %s dokunarak indirebilirsiniz.</string>
   <string name="wifi_required_title">Şebeke ağı için çok büyük indirme</string>
+  <string name="auto_update">Otomatik olarak güncelle</string>
+  <string name="auto_update_tip">Mobil veri kullanarak sistem uygulamalarını güncelleyebilirsiniz. Bu ek veri ücretleri oluşturabilir.</string>
+  <string name="hungama_category_playlist">Oynatma Listesi</string>
+  <string name="hungama_category_radio">Radyo</string>
+  <string name="hungama_category_video">Video</string>
+  <string name="language_page_confirm">Onayla</string>
+  <string name="language_preference">Dil tercihleri</string>
+  <string name="language_preference_desc">Daha alakalı öneriler almak için tercih ettiğiniz dilleri seçin</string>
+  <string name="languages">Diller</string> 
+  <string name="mv_metered_play_summary">Veri kullanım uyarısını gösterme</string>
+  <string name="mv_metered_play_title">Mobil veri kullanarak çevrimiçi videolar oynatın</string> 
+  <string name="not_now">Şimdi değil</string>
+  <string name="select">Seç</string>
+  <string name="select_desc_sub">En fazla 3 dil seçebilirsiniz</string>
+  <string name="select_one_language">En az 1 dil seçin</string>
+  <string name="select_three_languages">En fazla 3 dil seçebilirsiniz</string>
+  <string name="test_mode">Test modu</string>   
 </resources>
