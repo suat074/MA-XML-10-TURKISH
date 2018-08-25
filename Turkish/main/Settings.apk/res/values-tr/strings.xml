@@ -4646,7 +4646,7 @@
   <string name="turn_on_keyguard_password_alert_foget_ok">Anladım</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">Anladım(%d)</string>
   <string name="turn_on_keyguard_password_alert_forget_content">Kilit ekran şifrenizi unutmayın.Unutursanız,cihazınızdaki fotoğraflar ve kişiler de dahil olmak üzere tüm verileri silmeniz ve daha sonra yeni bir tane ayarlamanız gerekir.</string>
-  <string name="turn_on_keyguard_password_alert_forget_title">Eğer bunu unutursanız,bunu geri yüklemek mümkün olmayacak.</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">Şifrenizi hatırlayın</string>
   <string name="turn_on_security_lock">Ekran kilidini seç</string>
   <string name="turn_on_torch">Feneri aç</string>
   <string name="turn_update_keyguard_password_wait_dialog">Şifreyi Değiştir</string>

@@ -1044,5 +1044,7 @@
   <string name="app_setting_more_setting">Daha fazla ayar</string>
   <string name="app_setting_on_off_setting">Ayar anahtarı</string>
   <string name="app_setting_search">Arama çubuğu</string>
-  <string name="go_to_pay">Hızlı geri ödeme</string>  
+  <string name="go_to_pay">Hızlı geri ödeme</string> 
+  <string name="app_setting_xiaoai">Ses asistanı düğmesi</string>
+  <string name="tb_setting_xiaoai">Ses asistanı</string>  
 </resources>
