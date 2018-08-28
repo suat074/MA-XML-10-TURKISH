@@ -227,4 +227,9 @@
   <string name="timer_end_time_format_today">HH:mm</string> 
   <string name="timer_can_continue_in_timer">Devam etmek için Zamanlayıcıyı Aç</string>
   <string name="timer_is_paused">Zamanlayıcı duraklatıldı</string>
+  <string name="expired_timers_dismissed">Zamanlayıcı iptal edildi</string>
+  <string name="invalid_timer_length">Geçersiz zamanlayıcı uzunluğu</string>
+  <string name="other_category_title">Diğer</string>
+  <string name="privacy_policy">Gizlilik Politikası</string>
+  <string name="timer_created">Zamanlayıcı oluşturuldu</string>  
 </resources>

@@ -5753,7 +5753,7 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="enterprise_mode">Kurumsal mod</string>
   <string name="extended_power_menu">Genişletilmiş güç menüsü</string>
   <string name="status_bar_settings_expand_top_notification">Üst bildirimi genişlet</string>
-  <string name="delete_sound_effect">Sesi \"Sil\"</string>
+  <string name="delete_sound_effect">\"Silme\" sesi</string>
   <string name="keyguard_security_setting_others">Diğerleri</string>
   <string name="keyguard_security_setting_privacy_policy">Gizlilik Politikası</string>
   <string name="status_bar_settings_notification_use_app_icon">Bildirimler için uygulama simgelerini kullanın</string>
@@ -5763,5 +5763,10 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="stop_upload_modem_log">Modem günlüğü almayı bitir</string>
   <string name="upload_audio_log">Ses günlüğü almaya başla</string>
   <string name="upload_gps_log">GPS günlüğü almaya başla</string>
-  <string name="upload_modem_log">Modem günlüğünü almaya başla</string>  
+  <string name="upload_modem_log">Modem günlüğünü almaya başla</string>
+  <string name="failed_to_erase_text">Lütfen 1217 işlemini yapmadan önce kilit ekranı şifresini kapatın.</string>
+  <string name="failed_to_erase_title">Yasak işlem</string>
+  <string name="navigation_guide_appswitch_anim_summary">Önceki uygulamaya geri dönmek için kenardan başlayarak ekran boyunca hızlıca kaydırın</string>
+  <string name="navigation_guide_appswitch_anim_title">Önceki uygulamaya geç</string>
+  <string name="navigation_guide_appswitch_click">İlk önce \"Önceki uygulamaya geri dön\"ü açın</string>  
 </resources>

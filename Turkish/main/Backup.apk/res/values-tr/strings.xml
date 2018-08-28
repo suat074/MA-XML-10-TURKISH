@@ -593,7 +593,7 @@ Boş yer açın veya daha küçük transferler yapın."</string>
 Boş yer açın veya sadece önemli öğeleri aktarın."</string> 
   <string name="err_acquire_system_service">Sistem hizmeti başlatılamadı.</string>
   <string name="trans_button_exit">Çıkış</string>
-  <string name="trans_button_stay">Stay</string>
+  <string name="trans_button_stay">Kal</string>
   <string name="trans_cancel_selection_message">Mi Mover\'dan çıkarsanız, devam eden aktarım kesintiye uğrayacaktır. Aktarım tamamlanana kadar bekleyin.</string>
   <string name="trans_cancel_selection_title">Mi Mover\'da kalın</string>
   <string name="trans_select_notification_message">Görüntülemek için dokunun</string>

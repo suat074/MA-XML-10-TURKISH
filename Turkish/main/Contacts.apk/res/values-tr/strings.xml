@@ -404,7 +404,7 @@ Kartvizitler kapalı"</string>
     <string name="dialer_useDtmfDialpad">Dokunmatik Tuş Takımı kullan</string>
     <string name="dialog_import">Kişileri içe aktar</string>
     <string name="dialog_import_export">Kişileri içe/dışa Aktar</string>
-    <string name="dialog_new_contact_account">Hesaptan kişileri aktar</string>
+    <string name="dialog_new_contact_account">Hesap altında kişi oluşturun</string>
     <string name="dialog_new_group_account">Hesapta grup oluştur</string>
     <string name="dialog_phone_call_prohibited_message">Çağrı gönderilemedi</string>
     <string name="dialog_sync_add">Eşitleme grupu ekle</string>
