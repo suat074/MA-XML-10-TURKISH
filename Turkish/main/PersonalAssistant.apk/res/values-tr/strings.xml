@@ -1046,5 +1046,7 @@
   <string name="app_setting_search">Arama çubuğu</string>
   <string name="go_to_pay">Hızlı geri ödeme</string> 
   <string name="app_setting_xiaoai">Ses asistanı düğmesi</string>
-  <string name="tb_setting_xiaoai">Ses asistanı</string>  
+  <string name="tb_setting_xiaoai">Ses asistanı</string>
+  <string name="express_select_send_providers">Bir kurye servisi sağlayıcısı seçin</string>
+  <string name="express_send_not_available">Hizmet geçici olarak kullanılamıyor, lütfen daha sonra tekrar deneyin</string>  
 </resources>
