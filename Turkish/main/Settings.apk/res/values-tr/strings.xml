@@ -999,7 +999,7 @@
   <string name="charge_length_format">%1$s önce</string>
   <string name="charging_sounds_title">Şarj Sesleri</string>
   <string name="check_find_device_status_failure_confirm">Tamam</string>
-  <string name="check_importance">Önemli olarak işaretle?</string>
+  <string name="check_importance">Gruplandırılmış bildirimler için kurallar</string>
   <string name="check_update">Güncellemeleri denetle</string>
   <string name="checkbox_notification_same_as_incoming_call">Bildirimler için gelen çağrı ses seviyesini kullan</string>
   <string name="checking_decryption">Denetleniyor…</string>
@@ -5768,5 +5768,7 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="failed_to_erase_title">Yasak işlem</string>
   <string name="navigation_guide_appswitch_anim_summary">Önceki uygulamaya geri dönmek için kenardan başlayarak ekran boyunca hızlıca kaydırın</string>
   <string name="navigation_guide_appswitch_anim_title">Önceki uygulamaya geç</string>
-  <string name="navigation_guide_appswitch_click">İlk önce \"Önceki uygulamaya geri dön\"ü açın</string>  
+  <string name="navigation_guide_appswitch_click">İlk önce \"Önceki uygulamaya geri dön\"ü açın</string>
+  <string name="check_importance_dialog_cancel">İptal</string>
+  <string name="handy_mode_tips_full_screen">Tam ekran hareketlerini kullanırken, Hızlı topu kullanarak tek el modunu açabilirsiniz. Ayrıca, tam ekran hareketleri yerine düğmeleri kullanarak da geçiş yapabilirsiniz.</string>  
 </resources>
