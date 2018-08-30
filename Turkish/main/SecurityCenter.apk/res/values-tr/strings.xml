@@ -2320,7 +2320,7 @@
   <string name="reset_data_dialog_ok">Fabrika sıfırlama</string>  
   <string name="menu_item_about_privacy_title">Gizlilik Politikası</string>
   <string name="extreme_power_save_mode_title">Aşırı pil tasarrufu</string>
-  <string name="extreme_power_save_mode_summary">Aşırı pil tasarrufu arka plan aktivitesini kısıtlar, senkronizasyonu durdurur ve ekran renklerini azaltır.</string>
+  <string name="extreme_power_save_mode_summary">Aşırı pil tasarrufu arka plan etkinliğini kısıtlar ve senkronizasyonu durdurur.</string>
   <string name="extreme_power_save_description"><li>"Aşırı pil tasarrufu, bir uygulamayı kapattıktan ve Ana ekrana geri döndükten sonra uygulamanın tüm aktivitelerini durdurur. Bu uygulama size bildirim göndermeyecek veya güncelleme almayacak."</li>"
 "<li>Bir uygulamanın arka planda çalışmasını istiyorsanız, Son uygulamalar bölümünde kilitleyin veya aşağıdaki arka plan istisnalarına ekleyin. Aşırı pil tasarrufu açıkken 4 uygulamaya kadar arka planda çalışabilir.</li>"
 "<li>Aşırı pil tasarrufu varsayılan olarak NFC\'yi kapatır. Bunu Ayarlar\'dan değiştirebilirsiniz.</li>"
