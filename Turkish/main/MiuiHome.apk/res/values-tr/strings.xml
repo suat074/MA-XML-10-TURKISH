@@ -346,5 +346,6 @@
   <string name="reset_description_first_time">Düzeni %1$s ile 2 saat içinde geri yükleyebilirsiniz.</string>
   <string name="reset_description_others">Düzeni %1$s ile geri yükleyebilirsiniz.</string> 
   <string name="default_folder_title_services">Hizmetler</string>
-  <string name="open_personal_assistant_dialog_desc_international">Uygulama kasası kartları (Hisse Senetleri, kısayollar, vb) kullanmak mümkün olmayacaktır. Bu özelliği kapattıktan sonra güncelleştirmeleri alırsınız.</string>  
+  <string name="open_personal_assistant_dialog_desc_international">Bu özelliği kapattıktan sonra Uygulama Kasası kartlarını (hisse senetleri, kısayollar vb.) kullanamaz ve güncelleştirmeleri alamazsınız.</string>
+  <string name="use_theme_screen_cells_title">Temanın ekran düzenini geçersiz kılmasına izin ver</string>
 </resources>
