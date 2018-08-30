@@ -5770,5 +5770,9 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="navigation_guide_appswitch_anim_title">Önceki uygulamaya geç</string>
   <string name="navigation_guide_appswitch_click">İlk önce \"Önceki uygulamaya geri dön\"ü açın</string>
   <string name="check_importance_dialog_cancel">İptal</string>
-  <string name="handy_mode_tips_full_screen">Tam ekran hareketlerini kullanırken, Hızlı topu kullanarak tek el modunu açabilirsiniz. Ayrıca, tam ekran hareketleri yerine düğmeleri kullanarak da geçiş yapabilirsiniz.</string>  
+  <string name="handy_mode_tips_full_screen">Tam ekran hareketlerini kullanırken, Hızlı topu kullanarak tek el modunu açabilirsiniz. Ayrıca, tam ekran hareketleri yerine düğmeleri kullanarak da geçiş yapabilirsiniz.</string> 
+  <string name="close_aod">Bu özellik \"Her zaman açık modu\" ile birleştirilemez. Önce \"Her zaman açık modu\" kapatın."</string>
+  <string name="close_fod">Ekran kapalıyken parmağınızı kullanarak cihazınızın kilidini açamazsınız. Parmak izi ile kilidi açma sadece ekran açıkken çalışır.</string>
+  <string name="close_fod_aod">Ekran kapalıyken parmağınızı kullanarak cihazınızın kilidini açamazsınız. \"Her zaman açık modu\" ile mevcut olmayacaktır. Parmak izi ile kilidi açma sadece ekran açıkken çalışır.</string>
+  <string name="to_close">Kapat</string>  
 </resources>
