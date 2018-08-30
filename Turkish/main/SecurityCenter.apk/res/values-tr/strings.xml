@@ -2340,7 +2340,7 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Ekranda iki parmağınızı yayın. Uygulama kilitleme şifrenizi girmenizi isteyen bir mesaj görürsünüz.</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Şifrenizi girdikten sonra, gizli uygulamaların bulunduğu klasör görünecektir.</string>
   <string name="privacy_apps_manage_dialog_title">Gizli uygulamalar hakkında</string>
-  <string name="privacy_apps_manager_dialog_message">Uygulamaları gizlemek için, uygulama ekran kilidinizi ayarlamanız gerekir. Gizli uygulamalar için bildirimler kapatılacak. Bu uygulamayı gizle?</string>
+  <string name="privacy_apps_manager_dialog_message">Bu uygulamayı gizledikten sonra bu uygulamanın simgesi Ana ekranda görüntülenmeyecek. Bu uygulama şimdi gizlensin mi?</string>
   <string name="privacy_apps_checkbox_remind_choice">Tekrar gösterme</string>
   <string name="privacy_apps_go_to_use">Başla</string>
   <string name="privacy_apps_close">Kapat</string> 
