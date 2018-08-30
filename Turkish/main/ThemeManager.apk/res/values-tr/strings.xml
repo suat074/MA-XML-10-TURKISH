@@ -356,10 +356,6 @@
   <string name="resource_ranking">Popüler</string>
   <string name="resource_ranking_free">Ücretsiz</string>
   <string name="resource_ranking_purchase">Ücretli</string>
-  <string name="resource_ring_ranking_list_divider">-</string>
-  <string name="resource_ring_ranking_list_rank_1">1</string>
-  <string name="resource_ring_ranking_list_rank_2">2</string>
-  <string name="resource_ring_ranking_list_rank_3">3</string>
   <string name="resource_ringtone_default">Zil Sesleri</string>
   <string name="resource_ringtone_playing_error">Hata</string>
   <string name="resource_ringtone_volume_mute">Zil Sesi sessiz</string>
