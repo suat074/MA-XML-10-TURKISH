@@ -2452,7 +2452,6 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="pc_settings_title">Pil kullanım ayarları</string>
   <string name="power_center_hints_scan_danger_result">Şimdi pil sorunlarını düzeltebilirsiniz</string>
   <string name="power_center_list_item_auto_brightness">Ekran parlaklığını otomatik olarak ayarla</string>
-  <string name="power_center_list_item_battery_status_capacity">mAh</string>
   <string name="power_center_list_item_battery_status_time">s</string>
   <string name="power_center_list_item_close_bluetooth">Bluetooth\'u kapat</string>
   <string name="power_center_list_item_deep_save_title">Gelişmiş ayarlar</string>
