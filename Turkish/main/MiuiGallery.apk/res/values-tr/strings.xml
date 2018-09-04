@@ -505,7 +505,7 @@
   <string name="grant_permission_title">Erişime izin ver</string>
   <string name="grant_permission_unlock_and_set">Kilidi aç ve ayarla</string>
   <string name="has_invalid_recipient">Geçersiz alıcılar: %1$s</string>
-  <string name="have_known">Bilinen</string>
+  <string name="have_known">Anladım</string>
   <string name="hidden_album_display_name">Gizli Albüm</string>
   <string name="home_menu_cleaner">Alanı boşalt</string>
   <string name="home_menu_collage">Kolaj</string>
