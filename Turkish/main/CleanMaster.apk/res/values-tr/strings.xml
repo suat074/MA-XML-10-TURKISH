@@ -660,7 +660,7 @@
   <string name="clean_summary">%1$s dosya temizlendi</string>
   <string name="onekeyclean_boosting_title">Hız artırma</string>
   <string name="onekeyclean_boosted_title">Başarıyla temizlendi</string>
-  <string name="onekeyclean_boost_cleaned">%s Temizlendi</string>
+  <string name="onekeyclean_boost_cleaned">%s temizlendi</string>
   <string name="onekeyclean_boost_available">%s kullanılabilir</string>
   <string name="onekeyclean_card_summery">Boş alan açmak için çöpü temizle</string>
   <string name="onekeyclean_card_btn">Şimdi temizle</string>

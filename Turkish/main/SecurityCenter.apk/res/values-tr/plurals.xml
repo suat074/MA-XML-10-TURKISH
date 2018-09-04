@@ -346,5 +346,13 @@
    <plurals name="first_aid_result_summary_exception">
      <item quantity="other">%1$d sorun optimizasyon gerektirir</item>
      <item quantity="one">%1$d sorun optimizasyon gerektirir</item>
+   </plurals>
+   <plurals name="power_center_menu_text">
+     <item quantity="other">öğe</item>
+     <item quantity="one">öğe</item>
+   </plurals>
+   <plurals name="power_center_list_item_optimize_button">
+     <item quantity="other">%d dakika ekle</item>
+     <item quantity="one">%d dakika ekle</item>
    </plurals>   
 </resources>

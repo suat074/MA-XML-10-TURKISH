@@ -2058,7 +2058,7 @@
   <string name="install_no_market_app_summary">Uygulama Mağazası dışındaki kaynaklardan uygulama kurulmasına izin verir</string>
   <string name="install_no_market_app_title">Bilinmeyen Kaynaklar</string>
   <string name="install_other_apps">Bilinmeyen uygulamaları yükle</string>
-  <string name="install_preinstall_app">Uygulamalar yükleniyor...</string>
+  <string name="install_preinstall_app">Bölge değiştiriliyor…</string>
   <string name="install_text">Yükle</string>
   <string name="install_type_instant">Hazır uygulama</string>
   <string name="install_whole_rom">ROM İndir</string>
@@ -4716,7 +4716,7 @@
   <string name="unlock_set_unlock_password_title">Şifre</string>
   <string name="unlock_set_unlock_pattern_summary">Kilidi açmak için parmağınızla basit bir desen çizin</string>
   <string name="unlock_set_unlock_pattern_title">Desen</string>
-  <string name="unlock_set_unlock_pin_summary">Kilidi açmak için dört basamaklı numara belirleyin</string>
+  <string name="unlock_set_unlock_pin_summary">Cihaz kilidini açmak için 4-16 basamaklı sayı girin</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Ekran kilidini ayarla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Parmakizi veya Ekran Kilidi Ayarlarını Ayarlar &gt; Güvenlik bölümününden yapabilirsiniz.</string>
@@ -5774,5 +5774,6 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="close_aod">Bu özellik \"Her zaman açık modu\" ile birleştirilemez. Önce \"Her zaman açık modu\" kapatın."</string>
   <string name="close_fod">Ekran kapalıyken parmağınızı kullanarak cihazınızın kilidini açamazsınız. Parmak izi ile kilidi açma sadece ekran açıkken çalışır.</string>
   <string name="close_fod_aod">Ekran kapalıyken parmağınızı kullanarak cihazınızın kilidini açamazsınız. \"Her zaman açık modu\" ile mevcut olmayacaktır. Parmak izi ile kilidi açma sadece ekran açıkken çalışır.</string>
-  <string name="to_close">Kapat</string>  
+  <string name="to_close">Kapat</string> 
+  <string name="title_jeejen">Jeejen Ana ekranı</string>
 </resources>

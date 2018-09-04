@@ -132,4 +132,16 @@
     <item quantity="other">Açık</item>
     <item quantity="one">Açık</item>
   </plurals>
+  <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+    <item quantity="other">%d saat kaldı</item>
+    <item quantity="one">%d saat kaldı</item>
+  </plurals>
+  <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+    <item quantity="other">%d dakika kaldı</item>
+    <item quantity="one">%d dakika kaldı</item>
+  </plurals>
+  <plurals name="keyguard_extreme_power_info_could_use_time_text">
+    <item quantity="other">%1$d s %2$d d kaldı</item>
+    <item quantity="one">%1$d s %2$d d kaldı</item>
+  </plurals>  
 </resources>

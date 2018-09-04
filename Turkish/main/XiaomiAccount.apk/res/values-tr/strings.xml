@@ -623,5 +623,6 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="passport_license_info_open">Ayrıntılar</string>
   <string name="passport_new_user_register">Bir hesap oluştur</string>
   <string name="passport_register_using_other_ways">Kayıt için diğer yollar</string>
-  <string name="passport_wrong_voice">Girdiğiniz kod yanlış</string>  
+  <string name="passport_wrong_voice">Girdiğiniz kod yanlış</string> 
+  <string name="account_invalid_user_avatar">Fotoğraf geçersiz</string>
 </resources>

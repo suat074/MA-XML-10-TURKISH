@@ -596,5 +596,11 @@
   <string name="resource_comment_wonderful_comments">Popüler yorumlar</string>
   <string name="resource_free_download">Ücretsiz indir</string>
   <string name="tag_ad">Reklam</string>
-  <string name="tips_theme_gate_transfer_fail">Bu sayfa açılamadı. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>  
+  <string name="tips_theme_gate_transfer_fail">Bu sayfa açılamadı. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string> 
+  <string name="exit_extreme_mode_dialog_agree">Kabul</string>
+  <string name="exit_extreme_mode_dialog_cancel">İptal</string>
+  <string name="exit_extreme_mode_dialog_title">Aşırı modunu kapat</string>
+  <string name="extreme_mode_dialog_message">Bu özellik Aşırı modda mevcut değildir. Kullanabilmek için Aşırı modu kapatın.</string>
+  <string name="extreme_mode_dialog_ok">Anladım</string>
+  <string name="extreme_mode_dialog_title">Uyarı</string>  
 </resources>
