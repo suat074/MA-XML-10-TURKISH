@@ -668,4 +668,6 @@
   <string name="pref_title_create_onekeyclean_shortcut">Ana ekranda kısayol göster</string>
   <string name="memory_clean_no_trash_tip">Her şey iyi görünüyor</string>  
   <string name="pref_about_privacy_title">Gizlilik Politikası</string>
+  <string name="toast_updater_close_4g_text">Uygulamalar mobil veri (4G) kullanılarak güncellenmez</string>
+  <string name="toast_updater_open_4g_text">Uygulamalar mobil veri (4G) kullanılarak güncellenecektir</string>  
 </resources>

@@ -1031,6 +1031,8 @@
   <string name="close_miui_optimization_title">MIUI iyileştirmesini kapat</string>
   <string name="close_optimization_message">Bu özelliği kapattıktan sonra metin düzeni, hesaplar ve MIUI dışındaki diğer bölümler etkilenebilir.</string>
   <string name="close_optimization_option">Kapat</string>
+  <string name="close_sdcard_optimization_title">Taklit sdcard optimizasyonunu kapat</string>
+  <string name="close_sdcard_optimization_warning_message">Bu değişikliği uygulamak için cihazınız yeniden başlayacaktır.</string>  
   <string name="cloud_backup_section_title">Mi Bulut Yedeği</string>
   <string name="cloud_backup_settings_section_title">Yedekleme Ayarları</string>
   <string name="cloud_restore_section_summary">Uygulamaları, Ana Sayfayı ve Sistem Ayarlarını geri yükler</string>
@@ -1569,6 +1571,7 @@
   <string name="doze_summary">Cihaz ve bildirimler geldiğinde ekranı uyandır</string>
   <string name="doze_title">Ortam Görüntüsü</string>
   <string name="draw_overlay">Diğer uygulamalar üzerinde göster</string>
+  <string name="draw_overlay_title">Diğer uygulamalar üzerinde göster</string>
   <string name="dtmf_tone_enable_title">Tuş Takımı Sesleri</string>
   <string name="edge_mode_back">Geri Dön</string>
   <string name="edge_mode_back_summary">Telefonunuzun kenarına geri dönmek için iki kez hafifçe vurun</string>
@@ -1611,6 +1614,8 @@
   <string name="enable_terminal_summary">Yerel kabuk erişimi olan terminal uygulamasını etkinleştir</string>
   <string name="enable_terminal_title">Yerel İstemci</string>
   <string name="enable_text">Etkin</string>
+  <string name="enable_webview_multiprocess">Çok İşlemli WebView</string>
+  <string name="enable_webview_multiprocess_desc">WebView oluşturucularını ayrı ayrı çalıştır</string>  
   <string name="enable_wifi_display">Kablosuz Ekran</string>
   <string name="enabled_authorised_apps_summary">Bireysel uygulamaların anahtarıyla geçiş yaptıktan sonra yetkiniz iptal edilecektir.</string>
   <string name="enabled_authorised_apps_title">Verilen yetki</string>
@@ -3003,6 +3008,8 @@
   <string name="open_miui_optimization_title">\'MIUI\'i iyi hale getir\' açık</string>
   <string name="open_optimization_message">Daha pürüzsüz, daha hızlı bir kullanıcı arayüzünün keyfini çıkarmak için optimizasyonu açın.</string>
   <string name="open_optimization_option">Aç</string>
+  <string name="open_sdcard_optimization_title">Taklit sdcard optimizasyonu açık</string>
+  <string name="open_sdcard_optimization_warning_message">Bu değişikliği uygulamak için cihazınız yeniden başlayacaktır.</string>  
   <string name="open_wifi_connect_summary">Ayrıntılarını görüntülemek için dokunun.</string>
   <string name="open_wifi_connect_title">%1$s bağlan</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Bu iş profilini yöneten:</string>
@@ -3695,6 +3702,11 @@
   <string name="sd_mount">USB Depolamayı bağla</string>
   <string name="sdcard_changes_instructions">Değişiklikler USB kablosu yeniden bağlandığında devreye girer</string>
   <string name="sdcard_format">USB Depolamayı sil</string>
+  <string name="sdcard_optimization">Taklit SD kart optimizasyonu</string>
+  <string name="sdcard_optimization_cancel">İptal</string>
+  <string name="sdcard_optimization_close">Kapat &amp; yeniden başlat</string>
+  <string name="sdcard_optimization_open">Aç</string>
+  <string name="sdcard_optimization_summary">SD kartınızı çok daha hızlı yapın</string>  
   <string name="sdcard_setting">USB Depolama</string>
   <string name="sdcard_settings_available_bytes_label">Kullanılabilir Bayt:</string>
   <string name="sdcard_settings_bad_removal_status">USB Depolama kullanılırken çıkarıldı!</string>
@@ -5776,4 +5788,11 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="close_fod_aod">Ekran kapalıyken parmağınızı kullanarak cihazınızın kilidini açamazsınız. \"Her zaman açık modu\" ile mevcut olmayacaktır. Parmak izi ile kilidi açma sadece ekran açıkken çalışır.</string>
   <string name="to_close">Kapat</string> 
   <string name="title_jeejen">Jeejen Ana ekranı</string>
+  <string name="status_bar_settings_customer_feedback">geribildirim</string>
+  <string name="status_bar_settings_function_description">Bu özellik hakkında</string>
+  <string name="status_bar_settings_user_fold_description1">Bildirimler klasörü MIUI 9\'da tanıtıldı. Bu özellik önemsiz bildirimleri filtreler ve bunları ayrı bir klasöre yerleştirir.</string>
+  <string name="status_bar_settings_user_fold_description2">MIUI hangi bildirimlere dokunduğunuzu hatırlayacak ve ardından bunların önemli olup olmadığını belirlemek için birden fazla ölçüt kullanacaktır.</string>
+  <string name="status_bar_settings_user_fold_description3">Önemli olduğunu düşündüğünüz bildirimler hala Bildirimler klasörüne giriyorsa, bu tür sorunları bize bildirdiğinizden emin olun. Geri bildiriminiz için teşekkür ederiz.</string>
+  <string name="status_bar_settings_user_fold_disable">Kapalı</string>
+  <string name="status_bar_settings_user_fold_enable">Açık</string>  
 </resources>

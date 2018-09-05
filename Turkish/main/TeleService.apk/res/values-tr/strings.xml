@@ -339,7 +339,7 @@
   <string name="card_title_MOcall_forwarding">Giden Yönlendirilmiş Çağrı</string>
   <string name="card_title_MTcall_forwarding">Gelen Çağrı Yönlendirilmiş</string>
   <string name="card_title_multipartycall">Çoklu Çağrı</string>
-  <string name="card_title_on_hold">Beklemede</string>
+  <string name="card_title_on_hold">"Beklemede "</string>
   <string name="card_title_outgoing_barred">Giden Engelli Çağrı</string>
   <string name="card_title_redialing">Yeniden Aranıyor</string>
   <string name="card_title_unconditionalCF">Şartısız Çağrı Yönlendirme açık</string>

@@ -1305,5 +1305,8 @@
   <string name="suggestion_input_history_title_text">GİRİŞ TARİHİ</string>
   <string name="suggestion_input_hitory_clear_text">TEMİZLE</string>
   <string name="url_hint_head">Herkesin aradığı：</string> 
-  <string name="pref_privacy_policy">Gizlilik Politikası</string>  
+  <string name="pref_privacy_policy">Gizlilik Politikası</string> 
+  <string name="data_traffic_download_cancel">İptal</string>
+  <string name="data_traffic_download_prompt">Mevcut video sadece wifi ortamında indirilebilir</string>
+  <string name="data_traffic_download_setting">Ayarlar</string>  
  </resources>
