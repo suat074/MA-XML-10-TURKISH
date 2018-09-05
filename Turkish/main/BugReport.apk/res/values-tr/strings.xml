@@ -228,7 +228,6 @@
   <string name="nothing">--</string>
   <string name="open_feedback_main">Fazlası</string>
   <string name="packaging_dialog_content">Rapor oluşturuluyor...</string>
-  <string name="permission_granted">%1$s izin verildi</string>
   <string name="pic_not_exist">"Bu resim yok"</string>
   <string name="plus_one_submit_dialog_content">"Seçtiğiniz geribildirim, hata günlükleri ile birlikte, Mi sunucularına gönderilecektir."</string>
   <string name="plus_one_submit_dialog_not_show_again">Tercihleri hatırla</string>
@@ -265,9 +264,7 @@
   <string name="tab_title_chat">SSS</string>
   <string name="tab_title_my_reports">Raporlarım</string>
   <string name="tab_title_report">Geribildirim</string>
-  <string name="time_in_justnow">Şu anda</string>
   <string name="title_answer_feedback_main">Cevabı bulduk!</string>
-  <string name="title_bbs_feedback_main">Mi telefonları hakkında daha fazla bilgi edinin</string>
   <string name="title_customer_service">Müşteri Servisi</string>
   <string name="title_frequent_question_feedback_main">SSS</string>
   <string name="title_mi_family">Mi Ev yakında</string>
