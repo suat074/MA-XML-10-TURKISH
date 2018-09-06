@@ -60,7 +60,6 @@
   <string name="toast_sleep_mode">Radyo %s dakika içerisinde kapatılacak.</string>
   <string name="toast_sleep_mode_exit">Uyku Zamanlayıcısı iptal edildi</string>
   <string name="turn_off_fm">Radyoyu kapat</string>
-  <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">Uyku Modu</string>
   <string name="using_recorder_cancel">Kabul etmiyorum</string>
   <string name="using_recorder_confirm">İzinli</string>
