@@ -5792,7 +5792,10 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="status_bar_settings_function_description">Bu özellik hakkında</string>
   <string name="status_bar_settings_user_fold_description1">Bildirimler klasörü MIUI 9\'da tanıtıldı. Bu özellik önemsiz bildirimleri filtreler ve bunları ayrı bir klasöre yerleştirir.</string>
   <string name="status_bar_settings_user_fold_description2">MIUI hangi bildirimlere dokunduğunuzu hatırlayacak ve ardından bunların önemli olup olmadığını belirlemek için birden fazla ölçüt kullanacaktır.</string>
-  <string name="status_bar_settings_user_fold_description3">Önemli olduğunu düşündüğünüz bildirimler hala Bildirimler klasörüne giriyorsa, bu tür sorunları bize bildirdiğinizden emin olun. Geri bildiriminiz için teşekkür ederiz.</string>
+  <string name="status_bar_settings_user_fold_description3">Önemli olduğunu düşündüğünüz bildirimler hala Bildirimler klasörüne giriyorsa, bu tür sorunları bize bildirin. Şimdiden geribildirim için teşekkür ederiz.</string>
   <string name="status_bar_settings_user_fold_disable">Kapalı</string>
-  <string name="status_bar_settings_user_fold_enable">Açık</string>  
+  <string name="status_bar_settings_user_fold_enable">Açık</string>
+  <string name="aod_close_color_inversion">Bu özellik, renk inversiyonu ile birleştirilemez. Önce renk inversiyonunu kapatın.</string>
+  <string name="aod_got_it">Anladım</string>
+  <string name="aod_to_close">Kapat</string>  
 </resources>
