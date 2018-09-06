@@ -1270,5 +1270,16 @@ mevcut"</string>
   <string name="search_request_requesting">Uygulandı. Başlamadan önce biraz bekleyin.</string>
   <string name="secret_reason_video_not_support">Gizli albüme video eklenemez</string>
   <string name="video_editor_video_loading">Video hazırlanıyor… Bir iki saniye bekleyin ve tekrar deneyin.</string> 
-  <string name="photo_editor_crop_auto">Otomatik</string>  
+  <string name="photo_editor_crop_auto">Otomatik</string> 
+  <string name="privacy_permission_request_message">Galerinin %3$s erişmesi gerekiyor. Topladığımız bilgiler %1$s ve %2$s ile uyumlu olarak kullanılacaktır. İzin ver?</string>
+  <string name="privacy_permission_request_negative">Kısıtla</string>
+  <string name="privacy_permission_request_positive">İzin ver</string>
+  <string name="privacy_permission_request_title">İzin gerekli</string>
+  <string name="video_editor_cancel_download">İptal</string>
+  <string name="video_editor_download">İndir</string>
+  <string name="video_editor_download_failed_for_notwork">İndirilemedi. Ağa bağlanın ve tekrar deneyin.</string>
+  <string name="video_editor_download_without_wifi_msg">Dosyaları indirmek için mobil veri bağlantısını kullanmak veri kullanımınızı artıracaktır. Tarifenizdeki veri limitini aşarsanız, operatörünüz sizden ek ücret talep edebilir.</string>
+  <string name="video_editor_download_without_wifi_title">Veri kullanımı uyarısı</string>
+  <string name="video_editor_return">Geri</string>
+  <string name="video_editor_save">Kaydet</string>  
 </resources>
