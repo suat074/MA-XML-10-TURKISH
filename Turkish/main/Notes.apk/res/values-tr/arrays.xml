@@ -80,5 +80,9 @@ Notun üst sağ köşedeki \"Fazlası\" düğmesine dokunup ve buradaki \"Hatır
     <string-array name="second_guide_contents">
         <item>Sesli notlar</item>
         <item>Sesinizin orijinal kayıtlarını notlara ekleyerek yerleşik konuşma-metin motorunu kullanarak notlar oluşturun.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Sesli notlar</item>
+        <item>Şimdi sesli notlar oluşturabilirsiniz. Sadece simgeye dokunun, sesinizi kaydedin ve ses dosyasını Notlar içine kaydedin.</item>
     </string-array>	
 </resources>

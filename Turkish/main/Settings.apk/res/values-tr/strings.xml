@@ -2018,7 +2018,7 @@
   <string name="high_power_system">Pili iyi hale getirme mevcut değil</string>
   <string name="history_details_title">Geçmiş Detaylar</string>
   <string name="home">Ayarlar Ana Sayfası</string>
-  <string name="home_app">Ana Sayfa Uygulaması</string>
+  <string name="home_app">Başlatıcı</string>
   <string name="home_key">Ana Sayfa</string>
   <string name="home_work_profile_not_supported">İş profilleri desteklemiyor</string>
   <string name="http_invoke_app">Web Uygulamaları</string>
@@ -5797,5 +5797,6 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="status_bar_settings_user_fold_enable">Açık</string>
   <string name="aod_close_color_inversion">Bu özellik, renk inversiyonu ile birleştirilemez. Önce renk inversiyonunu kapatın.</string>
   <string name="aod_got_it">Anladım</string>
-  <string name="aod_to_close">Kapat</string>  
+  <string name="aod_to_close">Kapat</string>
+  <string name="following_us_title">Bizi takip edin</string>
 </resources>
