@@ -2443,7 +2443,7 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="first_aid_dialog_msg_stop_scan">Tarama şimdi durdurulsun mu?</string> 
   <string name="auto_task_result_summary_text">Pil tasarrufu için otomatik görevleri ayarla</string>
   <string name="extreme_power_save_mode_card_summary">Pil azaldığında gücü korumak için Aşırı modunu açın.</string>
-  <string name="handle_title_abnormal">Pil boşaldı</string>
+  <string name="handle_title_abnormal">Pil tüketimi</string>
   <string name="handle_title_app">Uygulamalar</string>
   <string name="handle_title_details">Pil kullanım detayları</string>
   <string name="handle_title_system">Sistem pil kullanımı</string>
