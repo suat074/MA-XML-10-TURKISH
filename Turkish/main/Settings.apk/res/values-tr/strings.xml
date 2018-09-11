@@ -5512,8 +5512,6 @@
   <string name="wifi_traffic_priority_regular">Düzenli Mod</string>
   <string name="wifi_traffic_priority_regular_summary">Arka plan işlemleri ile ön plandaki uygulama bant genişliğini paylaş</string>
   <string name="wifi_traffic_priority_summary">Bağlantı hızını otomatik olarak önceliklendir</string>
-  <string name="wifi_type_approval_dialog_title">MiuiPro Hakkında</string>
-  <string name="wifi_type_approval_title">MiuiPro Hakkında</string>
   <string name="wifi_unchanged">(değişmemiş)</string>
   <string name="wifi_unspecified">Lütfen seçin</string>
   <string name="wifi_update">Yenileme İstatistikleri</string>
