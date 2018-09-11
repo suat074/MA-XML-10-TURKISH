@@ -91,7 +91,7 @@
   <string name="appconfig_active_app_dialog_title">Etkin uygulamaları yönet</string>
   <string name="config_classify">Uygulama ayarlarına göre sırala</string>
   <string name="privacy">Gizlilik Politikası</string>
-  <string name="about_extreme_mode">Aşırı pil tasarrufu</string>
-  <string name="extreme_mode_max_item_alert">Aşırı pil tasarrufu modunda arka planda çalışması için sadece 4 uygulama seçilebilir</string>
+  <string name="about_extreme_mode">Aşırı modu</string>
+  <string name="extreme_mode_max_item_alert">Aşırı modunda arka planda çalışacak en fazla 4 uygulama seçebilirsiniz.</string>
   <string name="message_i_know">Biliyorum</string>  
 </resources>

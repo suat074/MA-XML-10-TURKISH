@@ -1491,4 +1491,5 @@ Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardınd
     <string name="winter_solstice">Günberi</string>
 	<string name="preference_privacy_policy_title">Gizlilik Politikası</string>
 	<string name="rcs_app_name">Mini uygulama</string>
+	<string name="conference_call_disable_tip">Arama yapılamıyor. Cihazınızın VoLTE desteği ile 4G ağına bağlı olduğundan emin olun.</string>
 </resources>

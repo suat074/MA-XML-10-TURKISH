@@ -587,7 +587,7 @@
   <string name="face_unlock_offset_top">Telefonunuzu biraz kaldırın</string>
   <string name="face_unlock_open_eye">Gözlerinizi biraz daha açın</string>
   <string name="face_unlock_passwork">Şifreyi kullan</string>
-  <string name="face_unlock_passwork_and_fingerprint">Şifre veya yüz verilerini kullan</string>
+  <string name="face_unlock_passwork_and_fingerprint">Şifre veya parmak izi kullan</string>
   <string name="face_unlock_quality">Yüzünü net göremedim</string>
   <string name="face_unlock_reenter_content">Yüz kilidini açma algoritması güncelleniyor. Yüz verilerini tekrar kaydetmek için dokunun.</string>
   <string name="face_unlock_reenter_title">Yüz verilerini tekrar kaydedin.</string>
@@ -1670,7 +1670,7 @@
   <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bluetooth cihaz pili yüzde %d.</string> 
   <string name="keyguard_left_bankcard">Hesap Makinesi</string>
   <string name="keyguard_left_buscard">Notlar</string>
-  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">FamilyGuard açıkken alanlar arasında geçiş yapılamaz</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Ebeveyn denetimleri açıkken alanlar arasında geçiş yapılamaz</string>
   <string name="accessibility_fingerprint_dialog_app_icon">Uygulama simgesi</string>
   <string name="accessibility_fingerprint_dialog_fingerprint_icon">Parmak izi simgesi</string>
   <string name="accessibility_fingerprint_dialog_help_area">Yardım mesajı alanı</string>

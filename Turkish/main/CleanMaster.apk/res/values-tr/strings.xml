@@ -657,7 +657,7 @@
   <string name="whatsapp_delete_confirm_cancel">İptal</string>
   <string name="whatsapp_delete_confirm_message">Şimdi sil?</string>
   <string name="whatsapp_delete_confirm_ok">Tamam</string> 
-  <string name="clean_summary">%1$s dosya temizlendi</string>
+  <string name="clean_summary">%1$s temizlendi</string>
   <string name="onekeyclean_boosting_title">Hız artırma</string>
   <string name="onekeyclean_boosted_title">Başarıyla temizlendi</string>
   <string name="onekeyclean_boost_cleaned">%s temizlendi</string>

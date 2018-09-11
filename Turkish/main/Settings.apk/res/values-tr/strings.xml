@@ -5777,7 +5777,7 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="failed_to_erase_text">Lütfen 1217 işlemini yapmadan önce kilit ekranı şifresini kapatın.</string>
   <string name="failed_to_erase_title">Yasak işlem</string>
   <string name="navigation_guide_appswitch_anim_summary">Önceki uygulamaya geri dönmek için kenardan başlayarak ekran boyunca hızlıca kaydırın</string>
-  <string name="navigation_guide_appswitch_anim_title">Önceki uygulamaya geç</string>
+  <string name="navigation_guide_appswitch_anim_title">Önceki uygulamaya geri dön</string>
   <string name="navigation_guide_appswitch_click">İlk önce \"Önceki uygulamaya geri dön\"ü açın</string>
   <string name="check_importance_dialog_cancel">İptal</string>
   <string name="handy_mode_tips_full_screen">Tam ekran hareketlerini kullanırken, Hızlı topu kullanarak tek el modunu açabilirsiniz. Ayrıca, tam ekran hareketleri yerine düğmeleri kullanarak da geçiş yapabilirsiniz.</string> 

@@ -100,4 +100,12 @@ Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerek
   <string name="terms_of_use_lable_smart_cards">, Akıllı kartlar</string>
   <string name="terms_of_use_lable_apps">Mi hizmetleri, Mi SIM etkinleştirme hizmetleri, Mi Bulut, Cihazı bul, Ana ekran, Oyun merkezi, MAB, MIUI Daemon ve MSA sistem bileşenleri, Çeviri hizmetleri, Hızlı uygulamalar, Uygulama kasası, istatistik, Mi Link</string> 
   <string name="voice_assist_advice">Mi AI, ses kontrollerini kullanmanıza izin verir, ancak daha fazla güç tüketir (Her saat +1%).</string>
+  <string name="ai_button_desc">Mi AI\'yı tetiklemek ve sadece sesinizi kullanarak telefonunuzdaki görevleri tamamlamak için bu düğmeyi kullanın</string>
+  <string name="ai_button_double_press">İki kere basın</string>
+  <string name="ai_button_double_press_desc">Mi AI özelliklerini ayarlama</string>
+  <string name="ai_button_long_press">Basın ve basılı tutun</string>
+  <string name="ai_button_long_press_desc">Komutu söyle ve düğmeyi bırak</string>
+  <string name="ai_button_single_press">Basın</string>
+  <string name="ai_button_single_press_desc">Mi AI tetikleyici</string>
+  <string name="ai_button_title">AI düğmesi hakkında</string>  
 </resources>

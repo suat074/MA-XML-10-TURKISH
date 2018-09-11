@@ -2443,7 +2443,7 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="first_aid_dialog_msg_stop_scan">Tarama şimdi durdurulsun mu?</string> 
   <string name="auto_task_result_summary_text">Pil tasarrufu için otomatik görevleri ayarla</string>
   <string name="extreme_power_save_mode_card_summary">Pil azaldığında gücü korumak için Aşırı modunu açın.</string>
-  <string name="handle_title_abnormal">Pil tüketimi</string>
+  <string name="handle_title_abnormal">Pil boşaltımı</string>
   <string name="handle_title_app">Uygulamalar</string>
   <string name="handle_title_details">Pil kullanım detayları</string>
   <string name="handle_title_system">Sistem pil kullanımı</string>
@@ -2458,7 +2458,7 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="power_center_list_item_set_lockscreen_time">30 saniye boyunca işlem yapılmadığında uyku moduna geç</string>
   <string name="power_center_scan_item_title_GPS">GPS doğruluğunu ayarla</string>
   <string name="power_center_scan_item_title_abnormal">Pil sorunları</string>
-  <string name="power_center_scan_item_title_abnormal_apps">Anormal güç tüketen uygulama</string>
+  <string name="power_center_scan_item_title_abnormal_apps">Pili boşaltan uygulamalar</string>
   <string name="power_center_scan_item_title_auto_invoke">Zincir başlangıcı</string>
   <string name="power_center_scan_item_title_auto_start">Otomatik başlatma</string>
   <string name="power_center_scan_item_title_battery_details">Pil kullanım detayları</string>
@@ -2469,5 +2469,9 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="power_center_scan_item_title_running_app">Arka planda çalışan uygulamalar</string>
   <string name="power_center_scan_result_safe">Pil sorunu bulunmadı</string>
   <string name="power_center_stop_scan_title">Taramayı durdur</string>
-  <string name="power_save_started_summary_text">"power_save_started_summary_text&gt;Pil tasarrufu açık. Uygulamaların arka plan etkinliğini azaltır, senkronizasyonu durdurur ve sistem animasyonlarını en aza indirir."</string>  
+  <string name="power_save_started_summary_text">"power_save_started_summary_text&gt;Pil tasarrufu açık. Uygulamaların arka plan etkinliğini azaltır, senkronizasyonu durdurur ve sistem animasyonlarını en aza indirir."</string>
+  <string name="device_manager_apply_step_1">Bu uygulama için cihaz yöneticisini etkinleştir?</string>
+  <string name="device_manager_apply_step_2">"Bu uygulama için cihaz yöneticisini etkinleştirmek, kişisel verilerinizin açığa çıkmasına neden olabilir.
+Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanabilir."</string>
+  <string name="device_manager_apply_step_3">Devam etmeden önce olası tüm riskleri anladığınızdan emin olun. Şimdi bu uygulama için cihaz yöneticisi etkinleştirilsin mi?</string>  
 </resources>

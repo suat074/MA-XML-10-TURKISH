@@ -178,5 +178,21 @@
     <plurals name="device_import_progress_toast_plurals">
         <item quantity="other">%1$d kişi içe aktarıldı</item>
         <item quantity="one">%1$d kişi içe aktarıldı</item>
+    </plurals>
+     <plurals name="foundTooManyContacts_plurals">
+        <item quantity="other">%d kişiden daha fazla bulundu.</item>
+        <item quantity="one">%d kişiden daha fazla bulundu.</item>
+    </plurals>
+	    <plurals name="merge_contact_message_plurals">
+        <item quantity="other">Kısmen aynı bilgilere sahip %1$d kişi</item>
+        <item quantity="one">Kısmen aynı bilgilere sahip %1$d kişi</item>
+    </plurals>
+	    <plurals name="select_all_exceed_plurals">
+        <item quantity="other">En fazla %1$d seçin, tümünü seçemezsiniz</item>
+        <item quantity="one">En fazla %1$d seçin, tümünü seçemezsiniz</item>
+    </plurals>
+    <plurals name="select_exceed_plurals">
+        <item quantity="other">En fazla %1$d seçin</item>
+        <item quantity="one">En fazla %1$d seçin</item>
     </plurals>	
 </resources>
