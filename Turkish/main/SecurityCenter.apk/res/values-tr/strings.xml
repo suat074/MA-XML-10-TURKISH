@@ -869,8 +869,8 @@
   <string name="hints_scan_result_no_finish">Tarama tamamlanmadı. Baştan başlamak için dokunun.</string>
   <string name="hints_scan_result_phone_safe">Herşey güzel gözüküyor</string>
   <string name="hints_scan_result_safe">Güvenli</string>
-  <string name="hints_scanning">Taranıyor</string>
-  <string name="hints_scanning_text">Taranıyor...</string>
+  <string name="hints_scanning">Taranıyor…</string>
+  <string name="hints_scanning_text">Taranıyor…</string>
   <string name="hints_virus_apk_list_item_summary">APK</string>
   <string name="hints_virus_apk_summary">%s (apk)</string>
   <string name="hints_virus_app_list_item_summary">Uygulama</string>
@@ -1582,7 +1582,7 @@
   <string name="protocol_exception_title">Ağ Protokol Teşhisi</string>
   <string name="protocol_loop_back_exception_summary">Yerel döngünün geri testi başarısız oldu. MIUI\'ye sorunu bildirmek için, Hata Raporla uygulamasına gidin ve cihazınızdan bir günlük gönderin.</string>
   <string name="qq_lucky_warning">QQ红包</string>
-  <string name="quick_optimize_checking">Taranıyor</string>
+  <string name="quick_optimize_checking">Taranıyor </string>
   <string name="quick_optimize_no_fix_issue_subtitle">Pil ömrü arttırılamadı</string>
   <string name="quick_optimize_no_fix_issue_title">Pil problemi düzeltilemedi</string>
   <string name="quick_optimize_no_issue">Pil problemi bulunamadı</string>
