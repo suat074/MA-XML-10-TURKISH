@@ -107,5 +107,6 @@ Bu özelliği kullanmadan önce Kika Gizlilik Politikasını kabul etmeniz gerek
   <string name="ai_button_long_press_desc">Komutu söyle ve düğmeyi bırak</string>
   <string name="ai_button_single_press">Basın</string>
   <string name="ai_button_single_press_desc">Mi AI tetikleyici</string>
-  <string name="ai_button_title">AI düğmesi hakkında</string>  
+  <string name="ai_button_title">AI düğmesi hakkında</string>
+  <string name="poco_agree_terms_other">(POCO Launcher Gizlilik Politikası ve Kullanıcı Sözleşmesi dahil)</string>
 </resources>

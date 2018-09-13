@@ -47,10 +47,10 @@
     <string name="bcc_label">"Bcc: "</string>
     <string name="block_messaging_entry_title">SMS engellendi</string>
     <string name="block_support_text">Antiy tarafından sağlandı.</string>
-    <string name="bookmark">Favori</string>
-    <string name="bookmark_confirm_delete_message">Mesaj favorilerden kaldırılsın mı?</string>
-    <string name="bookmark_empty">Favori mesaj yok</string>
-    <string name="bookmark_list_title">Favori</string>
+    <string name="bookmark">Favorilere eklendi</string>
+    <string name="bookmark_confirm_delete_message">Seçilen mesajlar favorilerden silinsin mi?</string>
+    <string name="bookmark_empty">Favorilerde mesaj yok</string>
+    <string name="bookmark_list_title">Favoriler</string>
     <string name="call_sender">Çağrı Gönderici</string>
     <string name="cannot_add_picture_and_video">Video ve resim aynı slayta eklenemez.</string>
     <string name="cannot_add_slide_anymore">Daha fazla slayt eklenemiyor.</string>
@@ -115,7 +115,7 @@
     <string name="copy_to_sdcard_fail">Ek kaydedilemedi</string>
     <string name="copy_to_sdcard_success">%s ek olarak kaydedildi</string>
     <string name="delete">Sil</string>
-    <string name="delete_bookmark">Favoriden kaldır</string>
+    <string name="delete_bookmark">Favorilerden kaldır</string>
     <string name="delete_message">Sil</string>
     <string name="delete_phrase">Cevabı sil</string>
     <string name="delete_unlocked">Kilitli mesajları sil</string>
@@ -168,7 +168,7 @@
     <string name="fake_cell_detection_entry">Sahte baz istasyonu tespit edildi</string>
     <string name="fake_cell_safe_hint">Bu mesaj güvenli</string>
     <string name="fake_cell_timeout_hint">Güvenlik denetimi başarısız</string>
-    <string name="favorite_at_time">Favoride: %1s</string>
+    <string name="favorite_at_time">Favorilere eklendi: %1s</string>
     <string name="fdn_check_failure">Sadece sabit arama numaralarınıza mesaj gönderebilirsiniz.</string>
     <string name="festival_sms_loading">Yükleniyor...</string>
     <string name="fetion_prefix">[Fetion]</string>
@@ -438,7 +438,7 @@
     <string name="private_message">Özel mesajlar</string>
     <string name="private_new_notification">Mesaj bildirimleri</string>
     <string name="private_protect">Şifreler</string>
-    <string name="private_settings">Özel mesaj ayarları</string>
+    <string name="private_settings">Ayarlar</string>
     <string name="processing">Çalışıyor...</string>
     <string name="prvate_contact">Özel kişiler</string>
     <string name="quick_reply">Cevapla</string>
@@ -697,13 +697,13 @@ Yapılan girişim: %s."</string>
     <string name="can_not_send_by_rcs">Çin Mobil mesajlaşma kullanamazsınız</string>
     <string name="converting_vcard_failed">Kişi dönüştürülemedi</string>
     <string name="delivery_toast_body_more">Mesaj %1$s ve %2$d diğer insanlar tarafından alındı</string>
-    <string name="dialog_message_mx">Mi Mesaj, ücret ödemeden diğer MIUI cihazlarına mesaj göndermenizi sağlar. Mi Mesajı etkinleştirmek için  bir SMS mesajı gönderilmesi gereklidir. Bu mesaj için operatörünüz sizi ücretlendirebilir. Mi mesajı kullanmadan önce \"%1$s\" ve \"%2$s\" kabul etmelisiniz.</string>
+    <string name="dialog_message_mx">Mi Mesaj, ücret ödemeden diğer MIUI kullanıcılarına mesaj göndermenizi sağlar. Mi Mesajını etkinleştirmek için giden bir SMS mesajı gereklidir. Bu mesaj için operatörünüz sizi ücretlendirebilir. Mi Mesajını kullanmadan önce \"%1$s\" ve \"%2$s\" kabul etmelisiniz.</string>
     <string name="dialog_message_mx_rcs">Mi Mesaj, ücret ödemeden diğer MIUI cihazlarına ve Çin Mobil kullanıcılarına mesaj göndermenizi sağlar. Mi Mesajı aktif hale getirmek için bir SMS mesajı gönderilmesi gereklidir. Bu mesaj için operatörünüz sizi ücretlendirebilir. Mi mesajı kullanmadan önce \"%1$s\" ve \"%2$s\" kabul etmelisiniz. Kabul?</string>
-    <string name="dialog_message_networking">Mesajlaşma, Akıllı mesajlaşma, Gönderen kimliği tanıma ve diğer hizmetleri sağlamak için internete bağlanmalı ve konumunuza erişmelidir. Bu hizmetleri kullanmadan önce \"%1$s\" ve \"%2$s\" kabul etmelisiniz. İzin ver?</string>
+    <string name="dialog_message_networking">Mesajlaşma, Gönderen Kimliğini tanıması için Sarı sayfaları kullanmalıdır. Mesajlaşma ve Sarı sayfaların normal olarak çalışması için internete bağlanması ve konumunuza erişmesi gerekir. İzin ver?</string>
     <string name="dialog_message_networking_mx">Mi Mesaj, ücret ödemeden diğer MIUI cihazlarına mesaj göndermenizi sağlar. Mi Mesajı aktif hale getirmek için bir SMS mesajı gönderilmesi gereklidir. Bu mesaj için operatörünüz sizi ücretlendirebilir. Mi mesajı kullanmadan önce \"%1$s\" ve \"%2$s\" kabul etmelisiniz. Mesajlaşma, Akıllı mesajlaşma, Gönderen kimliği tanıma ve diğer hizmetleri sağlamak için internete bağlanmalı ve konumunuza erişmelidir. İzin ver?</string>
     <string name="dialog_message_networking_mx_rcs">Mi Mesaj, ücret ödemeden diğer MIUI cihazlarına ve Çin Mobil kullanıcılarına mesaj göndermenizi sağlar. Mi Mesajı aktif hale getirmek için bir SMS mesajı gönderilmesi gereklidir. Bu mesaj için operatörünüz sizi ücretlendirebilir. Mi mesajı kullanmadan önce \"%1$s\" ve \"%2$s\" kabul etmelisiniz. Mesajlaşma, Akıllı mesajlaşma, Gönderen kimliği tanıma ve diğer hizmetleri sağlamak için internete bağlanmalı ve konumunuza erişmelidir. İzin ver?</string>
     <string name="dialog_message_networking_rcs">Çin Mobil Mesajlaşma, ücret ödemeden diğer Çin Mobil kullanıcılarına mesaj göndermenizi sağlar. Çin Mobil Mesajlaşma\'yı kullanmadan önce \"%1$s\" ve \"%2$s\" kabul etmelisiniz. Mesajlaşma, Akıllı mesajlaşma, Gönderen kimliği tanıma ve diğer hizmetleri sağlamak için internete bağlanmalı ve konumunuza erişmelidir. İzin ver?</string>
-    <string name="dialog_message_rcs">Çin Mobil Mesajlaşma, diğer Çin Mobil kullanıcılarına ücret ödemeden mesaj göndermenizi sağlar. Çin Mobil Mesajlaşma\'yı kullanmadan önce \"%1$s\" ve \"%2$s\" kabul etmelisiniz. Kabul?</string>
+    <string name="dialog_message_rcs">Çin Mobil Mesajlaşma, Anakara Çin\'deki diğer Çin Mobil kullanıcılarına ücret ödemeden mesaj göndermenizi sağlar. Çin Mobil Mesajlaşma kullanmadan önce \"%1$s\" kabul etmeniz gerekir.</string>
     <string name="dialog_title_mx_rcs">Mi Mesaj</string>
     <string name="dialog_title_networking">Şartlar ve Koşullar</string>
     <string name="exceed_length_limit">Maksimum uzunluk sınırı aşıldı</string>
@@ -778,5 +778,8 @@ Yapılan girişim: %s."</string>
     <string name="send_rms_editor_hints">Çin Mobil Mesajlaşma</string>
     <string name="send_rms_editor_hints_omit">Mi Mesaj</string>
     <string name="user_agreement">Kullanıcı Sözleşmesi</string> 
-    <string name="cmcc_privacy">Çin Mobil Operatörü Gizlilik Sözleşmesi</string>	
+    <string name="cmcc_privacy">Çin Mobil Operatörü Gizlilik Sözleşmesi</string>
+    <string name="mark_number_by_own_dialog_subtitle">%1$s olarak işaretlendi</string>
+    <string name="rcs_dspt_unavailable">Bu özelliği şimdi kullanamazsınız. Çin Mobil SIM kart varsayılan veri kartınız değil.</string>
+    <string name="rcs_service_agreement">Hizmet sözleşmesi</string>	
 </resources>

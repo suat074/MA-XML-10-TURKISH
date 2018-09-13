@@ -119,10 +119,10 @@
   <string name="count_down">Geriye Sayım: %1$s</string>
   <string name="create_shortcut_success">Kısayol başarıyla oluşturuldu</string>
   <string name="daily_clockin">Giriş</string>
-  <string name="data_consumption_cancel">Çık</string>
+  <string name="data_consumption_cancel">Kabul etmiyorum</string>
   <string name="data_consumption_checkbox_hint">Tekrar gösterme</string>
   <string name="data_consumption_confirm">Tamam</string>
-  <string name="data_consumption_message">Bu uygulamanın normal bir şekilde çalışması için WLAN kullanarak internete bağlanması gerekiyor.</string>
+  <string name="data_consumption_message">Dosya Yöneticisi\'ni kullanırken ağa bağlanması gerekiyor. Kabul?</string>
   <string name="data_consumption_message1">Popüler etiketleri ve videoları görüntüleyebilmek için cihazın internete bağlanması gerekiyor.</string>
   <string name="data_consumption_title">İnternet Bağlantısı</string>
   <string name="decompress_cancel">İptal</string>

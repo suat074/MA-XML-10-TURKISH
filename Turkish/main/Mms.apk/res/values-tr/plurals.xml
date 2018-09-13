@@ -68,5 +68,9 @@
     <plurals name="to_count">
         <item quantity="other">%d alıcı</item>
         <item quantity="one">%d alıcı</item>
+    </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+       <item quantity="other">%1$d kişi %2$s olarak işaretlenmiş</item>
+       <item quantity="one">%1$d kişi %2$s olarak işaretlenmiş</item>
     </plurals>	
 </resources>

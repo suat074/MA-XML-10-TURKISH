@@ -5802,5 +5802,7 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="following_us_title">Bizi takip edin</string>
   <string name="bootloader_device_bind_no_data_network">WLAN\'ı kapatın ve mobil veri kullanarak hesabınızı ve cihazınızı ekleyin.</string>
   <string name="bootloader_device_bind_server_token_expired_1">Doğrulanamadı. Hesabınızı ve cihazınızı tekrar eklemeyi deneyin.</string>
-  <string name="bootloader_device_bind_server_token_expired_2">Doğrulanamadı. Hesabınıza tekrar giriş yapın ve baştan başlayın.</string>  
+  <string name="bootloader_device_bind_server_token_expired_2">Doğrulanamadı. Hesabınıza tekrar giriş yapın ve baştan başlayın.</string> 
+  <string name="accessibility_summary_source">%s tarafından sağlandı</string>
+  <string name="credentials_title_verification">Doğrulama</string>
 </resources>

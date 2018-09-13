@@ -735,7 +735,7 @@
   <string name="over_due">Gecikme</string>
   <string name="overlays_fail_tip">Maalesef posta kutunuz başarıyla yapılandırılmadı, kayan Windows izinlerini açın ve tekrar deneyin.</string>
   <string name="overlays_ok">Açık izinler</string>
-  <string name="overlays_tip">Yüzen Windows izinlerini açın ve otomatik olarak aşırı deneyimi yapılandırmak için 139 posta kutusunun keyfini çıkarın.</string>
+  <string name="overlays_tip">Telefon ayarları - Uygulama - Uygulama Detayları - İzin yöneticisinden Yüzen pencere izinlerini açın ve hemen 139 posta kutusunu otomatik olarak yapılandırarak üstün deneyimin keyfini çıkarın.</string>
   <string name="overlays_title">Kayan Windows izinlerini aç</string>
   <string name="parase_setup_data">Veri alınıyor…</string>
   <string name="parse_bill_discribe">Kredi kartı faturaları işleniyor...</string>
@@ -1121,4 +1121,12 @@
   <string name="you_are_in_mobile_network">Mobil veri bağlantısı kullanarak günlük gönderilsin mi? Eğer planladığınız veri kullanımının üzerine çıkarsanız, öperatörünüz sizden ek ücret talep edebilir.</string>
   <string name="youfuli">Promosyon</string>
   <string name="zip_viewer_no_file">Dosya yok.</string>
+  <string name="account_settings_preference_add_account">E-posta hesabı ekle</string>
+  <string name="chinese">Çince</string>
+  <string name="notify_channel_new_mail">Notify about new messages</string>
+  <string name="notify_channel_permission_notice">İzin Uyarı hatırlatıcısı</string>
+  <string name="notify_channel_send_fail">Başarısız teslimat hakkında bilgi verin</string>
+  <string name="show_more_attachment">Daha fazla ek</string>
+  <string name="overlays_tip_23">Yüzen pencere izinlerini açın ve hemen 139 posta kutusunu otomatik olarak yapılandırarak üstün deneyimin keyfini çıkarın.</string>
+  <string name="mail_search_lab">arama etiketi</string>
 </resources>
