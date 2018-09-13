@@ -556,7 +556,7 @@ ve sonra herkesin en iyi göründüğü bir resim oluşturacak."</string>
 Daha iyi efekt için lensi temizleyin."</string>
   <string name="lens_dirty_detected_title_back">Arka kamera merceği kirli</string>
   <string name="lens_dirty_detected_title_front">Ön kamera merceği kirli</string>
-  <string name="back_bokeh_use_hint">Nesnenin 1,5 metreden fazla olmadığından emin olun</string>
+  <string name="back_bokeh_use_hint">En iyi etki için nesneyi 1,5 metrede tutun</string>
   <string name="pref_video_quality_summary">4k video 120fps modunda desteklenmez</string> 
   <string name="portrait_bokeh_text">Portre modu</string>
   <string name="portrait_bokeh_first_tips">"Fotoğraflarınızda arka planı bulanıklaştırmak
@@ -602,5 +602,7 @@ kullanabilirsiniz"</string>
   <string name="hint_eye_light">Flaş açıkken göz ışığı daha iyi olur</string>
   <string name="makeup_reset_toast">Makyaj efektleri kaldırıldı</string>
   <string name="module_name_new_slow_motion">Ağır çekim</string>
+ <string name="portrait_mode_use_hint_for_bokeh">"Portre modunu deneyin.
+Arka planı bulanıklaştırırken nesneyi net tutun."</string>  
   <string name="pref_new_slow_motion_video_quality_240_720only">240FPS ile sadece 720P video kaydedebilirsiniz</string>  
 </resources>

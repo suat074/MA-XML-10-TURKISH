@@ -336,8 +336,8 @@
      <item quantity="one">%d uygulama gizli</item>
    </plurals>
    <plurals name="reset_data_dialog_ok_tick">
-     <item quantity="other">Fabrika sıfırlama(%ds)</item>
-     <item quantity="one">Fabrika sıfırlama(%ds)</item>
+     <item quantity="other">Fabrika sıfırlama (%ds)</item>
+     <item quantity="one">Fabrika sıfırlama (%ds)</item>
    </plurals>
    <plurals name="hide_txt_hint_with_blank_2">
      <item quantity="other">    +%1$d daha fazla karakter</item>
@@ -354,5 +354,9 @@
    <plurals name="power_center_list_item_optimize_button">
      <item quantity="other">%d dakika ekle</item>
      <item quantity="one">%d dakika ekle</item>
+   </plurals>
+   <plurals name="first_aid_card_float_window_summary">
+     <item quantity="other">%d uygulama yanlış görüntülenebilir. Kayan bildirimleri kısıtlayın.</item>
+     <item quantity="one">%d uygulama yanlış görüntülenebilir. Kayan bildirimleri kısıtlayın.</item>
    </plurals>   
 </resources>

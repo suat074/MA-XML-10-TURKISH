@@ -777,5 +777,6 @@ Yapılan girişim: %s."</string>
     <string name="rms_video_body">[Video]</string>
     <string name="send_rms_editor_hints">Çin Mobil Mesajlaşma</string>
     <string name="send_rms_editor_hints_omit">Mi Mesaj</string>
-    <string name="user_agreement">Kullanıcı Sözleşmesi</string>    
+    <string name="user_agreement">Kullanıcı Sözleşmesi</string> 
+    <string name="cmcc_privacy">Çin Mobil Operatörü Gizlilik Sözleşmesi</string>	
 </resources>

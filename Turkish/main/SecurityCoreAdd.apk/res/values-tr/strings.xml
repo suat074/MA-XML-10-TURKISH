@@ -419,5 +419,7 @@
   <string name="ent_downloading_message">%d%% indiriliyor</string>
   <string name="install">Yükle</string>
   <string name="install_error">Yüklenemedi. Tekrar deneyin.</string>
-  <string name="ent_install_dialog_content">Uygulamaları yükle ve cihazınızı şimdi yeniden başlat?</string>  
+  <string name="ent_install_dialog_content">Uygulamaları yükle ve cihazınızı şimdi yeniden başlat?</string> 
+  <string name="confirm_close_password_desc">Şifreyi kapattıktan sonra Kilit ekranından İkinci alana giremezsiniz. Yine de kapatılsın mı?</string>
+  <string name="confirm_close_password_title">Şifreyi kapat</string>  
 </resources>

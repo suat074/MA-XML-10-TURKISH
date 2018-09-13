@@ -1690,4 +1690,5 @@
   <string name="keyguard_left_torch">Fener</string>
   <string name="switch_system_user">İlk alanı aç</string> 
   <string name="miui_screen_rotation_freeze_message">Otomatik döndürme devre dışı.</string>
+  <string name="face_unlock_sc_status">Kamerayı açmak için ekranı aşağı doğru çekin</string>
 </resources>

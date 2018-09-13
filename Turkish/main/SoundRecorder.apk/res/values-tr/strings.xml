@@ -31,10 +31,10 @@
   <string name="empty_recognition_tip">Boş</string>
   <string name="error_app_internal">Başka bir uygulamanın şu anda kayıt özelliğini kullanıp-kullanmadığını kontrol edin.</string>
   <string name="error_app_internal_title">Ses kaydedici hatası</string>
-  <string name="error_file_access">"Dosya yok veya bozuk!"</string>
+  <string name="error_file_access">Dosya mevcut değil veya bozuk</string>
   <string name="error_filename_illegal_char">Dosya adı geçersiz karakterler içeriyor.</string>
   <string name="error_filename_too_long">Dosya adı çok uzun</string>
-  <string name="error_sdcard_access">"Depolamaya erişilemiyor"</string>
+  <string name="error_sdcard_access">SD karta erişilemiyor</string>
   <string name="error_sdcard_unmounted">Şimdi SD kart takın</string>
   <string name="export_to_note">Notları dışarı aktar</string>
   <string name="head_set_tip_dialog_msg">Özel önayarlarla (Mesela: Müzik, Ses) ses kaydı yapabilmek için kulaklıklarınızı çıkartın.</string>
@@ -166,8 +166,9 @@
   <string name="toast_uninstall_fileexplorer">"Gezgin uygulaması yüklü değil"</string>
   <string name="wifi_recommended_body" formatted="false">Mobil veri bağlantısı kullanarak bu dosyayı indirmeniz (%s) veri kullanımını arttıracaktır. Eğer planladığınız veri kullanım sınırını aşarsanız, operatörünüz sizden ek ücret talep edebilir. WLAN bağlantısıyla bun dosyayı indirmeniz için bekletiliyor, %s dokunun.</string>
   <string name="wifi_recommended_title">Veri Kullanım Uyarısı</string> 
-  <string name="cloud_service_state_open_reminder">Kayıt dosyalarını senkronize etmek için Mi Bulut ile senkronizasyonu açın.</string>
+  <string name="cloud_service_state_open_reminder">Kayıtları senkronize etmek için Mi Cloud ile senkronizasyonu açın.</string>
   <string name="menu">Menü</string>
   <string name="record_format_preference_title">Kayıt formatı</string>
   <string name="privacy_policy_title">Gizlilik Politikası</string>
+  <string name="alert_message_delete_local_record">Bu kaydı sil?</string>
 </resources>

@@ -93,5 +93,5 @@
   <string name="privacy">Gizlilik Politikası</string>
   <string name="about_extreme_mode">Aşırı modu</string>
   <string name="extreme_mode_max_item_alert">Aşırı modunda arka planda çalışacak en fazla 4 uygulama seçebilirsiniz.</string>
-  <string name="message_i_know">Biliyorum</string>  
+  <string name="message_i_know">Anladım</string>  
 </resources>

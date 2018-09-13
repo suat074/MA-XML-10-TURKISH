@@ -294,9 +294,9 @@
   <string name="app_launch_open_domain_urls_title">Destekleyen bağlantıları aç</string>
   <string name="app_launch_other_defaults_title">Diğer Varsayılanlar</string>
   <string name="app_launch_supported_domain_urls_title">Desteklenen Bağlantılar</string>
-  <string name="app_link_open_always">Bu uygulamada aç</string>
+  <string name="app_link_open_always">Açık</string>
   <string name="app_link_open_ask">Herzaman sor</string>
-  <string name="app_link_open_never">Bu uygulamada açma!</string>
+  <string name="app_link_open_never">Açmayın</string>
   <string name="app_list_memory_use">Uygulama Kullanımı</string>
   <string name="app_list_preference_none">Yok</string>
   <string name="app_memory_use">Hafıza Kullanımı</string>
@@ -869,7 +869,10 @@
   <string name="bootloader_device_bind_sim_invalid">SIM kart geçersiz. Değiştirin ve tekrar deneyin.</string>
   <string name="bootloader_locked_answer_1">Kişisel bilgilerinizin güvenli ve üçüncü tarafların ulaşamayacağı şekilde olması için cihazları kilitleriz. Eğer Fastboot Moduna girer veya cihaza yeniden yazılım yüklerseniz; bu kilidi kaldırırsınız.</string>
   <string name="bootloader_locked_answer_1_warning">Unutmayın: Cihazını kilidini kaldırdıktan sonra elefonu Bul\"özelliğini kullanmak mümkün olmayacak.</string>
-  <string name="bootloader_locked_answer_2">1. Cihazınıza bir SIM kart taktığınızdan emin olun.\n2. Mi Hesabınızı bu cihazla ilişkilendirmek için aşağıdan \"Hesap ekle\" ye dokunun.\n3. Kilit açma aracını web sitemizden indirin. Cihazınızın kilidini bir bilgisayar kullanarak açmanız gerektiğini unutmayın. Buradan indirin:</string>
+  <string name="bootloader_locked_answer_2">1. Cihazınıza bir SIM kart taktığınızdan emin olun.
+2. WLAN\'ı kapatın ve mobil veriyi açın. Cihazınızın mobil veri kullanarak internete bağlanabildiğinden emin olun.
+3. Mi Hesabınızı bu cihazla ilişkilendirmek için aşağıdan \"Hesap ekle\" ye dokunun.
+4. Kilit açma aracını web sitemizden indirin. Bir bilgisayar kullanarak cihazın kilidini açmanız gerektiğini unutmayın. Buradan indirin:"</string>  
   <string name="bootloader_locked_check_status">Hesap ve Cihaz ekle</string>
   <string name="bootloader_locked_question_1">Neden cihazlar kilitli olmalıdır?</string>
   <string name="bootloader_locked_question_2">Riski anlıyorum fakat cihazın kilidini kaldırmak istiyorum.</string>
@@ -1331,8 +1334,8 @@
   <string name="default_app">(Varsayılan)</string>
   <string name="default_apps_title">Varsayılan Uygulamalar</string>
   <string name="default_assist_title">Yardım Uygulaması</string>
-  <string name="default_browser_title">Tarayıcı Uygulaması</string>
-  <string name="default_browser_title_none">Varsayılan Tarayıcı yok</string>
+  <string name="default_browser_title">Tarayıcı</string>
+  <string name="default_browser_title_none">Seçili değil</string>
   <string name="default_calendar_app_title">Takvim uygulaması</string>
   <string name="default_contacts_app_title">Kişiler uygulaması</string>
   <string name="default_emergency_app">Acil Durum Uygulaması</string>
@@ -1342,7 +1345,7 @@
   <string name="default_launcher_title">Varsayılan Başlatıcı</string>
   <string name="default_map_app_title">Harita uygulaması</string>
   <string name="default_notification_assistant">Bildirim yardımcısı</string>
-  <string name="default_phone_title">Telefon Uygulaması</string>
+  <string name="default_phone_title">Arama</string>
   <string name="default_rule_name">Zamanlama 1</string>
   <string name="default_sound">Varsayılan Ses</string>
   <string name="default_spell_checker">Varsayılan Yazım Denetleyicisi</string>
@@ -2864,7 +2867,7 @@
   <string name="no_connected_devices">Bağlı cihaz yok</string>
   <string name="no_data_usage">Veri kullanılmadı</string>
   <string name="no_default_apps">Varsayılan uygulama yok.</string>
-  <string name="no_default_home">Varsayılan Ana Sayfa yok</string>
+  <string name="no_default_home">Seçili değil</string>
   <string name="no_device_admins">Kullanılabilir aygıt yöneticisi yok</string>
   <string name="no_internet_access_remember">Bu ağda tekrar sorma</string>
   <string name="no_internet_access_text">WLAN ağı %1$s internet erişimi yok. Bağlı kalın?</string>
@@ -4189,7 +4192,7 @@
   <string name="smartcover_lock_or_unlock_screen_tittle">Akıllı Kılıf</string>
   <string name="smartcover_sensitive_summary">Akıllı kılıfı kullanarak telefonu otomatik olarak kilitleyin veya açın</string>
   <string name="smartcover_sensitive_title">Akıllı Kılıf Modu</string>
-  <string name="sms_application_title">SMS Uygulaması</string>
+  <string name="sms_application_title">Mesajlaşma</string>
   <string name="sms_change_default_dialog_text">SMS uygulaması olarak %2$s yerine %1$s kullanılsın mı?</string>
   <string name="sms_change_default_dialog_title">SMS uygulaması değişsin mi?</string>
   <string name="sms_change_default_no_previous_dialog_text">%s SMS uygulaması olarak kullanılsın mı?</string>
@@ -5751,8 +5754,8 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="play_pause_description">Oynat/Duraklat düğmesi</string>
   <string name="bootloader_locked_answer_2_no_sim">"1.Mi Hesabınızı bu cihazla ilişkilendirmek için aşağıdan \"Hesap ekle\" ye dokunun.
 2. Kilit açma aracını web sitemizden indirin. Bir bilgisayar kullanarak cihazın kilidini açmanız gerektiğini unutmayın. Buradan indirin:"</string>
-  <string name="security_input">Güvenlik girişi</string>
-  <string name="security_input_hint">Güvenlik klavyesini kullanarak şifre girin</string>
+  <string name="security_input">Güvenli klavye</string>
+  <string name="security_input_hint">Şifreleri girerken güvenli klavye kullan</string>
   <string name="forget_password_dialog_button_text">Geri</string>
   <string name="forget_password_dialog_content_four"><Data>2. &lt;font color=#e6e6e6>[Verileri temizle]&lt;/font> seçin, ve cihazınız yeniden başlatılıncaya kadar bekleyin.</Data></string>
   <string name="forget_password_dialog_content_one"><Data>Şifrenizi unutursanız, geri yükleyemezsiniz. Ancak, &lt;font color=#ec2700>cihazınızdaki tüm veriler silindikten&lt;/font> (fotoğraf, kişi vb. dahil) sonra geri yükleyebilirsiniz. Bunun için önce önemli verileri yedekleyin.</Data></string>
@@ -5774,8 +5777,8 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="upload_audio_log">Ses günlüğü almaya başla</string>
   <string name="upload_gps_log">GPS günlüğü almaya başla</string>
   <string name="upload_modem_log">Modem günlüğünü almaya başla</string>
-  <string name="failed_to_erase_text">Lütfen 1217 işlemini yapmadan önce kilit ekranı şifresini kapatın.</string>
-  <string name="failed_to_erase_title">Yasak işlem</string>
+  <string name="failed_to_erase_text">\"1217\" kodunu girmeden önce Kilit ekranı şifrenizi kapatın.</string>
+  <string name="failed_to_erase_title">Bu işlem tamamlanamıyor</string>
   <string name="navigation_guide_appswitch_anim_summary">Önceki uygulamaya geri dönmek için kenardan başlayarak ekran boyunca hızlıca kaydırın</string>
   <string name="navigation_guide_appswitch_anim_title">Önceki uygulamaya geri dön</string>
   <string name="navigation_guide_appswitch_click">İlk önce \"Önceki uygulamaya geri dön\"ü açın</string>
@@ -5786,7 +5789,7 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="close_fod_aod">Ekran kapalıyken parmağınızı kullanarak cihazınızın kilidini açamazsınız. \"Her zaman açık modu\" ile mevcut olmayacaktır. Parmak izi ile kilidi açma sadece ekran açıkken çalışır.</string>
   <string name="to_close">Kapat</string> 
   <string name="title_jeejen">Jeejen Ana ekranı</string>
-  <string name="status_bar_settings_customer_feedback">geribildirim</string>
+  <string name="status_bar_settings_customer_feedback">Geribildirim</string>
   <string name="status_bar_settings_function_description">Bu özellik hakkında</string>
   <string name="status_bar_settings_user_fold_description1">Bildirimler klasörü MIUI 9\'da tanıtıldı. Bu özellik önemsiz bildirimleri filtreler ve bunları ayrı bir klasöre yerleştirir.</string>
   <string name="status_bar_settings_user_fold_description2">MIUI hangi bildirimlere dokunduğunuzu hatırlayacak ve ardından bunların önemli olup olmadığını belirlemek için birden fazla ölçüt kullanacaktır.</string>
@@ -5797,4 +5800,7 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="aod_got_it">Anladım</string>
   <string name="aod_to_close">Kapat</string>
   <string name="following_us_title">Bizi takip edin</string>
+  <string name="bootloader_device_bind_no_data_network">WLAN\'ı kapatın ve mobil veri kullanarak hesabınızı ve cihazınızı ekleyin.</string>
+  <string name="bootloader_device_bind_server_token_expired_1">Doğrulanamadı. Hesabınızı ve cihazınızı tekrar eklemeyi deneyin.</string>
+  <string name="bootloader_device_bind_server_token_expired_2">Doğrulanamadı. Hesabınıza tekrar giriş yapın ve baştan başlayın.</string>  
 </resources>

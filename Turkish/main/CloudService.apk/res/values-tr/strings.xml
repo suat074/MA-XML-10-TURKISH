@@ -581,5 +581,5 @@
   <string name="micloud_main_simple_syncing">Senkronize ediliyor</string>
   <string name="micloud_main_simple_pending">Bekleyen</string>
   <string name="micloud_main_simple_off">Senkronizasyon Kapalı</string>
-  <string name="micloud_main_simple_last_sync_time">Son senkronizasyon zamanı： %s</string>  
+  <string name="micloud_main_simple_last_sync_time">Son senkronizasyon： %s</string>  
 </resources>

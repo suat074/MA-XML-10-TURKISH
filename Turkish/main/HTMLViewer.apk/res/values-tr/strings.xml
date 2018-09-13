@@ -23,4 +23,5 @@
   <string name="settings_safetylegal_title">Güvenlik Bilgisi</string>
   <string name="ime_privacy_policy">Klavyeyi seç</string>
   <string name="open_wifi_connect_and_use_data_summary">Mobil veri kullanılıyor. WLAN\'a geçmek için dokunun.</string>
+  <string name="poco_privacy_policy">POCO Launcher Gizlilik Politikası &amp; POCO Launcher Kullanıcı Sözleşmesi</string>
 </resources>

@@ -597,5 +597,12 @@ Boş yer açın veya sadece önemli öğeleri aktarın."</string>
   <string name="trans_cancel_selection_message">Mi Mover\'dan çıkarsanız, devam eden aktarım kesintiye uğrayacaktır. Aktarım tamamlanana kadar bekleyin.</string>
   <string name="trans_cancel_selection_title">Mi Mover\'da kalın</string>
   <string name="trans_select_notification_message">Görüntülemek için dokunun</string>
-  <string name="trans_select_notification_title">Mi Mover çalışıyor…</string>  
+  <string name="trans_select_notification_title">Mi Mover çalışıyor…</string> 
+  <string name="trans_cancel_dialog_survey_title">Transferi neden kestin?</string>
+  <string name="trans_dialog_survey_finish">Gönder</string>
+  <string name="trans_success_dialog_button_market_comment">Yorum</string>
+  <string name="trans_success_dialog_button_survey">Anket</string>
+  <string name="trans_success_dialog_market_comment_and_survey_title">Yorum yapmaya hazırsın! Bize Mi Mover hakkında ne düşündüğünü söyle.</string>
+  <string name="trans_success_dialog_survey_title">Geribildirim için teşekkür ederiz</string>
+  <string name="trans_success_survey_hint">Önce tüm alanları doldurun.</string>  
 </resources>

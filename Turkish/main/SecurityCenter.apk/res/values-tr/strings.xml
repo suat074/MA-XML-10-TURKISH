@@ -2430,7 +2430,7 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="first_aid_card_unable_install_button">Boş alan</string>
   <string name="first_aid_result_summary_normal">Her şey güzel görünüyor!</string>
   <string name="first_aid_result_feedback_title">Geribildirim</string>
-  <string name="first_aid_result_feedback_summary">Cihazımdaki sorunları çözemiyorum.</string>
+  <string name="first_aid_result_feedback_summary">İlk yardım taraması herhangi bir sorun bulamadı. Ancak, bazılarını tespit ettim.</string>
   <string name="first_aid_result_feedback_button">Gönder</string>
   <string name="first_aid_card_kadun_title">Cihaz yavaşlıyor</string>
   <string name="first_aid_card_kadun_summary1">Cihazın normal  çalışabilmesi için depolama alanını boşaltın.</string>
@@ -2469,9 +2469,10 @@ Bu özellik sistem uygulamaları için desteklenmez."</string>
   <string name="power_center_scan_item_title_running_app">Arka planda çalışan uygulamalar</string>
   <string name="power_center_scan_result_safe">Pil sorunu bulunmadı</string>
   <string name="power_center_stop_scan_title">Taramayı durdur</string>
-  <string name="power_save_started_summary_text">"power_save_started_summary_text&gt;Pil tasarrufu açık. Uygulamaların arka plan etkinliğini azaltır, senkronizasyonu durdurur ve sistem animasyonlarını en aza indirir."</string>
+  <string name="power_save_started_summary_text">Pil tasarrufu açık. Uygulamaların arka plan etkinliğini azaltır, senkronizasyonu durdurur ve sistem animasyonlarını en aza indirir.</string>
   <string name="device_manager_apply_step_1">Bu uygulama için cihaz yöneticisini etkinleştir?</string>
   <string name="device_manager_apply_step_2">"Bu uygulama için cihaz yöneticisini etkinleştirmek, kişisel verilerinizin açığa çıkmasına neden olabilir.
 Cihazınızdaki tüm veriler silinebilir ve Kilit ekranı şifreniz sıfırlanabilir."</string>
-  <string name="device_manager_apply_step_3">Devam etmeden önce olası tüm riskleri anladığınızdan emin olun. Şimdi bu uygulama için cihaz yöneticisi etkinleştirilsin mi?</string>  
+  <string name="device_manager_apply_step_3">Devam etmeden önce olası tüm riskleri anladığınızdan emin olun. Şimdi bu uygulama için cihaz yöneticisi etkinleştirilsin mi?</string> 
+  <string name="first_aid_result_summary_not_finished">Tarama tamamlanmadı. Bazı riskler algılanmamış olabilir.</string>  
 </resources>
