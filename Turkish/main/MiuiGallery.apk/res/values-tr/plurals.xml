@@ -53,8 +53,8 @@
         <item quantity="one">%2$s, %1$d fotoğraf eklendi</item>
     </plurals>
     <plurals name="backup_after_hours">
-        <item quantity="other">%d saat içinde yedeklemeye dönecek</item>
-        <item quantity="one">%d bir saat içinde yedeklenecek</item>
+        <item quantity="other">%d saat içinde yedeklemeye devam et</item>
+        <item quantity="one">%d saat içinde yedeklemeye devam et</item>
     </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d fotoğraf ve video | Durdu</item>
@@ -81,40 +81,40 @@
         <item quantity="one">%d öğe seçildi</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
-        <item quantity="other">%d öğeleri tüm cihazlardan ve Mi Clouddan silinsin mi?</item>
-        <item quantity="one">%d öğesi tüm cihazlardan ve Mi Clouddan silinsin mi?</item>
+        <item quantity="other">%d öğe tüm cihazlardan ve Mi Bulut\'tan silinsin mi?</item>
+        <item quantity="one">%d öğesi tüm cihazlardan ve Mi Bulut\'tan silinsin mi?</item>
     </plurals>
     <plurals name="delete_media_from_local">
-        <item quantity="other">%d öğeleri sil?</item>
+        <item quantity="other">%d öğeyi sil?</item>
         <item quantity="one">%d öğeyi sil?</item>
     </plurals>
     <plurals name="delete_media_from_this_album_and_cloud_msg">
-        <item quantity="other">%d öğeleri bu albümden ve Mi Clouddan sil?</item>
-        <item quantity="one">%d öğesini bu albümden ve Mi Clouddan sil?</item>
+        <item quantity="other">%d öğe bu albümden ve Mi Bulut\'tan silinsin mi?</item>
+        <item quantity="one">%d öğe bu albümden ve Mi Bulut\'tan silinsin mi?</item>
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">Tüm cihazlardan ve Mi Clouddan %d fotoğrafları sil?</item>
-        <item quantity="one">Tüm cihazlardan ve Mi Clouddan %d fotoğrafı sil?</item>
+        <item quantity="other">Tüm cihazlardan ve Mi Bulut\'tan %d fotoğrafı sil?</item>
+        <item quantity="one">Tüm cihazlardan ve Mi Bulut\'tan %d fotoğrafı sil?</item>
     </plurals>
     <plurals name="delete_photo_from_local">
-        <item quantity="other">%d fotoğrafları silinsin mi?</item>
-        <item quantity="one">%d fotoğrafı silinsin mi?</item>
+        <item quantity="other">%d fotoğraf silinsin mi?</item>
+        <item quantity="one">%d fotoğraf silinsin mi?</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
-        <item quantity="other">Bu albümden ve Mi Clouddan %d fotoğrafları silinsin mi?</item>
-        <item quantity="one">Bu albümden ve Mi Clouddan %d fotoğrafı silinsin mi?</item>
+        <item quantity="other">Bu albümden ve Mi Bulut\'tan %d fotoğraf silinsin mi?</item>
+        <item quantity="one">Bu albümden ve Mi Bulut\'tan %d fotoğraf silinsin mi?</item>
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">%d videoları tüm cihazlardan ve Mi Clouddan silinsin mi?</item>
-        <item quantity="one">Bu video tüm cihazlardan ve Mi Clouddan silinsin mi?</item>
+        <item quantity="other">%d video tüm cihazlardan ve Mi Bulut\'tan silinsin mi?</item>
+        <item quantity="one">Bu video tüm cihazlardan ve Mi Bulut\'tan silinsin mi?</item>
     </plurals>
     <plurals name="delete_video_from_local">
-        <item quantity="other">%d videoları silinsin mi?</item>
+        <item quantity="other">%d video silinsin mi?</item>
         <item quantity="one">Bu video silinsin mi?</item>
     </plurals>
     <plurals name="delete_video_from_this_album_and_cloud_msg">
-        <item quantity="other">Bu albümden ve Mi Clouddan %d videoları silinsin mi?</item>
-        <item quantity="one">Bu video bu albümden ve Mi Clouddan silinsin mi?</item>
+        <item quantity="other">Bu albümden ve Mi Bulut\'tan %d video silinsin mi?</item>
+        <item quantity="one">Bu video bu albümden ve Mi Bulut\'tan silinsin mi?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">%1$d dosya indirilemedi</item>
@@ -149,7 +149,7 @@
         <item quantity="one">1 fotoğraf</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d photos waiting to back up</item>
+        <item quantity="other">%1$d fotoğraf yedeklenmek için bekliyor</item>
         <item quantity="one">1 fotoğraf yedeklenmek için bekliyor</item>
     </plurals>
     <plurals name="number_of_uploading_images">
@@ -197,11 +197,11 @@
         <item quantity="one">Fotoğraf indirilemiyor (%2$dMB), ağa bağlanıp, yeniden deneyin</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">%1$d fotoğraflar indirilemiyor, yeniden denensin mi?</item>
+        <item quantity="other">%1$d fotoğraf indirilemiyor, yeniden denensin mi?</item>
         <item quantity="one">Fotoğraf indirilemiyor, yeniden denensin mi?</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">%1$d fotoğraflar indirilemiyor (%2$dMB), yeniden denensin mi?</item>
+        <item quantity="other">%1$d fotoğraf indirilemiyor (%2$dMB), yeniden denensin mi?</item>
         <item quantity="one">Fotoğraf indirilemiyor (%2$dMB), yeniden denensin mi?</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
@@ -237,8 +237,8 @@
         <item quantity="one">\"%2$s\" üzerinden %1$d fotoğraf kaldırıldı.</item>
     </plurals>
     <plurals name="send_processing_files_error">
-        <item quantity="other">Paylaşılamadı. Hala %d fotoğraf işleniyor…\"</item>
-        <item quantity="one">Paylaşılamadı. Hala %d fotoğraf işleniyor…\"</item>
+        <item quantity="other">Paylaşılamadı. Hala %d fotoğraf işleniyor…</item>
+        <item quantity="one">Paylaşılamadı. Hala %d fotoğraf işleniyor…</item>
     </plurals>
     <plurals name="slim_complete_photo_count">
         <item quantity="other">%d fotoğraf iyileştirildi</item>
@@ -253,7 +253,7 @@
         <item quantity="one">%d fotoğraf kaldı</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">" %d fotoğraf ve video yedeklenemedi"</item>
+        <item quantity="other">%d fotoğraf ve video yedeklenemedi</item>
         <item quantity="one">%d fotoğraf ve video yedeklenemedi</item>
     </plurals>
     <plurals name="sync_total_count">
