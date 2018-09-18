@@ -598,11 +598,11 @@ kullanabilirsiniz"</string>
   <string name="eye_light_rainbow">Gökkuşağı ışığı</string>
   <string name="eye_light_star">Yıldız ışığı</string>
   <string name="eye_light_window">Pencere ışığı</string>
-  <string name="fps960_toast">Zamanlayıcı beyaz noktaya ulaştığında ağır çekim yakalama başlayacaktır</string>
+  <string name="fps960_toast">Zamanlayıcı dördüncü çeyreğe ulaştığında ağır çekim yakalama başlayacaktır</string>
   <string name="hint_eye_light">Flaş açıkken göz ışığı daha iyi olur</string>
   <string name="makeup_reset_toast">Makyaj efektleri kaldırıldı</string>
   <string name="module_name_new_slow_motion">Ağır çekim</string>
  <string name="portrait_mode_use_hint_for_bokeh">"Portre modunu deneyin.
 Arka planı bulanıklaştırırken nesneyi net tutun."</string>  
-  <string name="pref_new_slow_motion_video_quality_240_720only">240FPS ile sadece 720P video kaydedebilirsiniz</string>  
+  <string name="pref_new_slow_motion_video_quality_240_720only">240fps ile sadece 720p video kaydedebilirsiniz</string>  
 </resources>
