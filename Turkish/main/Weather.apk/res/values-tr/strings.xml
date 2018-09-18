@@ -84,7 +84,7 @@
   <string name="button_sure_abandon">Değişikliklerden vazgeçilsin mi?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Ağ bağlantısını kontrol edip, yeniden deneyin.</string>
-  <string name="china_version_first_start_network_msg">"Bu ürünü kullanarak, Xiaomi'nin %1$s ve %2$s kabul edersiniz. Daha doğru hava durumu bilgilerini almanıza yardımcı olmak için hava, konum bilgilerinizi alır ve bununla ilgili ağa bağlanması gerekir. Kabul ediyor musun?"</string>
+  <string name="china_version_first_start_network_msg">Hava durumunu kullanabilmek için Xiaomi\'nin %1$s ve %2$s kabul etmeniz gerekir. Hava durumunun normal şekilde çalışması için konumunuza erişmesi ve internete bağlanması gerekiyor. Kabul ediyor musun?</string>
   <string name="city_exceeded_warning">10 şehir ekleyebilirsiniz</string>
   <string name="commercial">Ticari</string>
   <string name="common_loading_text">Biraz bekleyin…</string>
@@ -306,5 +306,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="hourly_forecast_title_24_hours_desc">24 saatlik hava tahmini</string>
   <string name="hourly_forecast_title_hourly_desc">saatlik tahmin</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
-  <string name="user_agreement">Kullanım Şartları</string> 
+  <string name="user_agreement">Kullanıcı Sözleşmesi</string> 
+  <string name="content_desc_city_manage_del">Sil</string>
+  <string name="content_desc_city_manage_edit">Şehirleri yönet</string>  
 </resources>
