@@ -167,5 +167,8 @@
   <string name="msg_alert_cancel_restore">Ögeler geri yükleniyor. Şimdi dur?</string>
   <string name="msg_alert_restore_error">Mi Bulut\'tan öğeler geri yüklenemedi. Tekrar dene.</string>
   <string name="title_alert_cancel_restore">Geri yüklemeyi durdur</string>
-  <string name="title_alert_restore_error">Geri yüklenemedi</string>  
+  <string name="title_alert_restore_error">Geri yüklenemedi</string> 
+  <string name="error_retry_later">Başarısız, lütfen daha sonra tekrar deneyin.</string>
+  <string name="home_hint_other_launcher">Diğer Ana ekran</string>
+  <string name="unsupported_home">Lütfen en yeni işletim sistemine güncelleyin.</string> 
 </resources>
