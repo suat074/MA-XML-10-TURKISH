@@ -3191,7 +3191,7 @@
   <string name="pre_installed_application">Önceden kurulu uygulamalar</string>
   <string name="pref_bg_network_title">Arka plan bağlantısı</string>
   <string name="pref_button_light">Tuş Işıkları</string>
-  <string name="pref_button_light_summary">Işık Menüsü, %1$s ve Geri düğmeleri</string>
+  <string name="pref_button_light_summary">Menü ışığı, %1$s ve Geri düğmesi</string>
   <string name="pref_button_light_summary_sub">Ev</string>
   <string name="pref_edge_handgrip">Kenar Kontrolleri</string>
   <string name="pref_key_tethering_setting">Tek seferlik veri limiti</string>
