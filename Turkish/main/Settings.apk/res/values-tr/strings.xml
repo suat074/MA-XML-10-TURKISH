@@ -2918,7 +2918,7 @@
   <string name="notification_listener_disable_warning_cancel">İptal</string>
   <string name="notification_listener_disable_warning_confirm">Kapalı</string>
   <string name="notification_listener_disable_warning_summary">%1$s için bildirim erişimini kapatırsanız, Rahatsız Etme erişimi de kapatılabilir.</string>
-  <string name="notification_listener_security_warning_summary">%1$s; kişi adları ve aldığınız mesaj metinleri gibi kişisel bilgileri içeren tüm bildirimleri okuyabilecektir. Ayrıca, bildirimleri kapatabilir veya içerdikleri eylem düğmelerini tetikleyebilir. \n\nBu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve ilgili ayarları değiştirmeyi de mümkün kılacaktır.</string>
+  <string name="notification_listener_security_warning_summary">%1$s kişi adları ve aldığınız mesaj metinleri gibi kişisel bilgileri içeren tüm bildirimleri okuyabilecektir. Ayrıca, içerdikleri bildirimleri kapatabilir veya eylem düğmelerini tetikleyebilir. \n\nBu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatma ve ilgili ayarları değiştirme yeteneğide verecektir.</string>
   <string name="notification_listener_security_warning_title">%1$s bildirim erişimine izin verilsin mi?</string>
   <string name="notification_log_details_actions">eylemler</string>
   <string name="notification_log_details_ashmem">ashmem</string>
