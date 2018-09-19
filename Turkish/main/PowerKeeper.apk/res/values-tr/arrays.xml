@@ -32,5 +32,6 @@
   <string-array name="emode_app_groups">
     <item>Sistem uygulamaları</item>
     <item>Diğer uygulamalar</item>
+	<item>Seçilen uygulamalar</item>
   </string-array>  
 </resources>

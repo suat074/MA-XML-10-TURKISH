@@ -55,4 +55,9 @@
         <item>Odak İzleme</item>
         <item>Merkezi Sorun</item>
      </string-array>
+     <string-array name="pref_tab_restore_array">
+        <item>Her zaman sor</item>
+        <item>Açık</item>
+        <item>Kapalı</item>
+     </string-array>	 
 </resources>

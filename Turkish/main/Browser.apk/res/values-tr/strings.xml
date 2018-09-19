@@ -1308,5 +1308,14 @@
   <string name="pref_privacy_policy">Gizlilik Politikası</string> 
   <string name="data_traffic_download_cancel">İptal</string>
   <string name="data_traffic_download_prompt">Mevcut video sadece wifi ortamında indirilebilir</string>
-  <string name="data_traffic_download_setting">Ayarlar</string>  
+  <string name="data_traffic_download_setting">Ayarlar</string> 
+  <string name="bubble_guide_bottom_message_text">Okunmamış %d mesajınız var</string>
+  <string name="bubble_guide_portrait_message_text">Görmek için tıklayın</string>
+  <string name="dialog_recovery_tabs_disc">Kapatılmamış sayfaların tespiti için tam kurtarma gereklidir.</string>
+  <string name="dialog_recovery_tabs_title">Kurtarma işleminden önce sayfayı açın</string>
+  <string name="exit_browser_confirmation">Masaüstüne dönmek için tekrar basın</string>
+  <string name="pref_checkbox_tab_restore">Bu seçeneği hatırla (değiştirmek için Gelişmiş ayarlara gidin)</string>
+  <string name="pref_slide_back_forward">Geri veya ileri kaydır</string>
+  <string name="pref_tab_restore">Başlangıçta enson açık sayfayı kurtar</string>
+  <string name="slide_guide">Geri dönmek için kaydırın</string>  
  </resources>

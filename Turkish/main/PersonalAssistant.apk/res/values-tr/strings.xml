@@ -1048,5 +1048,6 @@
   <string name="app_setting_xiaoai">Ses asistanı düğmesi</string>
   <string name="tb_setting_xiaoai">Ses asistanı</string>
   <string name="express_select_send_providers">Bir kurye servisi sağlayıcısı seçin</string>
-  <string name="express_send_not_available">Hizmet geçici olarak kullanılamıyor, lütfen daha sonra tekrar deneyin</string>  
+  <string name="express_send_not_available">Hizmet geçici olarak kullanılamıyor, lütfen daha sonra tekrar deneyin</string> 
+  <string name="miot_device_click_show_detail">Akıllı ev hakkında bilgi edinmek için tıklayın</string>  
 </resources>
