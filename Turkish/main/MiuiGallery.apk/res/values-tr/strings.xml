@@ -217,7 +217,7 @@
   <string name="cleaner_screen_shot_description">Artık ihtiyacınız olmayan ekran görüntülerini silin.</string>
   <string name="cleaner_screen_shot_title">Ekran görüntülerini sil</string>
   <string name="cleaner_slim_action">İyileştirme başlıyor…</string>
-  <string name="cleaner_slim_description">İyileştirilmiş fotoğrafları cihazınızda saklayın. Orijinal dosyalar Mi Cloud\'da saklanacaktır.</string>
+  <string name="cleaner_slim_description">İyileştirilmiş fotoğrafları cihazınızda saklayın. Orijinal dosyalar Mi Bulut\'ta saklanacaktır.</string>
   <string name="cleaner_slim_start">İyileştirme</string>
   <string name="cleaner_slim_title">Fotoğrafları İyileştirme</string>
   <string name="cleaner_space_description">serbest bırakılabilir</string>
@@ -958,7 +958,7 @@
   <string name="slim_cost_time_minute">Kalan %dd</string>
   <string name="slim_cost_time_minute_and_second">Kalan %1$dd %2$ds</string>
   <string name="slim_cost_time_second">Kalan %ds</string>
-  <string name="slim_description_dialog_detail">Yerel fotoğrafların dosya boyutunu küçültün. Orijinal dosyalar Mi Cloud\'da saklanacaktır.</string>
+  <string name="slim_description_dialog_detail">Yerel fotoğrafların dosya boyutunu küçültün. Orijinal dosyalar Mi Bulut\'ta saklanacaktır.</string>
   <string name="slim_description_dialog_ok">Anladım</string>
   <string name="slim_description_dialog_slim_after">Sonra:  167KB</string>
   <string name="slim_description_dialog_slim_before">Önce:  3.07MB</string>

@@ -2307,8 +2307,8 @@
   <string name="gb_first_window_antimsg_summary_quick_answer">Hızlı yanıtları kullan</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">Saydam arka plan üzerinde metin görünümü</string>
   <string name="gb_first_window_antimsg_title">Uygun bildirimler</string>
-  <string name="gb_first_window_gamebox_summary_four">Hızlı yanıtları kullan, ekran kayıtları ve ekran görüntüleri oluştur</string>
-  <string name="gb_first_window_gamebox_summary_six">Önbelleği temizle, ekran kayıtları ve ekran görüntüleri oluştur</string>
+  <string name="gb_first_window_gamebox_summary_four">Önbelleği temizle, ekran kayıtları ve ekran görüntüleri oluştur</string>
+  <string name="gb_first_window_gamebox_summary_six">Hızlı yanıtları kullan, ekran kayıtları ve ekran görüntüleri oluştur</string>
   <string name="gb_first_window_handsfree_summary">Hoparlörü otomatik olarak aç</string>
   <string name="gb_first_window_handsfree_title">Eller serbest aramalar</string>
   <string name="gb_first_window_start">Oynamaya başla</string>

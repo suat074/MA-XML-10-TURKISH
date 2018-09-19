@@ -377,7 +377,7 @@ Delta Güncelleme Boyutu: %2$s"</string>
   <string name="trans_intro_title_account">Hesaplar ve şifreler:</string>
   <string name="trans_intro_desc_account">Güvenlik nedenleriyle yeni cihazınızın hesaplarında (ör. Mi Hesabı, Exchange, Google vb.) Tekrar oturum açmanız gerekir.</string>
   <string name="trans_intro_title_private">Gizli albüm:</string>
-  <string name="trans_intro_desc_private">"Mi Mover gizli albümdeki fotoğraflara şifreli olduğu için erişemiyor. Bu fotoğrafları Mi Cloud dan yeni bir aygıta geri yükleyebilirsiniz."</string>
+  <string name="trans_intro_desc_private">"Mi Mover gizli albümdeki fotoğraflara şifreli olduğu için erişemiyor. Bu fotoğrafları Mi Bulut üzerinden yeni bir aygıta geri yükleyebilirsiniz."</string>
   <string name="trans_intro_title_multiuser">İkinci alan verileri:</string>
   <string name="trans_intro_desc_multiuser">"Mi Mover, İkinci alandaki öğelere erişemiyor. Öğeleri Birinci bölüme taşıyın ve orada Mi Mover çalıştırın."</string>
   <string name="trans_intro_title_multiapp">Çift uygulama verileri:</string>

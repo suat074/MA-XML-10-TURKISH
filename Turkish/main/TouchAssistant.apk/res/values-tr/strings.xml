@@ -8,7 +8,6 @@
   <string name="close_panel">Kısayol Düğmesi\'ni kapat</string>
   <string name="customize_entries">Kısayolları Düzenle</string>
   <string name="enable_touch_assistant">Kısayol Düğmesi\'ni Aç</string>
-  <string name="enabled_for_pad_hint">\"Yatay Modda gezinti düğmelerini engelle\" açık olduğunda çalıştır</string>
   <string name="function_settings">Kısayol Ayarları</string>
   <string name="hide_touch_assistant">Otomatik Gizle</string>
   <string name="hide_touch_assistant_intro">Seçilen uygulamada Kısayol Düğmesi\'ni gizle.</string>
