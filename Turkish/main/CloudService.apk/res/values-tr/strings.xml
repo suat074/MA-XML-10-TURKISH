@@ -510,13 +510,12 @@
   <string name="sub_sync_item_sms_title_wifi_only">MMS eşitlemesini sadece WLAN kullanarak yap</string>
   <string name="success_upgraded_space">%s eklendi</string>
   <string name="sync_dspt">Eşitle</string>
-  <string name="sync_dspt_entrance_provision">"Fotoğrafları, kişileri, çağrı geçmişini ve cihazdaki tüm mesajları eşitle. Herhangi bir tarayıcıdan %s eşitlenmiş öğelere erişin."</string>
-  <string name="sync_dspt_entrance_provision_2">Fazlası</string>
+  <string name="sync_dspt_entrance_provision">"Tüm cihazlarınızdaki fotoğraflarınızı, kişilerinizi, arama geçmişinizi ve mesajlarınızı senkronize edin. Herhangi bir tarayıcıdan %s adresinden senkronize ettiğiniz öğelere erişin"</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Kullanma!</string>
   <string name="sync_dspt_entrance_provision_confirm_content">MIUI\'nin yerleşik uygulamalarının fotoğrafları, kişileri, notları ve daha fazlasını yedekleyebilmesi için Mi Bulut\'a ihtiyacı var. Mi Bulut ücretsiz ve kullanıma hazır halde gelir.</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Bulut kullan</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Neden Mi Bulut kullanmıyorsun?</string>
-  <string name="sync_dspt_entrance_provision_network">Bu uygulamanın normal çalışması için internete bağlanması gerekiyor.Verileri senkronize etmek, mobil veri bağlantısı ve WLAN\'ı açmayı gerektirebilir.</string>
+  <string name="sync_dspt_entrance_provision_network">Bu uygulamanın normal çalışması için internete bağlanması gerekiyor.Veri senkronizasyonu, mobil veri bağlantısı ve WLAN\'ı açmayı gerektirebilir.</string>
   <string name="sync_dspt_entrance_provision_skip">Bu adımı atla</string>
   <string name="sync_dspt_provision">"Fotoğrafları, kişileri, notları ve daha fazlasını eşitleyin, her yerden erişin "</string>
   <string name="sync_dspt_provision_header">Eşitle</string>

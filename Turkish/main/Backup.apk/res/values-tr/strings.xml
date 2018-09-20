@@ -349,8 +349,8 @@ Delta Güncelleme Boyutu: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Güncelleme mevcut!</string>
   <string name="total_size">, %s</string>
   <string name="btn_got_it">Anladım</string>
-  <string name="backup_security_tips_title">Yedeklemeler işe yaramayabilir</string>
-  <string name="backup_security_tips_message">Bazı uygulamalar yedeklenemez veya geri yüklenemez.</string>
+  <string name="backup_security_tips_title">Yedekler çalışmayabilir</string>
+  <string name="backup_security_tips_message">Bazı uygulamalar yedeklenemeyebilir veya geri yüklenemeyebilir.</string>
   <string name="trans_security_tips_title">Mi Mover uyumluluğu</string>
   <string name="trans_security_tips_message">"Bazı uygulamalar Mi Mover'ı desteklemez."</string>
   <string name="trans_intro_title">SSS</string>
