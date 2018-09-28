@@ -594,11 +594,10 @@ kullanabilirsiniz"</string>
   <string name="eye_light_comic">Komik ışık</string>
   <string name="eye_light_crescent">Hilal ışığı</string>
   <string name="eye_light_nature">Doğa ışığı</string>
-  <string name="eye_light_off">Yok</string>
   <string name="eye_light_rainbow">Gökkuşağı ışığı</string>
   <string name="eye_light_star">Yıldız ışığı</string>
   <string name="eye_light_window">Pencere ışığı</string>
-  <string name="fps960_toast">Zamanlayıcı dördüncü çeyreğe ulaştığında ağır çekim yakalama başlayacaktır</string>
+  <string name="fps960_toast">Ağır çekim yakalama, kaydın son çeyreğinde başlayacaktır</string>
   <string name="hint_eye_light">Flaş açıkken göz ışığı daha iyi olur</string>
   <string name="makeup_reset_toast">Makyaj efektleri kaldırıldı</string>
   <string name="module_name_new_slow_motion">Ağır çekim</string>

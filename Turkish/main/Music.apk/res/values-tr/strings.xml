@@ -824,5 +824,6 @@ Mutlu Ol"</string>
   <string name="search_menu_title">Arama</string>
   <string name="sliding_pro_center">PRO Merkezi</string>
   <string name="unlimited_downloads">Sınırsız indirme</string>
-  <string name="unlimited_offline_songs">Sınırsız çevrimdışı şarkı</string>  
+  <string name="unlimited_offline_songs">Sınırsız çevrimdışı şarkı</string>
+  <string name="expand_button_title">Gelişmiş</string>  
 </resources>

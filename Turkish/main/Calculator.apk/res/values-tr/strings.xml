@@ -574,4 +574,5 @@
   <string name="preference_privacy_title">Gizlilik Politikası</string> 
   <string name="tax_thershold_native_new">%s (yeni)</string>
   <string name="tax_thershold_native_new_description">Vergiler 1 Ekim 2018 tarihinden itibaren yeni vergi kanununa göre hesaplanacaktır.</string>
+  <string name="not_supported_due_to_language">Bu özellik sadece Çince dilinde kullanılabilir</string>
 </resources>

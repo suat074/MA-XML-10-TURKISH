@@ -2364,7 +2364,7 @@
   <string name="lockpassword_choose_your_pattern_header">Deseninizi seçin</string>
   <string name="lockpassword_choose_your_pin_header">PIN kodunu ayarlayın</string>
   <string name="lockpassword_choose_your_pin_header_second_space">İkinci Alan için \n PIN kodunu ayarla</string>
-  <string name="lockpassword_choose_your_pin_title">4-16 haneli girin</string>
+  <string name="lockpassword_choose_your_pin_title" formatted="false">%d-%d haneli girin</string>
   <string name="lockpassword_confirm_for_second_user">İkinci Alan şifresini onayla</string>
   <string name="lockpassword_confirm_passwords_dont_match">Şifreler eşleşmiyor</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN kodları eşleşmiyor</string>
@@ -4731,7 +4731,7 @@
   <string name="unlock_set_unlock_password_title">Şifre</string>
   <string name="unlock_set_unlock_pattern_summary">Kilidi açmak için parmağınızla basit bir desen çizin</string>
   <string name="unlock_set_unlock_pattern_title">Desen</string>
-  <string name="unlock_set_unlock_pin_summary">Cihaz kilidini açmak için 4-16 basamaklı sayı girin</string>
+  <string name="unlock_set_unlock_pin_summary" formatted="false">Cihazın kilidini açmak için %d-%d haneli sayı girin</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Ekran kilidini ayarla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Parmakizi veya Ekran Kilidi Ayarlarını Ayarlar &gt; Güvenlik bölümününden yapabilirsiniz.</string>
@@ -5861,5 +5861,11 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="sos_privacy_dialog_message">"SOS acil durum yardım işlevini etkinleştirin, lütfen %s okuyun ve onaylayın.
 SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu almak, mobil ağı kullanmak ve adres defterinizi okumak gerekebilir, onaylıyor musunuz?"</string>
   <string name="sos_privacy_dialog_title">Şartlar ve Koşullar</string>
-  <string name="talkback_watermark_enable">TalkBack filigranı</string>  
+  <string name="talkback_watermark_enable">TalkBack filigranı</string> 
+  <string name="fingerprint_others_title">Diğer</string>
+  <string name="gxzw_anim_light">Neon</string>
+  <string name="gxzw_anim_metal">Metal</string>
+  <string name="gxzw_anim_pulse">Nabız</string>
+  <string name="gxzw_anim_rhythm">Ritim</string>
+  <string name="gxzw_anim_title">Parmak izi animasyonu</string>  
 </resources>

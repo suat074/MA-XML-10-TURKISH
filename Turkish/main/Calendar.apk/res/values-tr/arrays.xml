@@ -288,4 +288,11 @@
         <item>2 gün önce</item>
         <item>1 hafta önce</item>
     </string-array>
+    <string-array name="edit_event_dislike">
+        <item>Oluşturmak istediğim etkinlik türü yok</item>
+        <item>Daha fazla ayar</item>
+        <item>Bazı Ayarlar belirlenemiyor</item>
+        <item>Sadece etrafa bak</item>
+        <item>Söyleme</item>
+    </string-array>	
 </resources>

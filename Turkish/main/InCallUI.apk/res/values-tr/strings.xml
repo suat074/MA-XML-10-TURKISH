@@ -1084,4 +1084,5 @@ mevcut değil"</string>
   <string name="crbt_second_hold_prompt_no_name">Önceki çağrı beklemede…</string>
   <string name="prompt_no_volte_when_failed">VoLTE servisleri mevcut değil.</string>
   <string name="description_message_list_title">Hızlı cevaplar listesi</string>
+  <string name="volume_boost_text">Ses seviyesi başarıyla artırıldı</string>
 </resources>

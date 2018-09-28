@@ -107,4 +107,8 @@
         <item quantity="other">%1$d gün sonra</item>
         <item quantity="one">%1$d gün sonra</item>
     </plurals>
+	<plurals name="event_reminders_to_max">
+        <item quantity="other">%d hatırlatma ayarlayabilirsin</item>
+        <item quantity="one">%d hatırlatma ayarlayabilirsin</item>
+    </plurals>	
 </resources>

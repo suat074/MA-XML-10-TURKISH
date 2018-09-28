@@ -503,7 +503,7 @@
   <string name="dock_forced_resizable">Uygulama ekranı bölme özelliği ile çalışmayabilir.</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Ekran bölme özelliği Kilit ekranında desteklenmiyor.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Uygulama ekran bölme özelliğini desteklemiyor.</string>
-  <string name="drag_to_add_tiles">Düğme eklemek için sürükleyin</string>
+  <string name="drag_to_add_tiles">Öğe eklemek veya yeniden düzenlemek için basılı tutun</string>
   <string name="drag_to_remove_tiles">Kaldırmak için burayı sürükleyin</string>
   <string name="drive_mode_tip">Araç modu açık</string>
   <string name="drive_mode_tip_idle">Araba modundan çıkmak için dokunun</string>
@@ -1214,7 +1214,7 @@
   <string name="recents_accessibility_split_screen_top">Ekranı üst üste böl</string>
   <string name="recents_app_info_button_label">Uygulama bilgisi</string>
   <string name="recents_caption_resize">Yeni görev düzenini seçin</string>
-  <string name="recents_drag_hint_message">Ekran bölmeyi kullanmak için buraya sürükleyin</string>
+  <string name="recents_drag_hint_message">Bir uygulamaya basın ve basılı tutun, ardından buraya sürükleyin.</string>
   <string name="recents_empty_message">Son kullanılan öge yok</string>
   <string name="recents_empty_message_dismissed_all">Her şeyi temizlediniz</string>
   <string name="recents_empty_message_multi_window">Ana ekrandan uygulamaları aç</string>
@@ -1691,4 +1691,5 @@
   <string name="switch_system_user">İlk alanı aç</string> 
   <string name="miui_screen_rotation_freeze_message">Otomatik döndürme devre dışı.</string>
   <string name="face_unlock_sc_status">Kamerayı açmak için ekranı aşağı doğru çekin</string>
+  <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir öğe eklemek için, üzerine basılı tutun ve ardından panelin üst kısmına sürükleyin.</string>
 </resources>
