@@ -843,13 +843,13 @@
   <string name="kg_prompt_reason_timeout_pin">Ek güvenlik için PIN gerekir</string>
   <string name="kg_prompt_reason_user_request">Cihaz manuel olarak kilitlendi</string>
   <string name="kg_puk_enter_pin_hint">Yeni PIN kodunu giriniz</string>
-  <string name="kg_puk_enter_puk_hint">SIM şu anda devre dışı. Devam etmek için PUK kodunu girin. Ayrıntılar için operatörünüzle iletişim kurun.</string>
-  <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" şu anda devre dışı. Devam etmek için PUK kodunu girin. Ayrıntılar için operatörünüzle iletişim kurun.</string>
+  <string name="kg_puk_enter_puk_hint">SIM şuan devre dışı. Devam etmek için PUK kodunu girin. Ayrıntılar için operatörünüz ile iletişim kurun.</string>
+  <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" şuan devre dışı. Devam etmek için PUK kodunu girin. Ayrıntılar için operatörünüz ile iletişim kurun.</string>
   <string name="kg_sim_pin_instructions">SIM PIN\’i girin</string>
   <string name="kg_sim_pin_instructions_multi">\"%1$s\" için SIM PIN\’i girin</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIM kartın kilidi açılıyor…</string>
   <string name="kg_too_many_failed_attempts_countdown">%d saniye içinde tekrar deneyin.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message">%1$d kez şifrenizi yanlış girdiniz. \n\n%2$d saniye içinde tekrar deneyin.</string>
+  <string name="kg_too_many_failed_password_attempts_dialog_message">Şifrenizi %1$d kez yanlış yazdınız. \n\n%2$d saniye içinde tekrar deneyin.</string>
   <string name="kg_too_many_failed_pattern_attempts_dialog_message">Kilit açma deseninizi %1$d kez yanlış çizdiniz. \n\n%2$d saniye içinde tekrar deneyin.</string>
   <string name="kg_too_many_failed_pin_attempts_dialog_message">PIN\'i %1$d kez yanlış yazdınız. \n\n%2$d saniye içinde tekrar deneyin.</string>
   <string name="kg_wrong_password">Yanlış şifre</string>
