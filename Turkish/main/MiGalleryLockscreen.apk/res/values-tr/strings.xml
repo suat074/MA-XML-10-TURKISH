@@ -110,6 +110,7 @@
   <string name="lockscreen_magazine_summary">Kategori Seç</string>
   <string name="lockscreen_magazine_system_title">Varsayılan</string>
   <string name="lockscreen_magazine_title">Günlük Kilit Ekranı</string>
+  <string name="lockscreen_wallpaper_changed">Kilit ekranı duvar kağıdı güncellendi</string>
   <string name="look_str">Popüler</string>
   <string name="main_fragment_title_discover">Keşfedin</string>
   <string name="main_fragment_title_home">Öneriler</string>
@@ -246,7 +247,7 @@
   <string name="passport_quick_login_step2_title">2 adımlı doğrulama</string>
   <string name="passport_quick_login_title">Şifrenizi girin</string>
   <string name="passport_quick_register">Kaydol</string>
-  <string name="passport_quick_register_notice">&lt;u&gt;\"Bir mi hesabınız yok mu? Bir tane oluştur.\"&lt;/u&gt;</string>
+  <string name="passport_quick_register_notice">&lt;u&gt;"Bir mi hesabınız yok mu? Bir tane oluştur."&lt;/u&gt;</string>
   <string name="passport_re_get_verify_code">Kodu tekrar al</string>
   <string name="passport_re_register">Tekrar kaydol</string>
   <string name="passport_recycle_account_prompt">Bu senin Mi Hesabın mı?</string>
@@ -337,9 +338,9 @@
   <string name="platform_unavailable_wechat">WeChat\'i yükle</string>
   <string name="platform_unavailable_wechatmoment">WeChat\'i yükle</string>
   <string name="platform_unavailable_weibo">Weibo\'yu yükle</string>
-  <string name="prv_end">" \"&amp;lt;CDATA&amp;gt;Görüntülenecek öğe yok&amp;lt;/CDATA&amp;gt;\" "</string>
-  <string name="prv_loading">" \"&amp;lt;CDATA&amp;gt;Sadece bir saniye&amp;amp;#8230;&amp;lt;/CDATA&amp;gt;\" "</string>
-  <string name="prv_nodata">" \"&amp;lt;CDATA&amp;gt;Veri yok&amp;lt;/CDATA&amp;gt;\" "</string>
+  <string name="prv_end">" "&lt;CDATA&gt;Görüntülenecek öğe yok&lt;/CDATA&gt;" "</string>
+  <string name="prv_loading">" "&lt;CDATA&gt;Sadece bir saniye&amp;#8230;&lt;/CDATA&gt;" "</string>
+  <string name="prv_nodata">" "&lt;CDATA&gt;Veri yok&lt;/CDATA&gt;" "</string>
   <string name="pull_to_refresh_pull_down_label">Yenilemek için aşağıya çekin</string>
   <string name="pull_to_refresh_pull_up_label">Yenilemek için yukarı çek</string>
   <string name="pull_to_refresh_refreshing_label">Yenileniyor…</string>
@@ -348,7 +349,7 @@
   <string name="resource_apply">Uygula</string>
   <string name="resource_no_network_text">Ağ bağlantınızı kontrol edin ve tekrar deneyin</string>
   <string name="rv_with_footer_empty">Henüz burada bir şey yok</string>
-  <string name="rv_with_footer_loading">" \"&amp;lt;CDATA&amp;gt;Sadece bir saniye&amp;amp;#8230;&amp;lt;/CDATA&amp;gt;\" "</string>
+  <string name="rv_with_footer_loading">" "&lt;CDATA&gt;Sadece bir saniye&amp;#8230;&lt;/CDATA&gt;" "</string>
   <string name="rv_with_footer_pull_load_more">Daha fazlasını görmek için aşağı çekin</string>
   <string name="save_hdpicture_in_favor">Sık Kullanılanlar görünümü HD görüntüler</string>
   <string name="save_picture_success">Kaydedildi</string>
@@ -365,7 +366,7 @@
   <string name="sliding_on_unlock">Kilidi açmak için yukarı kaydırın</string>
   <string name="sst_cover_chg_enable_desc">Cihaz şarj olurken Duvar Kağıdı Döngüsünü göster</string>
   <string name="sst_cover_chg_enable_title">Şarj olurken göster</string>
-  <string name="sst_favor_desc">Favorilerim</string>
+  <string name="sst_favor_desc">Favori duvar kağıtlarım</string>
   <string name="sst_favor_title">Favoriler</string>
   <string name="sst_grid_view_select_all">Hepsi</string>
   <string name="sst_grid_view_unselect_all">Vazgeç</string>
@@ -380,8 +381,8 @@
   <string name="sst_subscribe_title">Aboneliklerim</string>
   <string name="sst_wifi_only_desc">Bu özelliği kapatırsanız, mobil veri tasarrufu sağlarsınız</string>
   <string name="sst_wifi_only_title">Mobil veri kullanarak duvar kağıtlarını güncelle</string>
-  <string name="summary">Bu ürünü kullanmakla, şunu kabul etmiş olursunuz: &lt;a href =\'http://www.miui.com/res/doc/eula.html?lang=en_US\'&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Gizlilik Politikası&lt;/a&gt;. Bu özelliğin normal bir şekilde çalışması için internete bağlanması gerekebilir.</string>
-  <string name="summary_international">Bu ürünü kullanmakla, şunu kabul etmiş olursunuz: &lt;a href =\'http://www.miui.com/res/doc/eula.html?lang=en_US\'&gt;Kullanıcı Sözleşmesi&lt;/a&gt; and &lt;a href=\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Gizlilik Politikası&lt;/a&gt;. Bu özelliğin normal bir şekilde çalışması için internete bağlanması gerekebilir.</string>
+  <string name="summary">Çevrimiçi içeriği görüntülemek için &lt;a href=\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Gizlilik Politikamızı&lt;/a&gt; kabul edin. Eğer kabul etmezseniz, yerel duvar kağıtları hala kullanılabilir olacak.</string>
+  <string name="summary_international">Bu ürünü kullanmakla, şunu kabul etmiş olursunuz: &lt;a href =\'http://www.miui.com/res/doc/eula.html?lang=en_US\'&gt;Kullanıcı Sözleşmesi&lt;/a&gt; ve &lt;a href=\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Gizlilik Politikası&lt;/a&gt;. Bu özelliğin normal bir şekilde çalışması için internete bağlanması gerekiyor.</string>
   <string name="tab_user_title_bar_text">Ayarlar</string>
   <string name="theme_apply_failured">Uygulanamıyor, sonra tekrar deneyin</string>
   <string name="theme_apply_success">Başarıyla eklendi</string>
