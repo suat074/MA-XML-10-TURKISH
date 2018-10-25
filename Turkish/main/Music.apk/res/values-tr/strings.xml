@@ -786,7 +786,7 @@
   <string name="vip_tomorrow_auto_renew_message">Müzik aboneliğiniz yarın akşam otomatik olarak yenilenecektir. Bu ödemeyi tamamlamak için hesabınızda yeterli miktarda Mi Kredisi bulunduğundan emin olun.</string>
   <string name="vip_tomorrow_renew_message">Yüksek kaliteli ses akışı sağlayamayacaksınız, ancak bazı şarkılar normal kalitede sunulacak.</string>
   <string name="wifi_required_body" formatted="false">Bu %s indirmeyi tamamlamak için Wi-Fi\'ye bağlanın.\n\nDaha sonra bir Wi-Fi ağına bağlandığınızda indirmeye başlamak için %s düğmesine dokunun.</string>
-  <string name="wifi_required_title">Şebeke ağı için çok büyük indirme</string>
+  <string name="wifi_required_title">Bu dosyayı indirmek için Wi-Fi\'ye bağlanmalısınız.</string>
   <string name="abc_action_bar_home_description">Ana ekrana git</string>
   <string name="abc_action_bar_up_description">Yukarı git</string>
   <string name="abc_action_menu_overflow_description">Daha fazla seçenek</string>
@@ -827,5 +827,7 @@ Mutlu Ol"</string>
   <string name="unlimited_offline_songs">Sınırsız çevrimdışı şarkı</string>
   <string name="expand_button_title">Gelişmiş</string> 
   <string name="toast_is_pro">Siz zaten bir PRO üyesiniz.</string>
-  <string name="toast_not_pro">Bu özelliği sadece PRO üyeleri kullanılabilir.</string>  
+  <string name="toast_not_pro">Bu özelliği sadece PRO üyeleri kullanılabilir.</string> 
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>  
 </resources>
