@@ -1280,6 +1280,8 @@
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="guide_chosen_type_main_title">Bize ne sevdiğini söyle</string>
+  <string name="guide_chosen_type_main_title_behind">ne seviyorsun</string>
+  <string name="guide_chosen_type_main_title_front">Bize söyle</string>  
   <string name="guide_chosen_type_subtitle">İlgili önerileri almak için ilgi alanlarınızı işaretleyin</string>
   <string name="guide_entertainment_text">eğlendirme</string>
   <string name="guide_fashion_text">moda</string>
