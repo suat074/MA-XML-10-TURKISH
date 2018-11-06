@@ -438,6 +438,7 @@
   <string name="uninstalling_notification_channel">Kaldırma işlemi çalışıyor</string>
   <string name="unknown">Bilinmiyor</string>
   <string name="unknown_apps_admin_dlg_text">Yöneticiniz bilinmeyen kaynaklardan alınan uygulamaların kurulmasına izin vermez.</string>
+  <string name="unknown_apps_dlg_text">Güvenlik için, telefonunuz bilinmeyen kaynaklardan uygulamaların yüklenmesini engelleyecek şekilde ayarlanmıştır.</string>
   <string name="unknown_apps_user_restriction_dlg_text">Bilinmeyen uygulamalar bu kullanıcı tarafından yüklenemez</string>
   <string name="untrusted_external_source_warning">Güvenliğiniz için, telefonunuzun bu kaynaktan bilinmeyen uygulamalar yüklemesine izin verilmiyor.</string>
   <string name="usb_audio_disable_routing">USB ses yolunu devre dışı bırak</string>

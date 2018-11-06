@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">d. MMMM, EEEE</string>
-    <string name="date_time_12">d. MMMM, EEEE</string>
-    <string name="desc_date_format">d. MMMM, EEEE</string>
-    <string name="desc_date_format_12">d. MMMM, EEEE</string>
+    <string name="date_time">d MMMM, EEEE</string>
+    <string name="date_time_12">d MMMM, EEEE</string>
+    <string name="desc_date_format">d MMMM, EEEE</string>
+    <string name="desc_date_format_12">d MMMM, EEEE</string>
 	<string name="weather_type_0">Açık</string>
     <string name="weather_type_1">Bulutlu</string>
     <string name="weather_type_2">Kapalı</string>
