@@ -606,5 +606,18 @@
   <string name="component_title_settings_video_wallpaper">Özel efektler ile duvar kağıtları</string>
   <string name="theme_detail_tab_comment">Yorumlar</string>
   <string name="theme_detail_tab_recommend">Önerilen</string>
-  <string name="theme_detail_tab_theme">Temalar</string>  
+  <string name="theme_detail_tab_theme">Temalar</string>
+  <string name="app_ad_title">Günlük Öneriler</string>
+  <string name="hide_pull_down_message">Bibloyu gizle?</string>
+  <string name="hide_pull_down_negative">Gizleme</string>
+  <string name="hide_pull_down_positive">Gizle</string>
+  <string name="no_net_work_connection">Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
+  <string name="pull_down_view_error_message">Tüh! İnternet bağlantısı bulunamadı. Bağlantınızı kontrol edin veya tekrar deneyin.</string>
+  <string name="pull_down_view_refresh">Yenile</string>
+  <string name="pull_down_view_title">Yenilikler</string>
+  <string name="request_time_out">İstek zaman aşımına uğradı. Tekrar deneyin.</string>
+  <string name="server_internal_error">Bir sunucu hatası oluştu. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="swipe_find_more">yukarı kaydırın</string>
+  <string name="vip_level_dialog_positive">Biliyorum</string>
+  <string name="vip_level_dialog_title">İpuçları</string> 
 </resources>

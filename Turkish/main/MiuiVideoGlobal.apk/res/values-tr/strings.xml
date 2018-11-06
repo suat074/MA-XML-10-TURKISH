@@ -446,5 +446,7 @@
   <string name="share_ugc_content">%1$s bir göz atın! #%2$s (%3$s)</string>
   <string name="share_ugc_join">Katıl</string>
   <string name="share_ugc_waitting">Bağlantı oluşturuluyor…</string> 
-  <string name="switch_ratio_pause">Oynatma hızı kararsız. Varsayılan hıza geri dönülüyor…</string>   
+  <string name="switch_ratio_pause">Oynatma hızı kararsız. Varsayılan hıza geri dönülüyor…</string> 
+  <string name="network_connect_info">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string> 
+  <string name="ovp_home_no_data_callback">Bilgi yüklenemedi. Yenilemek için aşağıya çekin.</string>  
 </resources>

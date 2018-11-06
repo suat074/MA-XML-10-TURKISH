@@ -1050,5 +1050,6 @@
   <string name="tb_setting_xiaoai">Ses asistanı</string>
   <string name="express_select_send_providers">Bir kurye servisi sağlayıcısı seçin</string>
   <string name="express_send_not_available">Hizmet geçici olarak kullanılamıyor, lütfen daha sonra tekrar deneyin</string> 
-  <string name="miot_device_click_show_detail">Akıllı ev hakkında bilgi edinmek için tıklayın</string>  
+  <string name="miot_device_click_show_detail">Akıllı ev hakkında bilgi edinmek için tıklayın</string>
+  <string name="cta_dialog_miot_text_all">Mi Ev\'in normal şekilde çalışabilmesi için, ağınızı, konumunuzu, Bluetooth\'unuzu açmak için yetkilendirilmesi, hücresel ağınızı, mikrofonunuzu kullanması ve kişilerinizi okuması gerekebilir. Onaylıyor musunuz?</string>  
 </resources>
