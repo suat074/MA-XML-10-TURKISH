@@ -369,7 +369,7 @@ kullanarak numarayı ara"</string>
   <string name="fingerprint_error_timeout">Parmakizi için zaman aşımı oluştu. Tekrar deneyin.</string>
   <string name="fingerprint_error_unable_to_process">Tekrar deneyin.</string>
   <string name="fingerprint_icon_content_description">Parmakizi Simgesi</string>
-  <string name="fingerprint_name_template">%d. parmak</string>
+  <string name="fingerprint_name_template">%d parmak</string>
   <string name="fingerprints">Parmakizleri:</string>
   <string name="floating_toolbar_close_overflow_description">Taşan araç çubuğunu kapat</string>
   <string name="floating_toolbar_open_overflow_description">Diğer Seçenekler</string>

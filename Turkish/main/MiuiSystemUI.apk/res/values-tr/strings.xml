@@ -1287,7 +1287,7 @@
   <string name="search_menu_title">Arama</string>
   <string name="select_application">Uygulama seçin</string>
   <string name="select_logd_level">Select log level</string>
-  <string name="select_logd_size_dialog_title">Gün. arabel. başına Gün. Kayd. boyutunu seç</string>
+  <string name="select_logd_size_dialog_title">Günlük arabellek için boyut seçin</string>
   <string name="select_logd_size_title">Günlük Kaydedici arabellek boyutları</string>
   <string name="select_logpersist_dialog_title">Cihazda kalıcı olarak depolanacak günlük arabelleklerini seçin</string>
   <string name="select_logpersist_title">Günlük kaydedici verilerini bu cihazda kalıcı olarak depola</string>
