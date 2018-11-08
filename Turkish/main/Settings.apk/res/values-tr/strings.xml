@@ -5947,5 +5947,17 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="keyguard_notification_status_title">Bildirimler</string> 
   <string name="others">Diğer</string>
   <string name="input_pattern_hint_text">Kilit açma deseninizi çizin</string>
-  <string name="slider_voice_online_theme">Çevrimiçi sesler</string>   
+  <string name="slider_voice_online_theme">Çevrimiçi sesler</string> 
+  <string name="hide_system_apps_title">Sistem uygulamalarını gizle</string>
+  <string name="badge_counter_position_title">Bildirim sayacı</string>
+  <string name="folder_columns_title">Klasördeki sütun sayısı</string>
+  <string name="vibrate_on_unlock">Kilitlendiğinde titreşim</string>
+  <string name="clock_position_title">Saat stili</string>
+  <string name="unlock_wp_title">Yeniden başlatmanın ardından parmak iziyle kilidi aç</string>
+  <string name="hide_alarm_icon">Alarm simgesi gizle</string>
+  <string name="status_bar_styles_title">Durum çubuğu stili</string>
+  <string name="toggle_rows_title">Satırlar (Tam görünüm)</string>
+  <string name="enable_screen_by_charging">Şarj olurken ekranı aç</string>
+  <string name="blur_status_bar_title">Durum çubuğunda bulanıklık efekti</string>
+  <string name="exit_mode_title">Sessiz/Rahatsız etme modundan çıkarken sesi devre dışı bırak</string>  
 </resources>

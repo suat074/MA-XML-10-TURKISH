@@ -1276,5 +1276,23 @@
     <item>Ekranı uyandır</item>
     <item>Animasyonu göster</item>
     <item>Ekranı uyandırma</item>
+  </string-array>
+  <string-array name="badge_counter_entries">
+    <item>Sağ üst</item>
+    <item>Sol alt</item>
+    <item>Sol üst</item>
+    <item>Sağ alt</item>
+  </string-array>
+  <string-array name="folder_columns_entries">
+    <item>4 sütun</item>
+    <item>3 sütun</item>
+  </string-array>
+  <string-array name="clock_style_entries">
+    <item>Yatay</item>
+    <item>Dikey</item>
+  </string-array>
+  <string-array name="status_bar_styles_entries">
+    <item>Varsayılan</item>
+    <item>Merkezi saat</item>
   </string-array>  
 </resources>

@@ -1577,4 +1577,16 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
   <string name="dds_switch_warning_message_data_off">SIM %1$s bulunamadı. SIM %2$s şimdi varsayılan mobil veri kartınız olarak ayarlandı. Mobil veri şu anda kapalı.</string>
   <string name="dds_switch_warning_message_data_on">SIM %1$s bulunamadı. SIM %2$s şimdi varsayılan mobil veri kartınız olarak ayarlandı. Gereksiz operatör ücretlerinden kaçınmak için mobil veri kapatıldı.</string>  
   <string name="privacy_policy_title">Gizlilik Politikası</string>
+  <string name="choose_sim_title">SIM Kart Seçme Zamanı</string>
+  <string name="show_btn_settings">Arama ekranı düğmeleri</string>
+  <string name="show_contact">Kişiler düğmesi</string>
+  <string name="show_add_btn">Ekle düğmesi</string>
+  <string name="show_notes">Not düğmesi</string>
+  <string name="show_mute_btn">Sessiz düğmesi</string>
+  <string name="show_hold_btn">Beklet düğmesi</string>
+  <string name="show_record_btn">Kayıt düğmesi</string>
+  <string name="tools_panel_in_one_row">Bir satırdaki düğmeler</string>
+  <string name="choose_sim_summary">%s s.</string>
+  <string name="avatar_size_title">Fotoğraf boyutu</string>
+  <string name="call_backlight_category">Ekran parlaklığı</string>  
 </resources>
