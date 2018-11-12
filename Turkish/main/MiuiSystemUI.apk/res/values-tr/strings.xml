@@ -1337,7 +1337,7 @@
   <string name="status_bar_clock_date_format">d MMM, E</string>
   <string name="status_bar_clock_date_format_12">d MMM, E</string>
   <string name="status_bar_clock_date_time_format">H:mm d MMM</string>
-  <string name="status_bar_clock_date_time_format_12">h:mm aa,d MMM</string>  
+  <string name="status_bar_clock_date_time_format_12">h:mm aa, d MMM</string>  
   <string name="status_bar_date_format">"E
 d MMM"</string>
   <string name="status_bar_date_format_12">"E
@@ -1498,7 +1498,7 @@ d MMM"</string>
   <string name="unimportant_desc">Önemli olmayan tüm bildirimler ayrı bir klasörde görüntülenir.</string>
   <string name="unimportant_title">Önemsiz</string>
   <string name="unknown">Bilinmiyor</string>
-  <string name="unlock_camera_steady">Lütfen sabit tutun</string>
+  <string name="unlock_camera_steady">Telefonu hareket ettirmeyin</string>
   <string name="unlock_failed">İç hata</string>
   <string name="unlock_failed_face_not_found">Tespit</string>
   <string name="unlock_label">Kilidi aç</string>
@@ -1697,11 +1697,11 @@ d MMM"</string>
   <string name="face_unlock_sc_status">Kamerayı açmak için ekranı aşağı doğru çekin</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir öğe eklemek için, üzerine basılı tutun ve ardından panelin üst kısmına sürükleyin.</string>
   <string name="lock_screen_carrier_airplane_mode_on">Uçak modu</string>
-  <string name="lock_screen_no_sim_card_emergency_only">Sadece acil arama</string>
+  <string name="lock_screen_no_sim_card_emergency_only">Sadece acil aramalar</string>
   <string name="lock_screen_no_sim_card_no_service">Servis yok</string>
   <string name="torch_high_temperature_warning">Cihazınız aşırı ısınmış. Şimdi fener kullanamazsınız.</string>
   <string name="notch_sos_status_bar_title">SOS</string>
-  <string name="sos_status_bar_summary">çıkmak için tıklayın</string>
+  <string name="sos_status_bar_summary">Çıkmak için dokunun</string>
   <string name="sos_status_bar_title">SOS</string>
   <string name="enable_atrace">Atrace\'yi aç</string>
   <string name="enable_atrace_summary">ATrace kullanarak çekirdek olaylarını yakalayın</string>
