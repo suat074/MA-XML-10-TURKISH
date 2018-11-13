@@ -4306,7 +4306,7 @@
   <string name="status_bar_settings_show_floating_notification_summary">Ekranın üst kısmında önemli bildirimlere izin ver</string>
   <string name="status_bar_settings_show_flow_info">Veri kullanımını göster</string>
   <string name="status_bar_settings_show_home_message">Uygulamanın İkon Simgeleri</string>
-  <string name="status_bar_settings_show_keyguard_notification">Kilit Ekran Bildirimleri</string>
+  <string name="status_bar_settings_show_keyguard_notification">Kilit ekranı bildirimleri</string>
   <string name="status_bar_settings_show_network_speed">Bağlantı hızını göster</string>
   <string name="status_bar_settings_show_notification_icon">Bildirim simgesini göster</string>
   <string name="status_bar_settings_show_wifi_name">WLAN\'ı Göster</string>
@@ -5965,5 +5965,6 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="ai_settings_long_click_title">Basın ve basılı tutun</string>
   <string name="ai_settings_single_press_des">Google Asistan ile konuşmak için AI düğmesine basın, ardından cevabı almak için bırakın.</string>
   <string name="miui_sos_call_log_time_unit">%1$dd %2$ds</string>
-  <string name="single_press_AI_button">AI düğmesine basın</string>  
+  <string name="single_press_AI_button">AI düğmesine basın</string> 
+  <string name="miui_input_method_settings">Giriş yöntemi ayarları</string>  
 </resources>

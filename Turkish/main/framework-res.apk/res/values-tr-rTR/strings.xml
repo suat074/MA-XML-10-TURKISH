@@ -1552,5 +1552,20 @@ Kapatmak ister misiniz?"</string>
   <string name="alert_windows_notification_turn_off_action">KAPAT</string>
   <string name="notification_description">Sesli arama durumu</string>
   <string name="status_communication_speaker_summary">Eller serbest arama devam ediyor. Kulaklıklar bağlandığında ses hala hoparlör aracılığıyla çalınır.</string>
-  <string name="status_communication_summary">Bir arama devam ediyor. Şimdi sadece Arama ses seviyesini ayarlayabilirsiniz.</string>  
+  <string name="status_communication_summary">Bir arama devam ediyor. Şimdi sadece Arama ses seviyesini ayarlayabilirsiniz.</string>
+  <string name="permgroupdesc_calllog">telefon arama kayıtlarını okuma ve yazma</string>
+  <string name="permgrouplab_calllog">Arama kayıtları</string>
+  <string name="permgrouprequest_calendar">&lt;b&gt;%1$s&lt;/b&gt; için takviminize erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_calllog">&lt;b&gt;%1$s&lt;/b&gt; için telefon arama kayıtlarına erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_camera">&lt;b&gt;%1$s&lt;/b&gt; için fotoğraf çekme ve video kaydetme izni verilsin mi?</string>
+  <string name="permgrouprequest_contacts">&lt;b&gt;%1$s&lt;/b&gt; için kişilerinize erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_location">&lt;b&gt;%1$s&lt;/b&gt; için bu cihazın konumuna erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_microphone">&lt;b&gt;%1$s&lt;/b&gt; için ses kaydı izni verilsin mi?</string>
+  <string name="permgrouprequest_phone">&lt;b&gt;%1$s&lt;/b&gt; için telefon görüşmeleri yapma ve yönetme izni verilsin mi?</string>
+  <string name="permgrouprequest_sensors">&lt;b&gt;%1$s&lt;/b&gt; için sensör verilerinize erişme izni verilsin mi?</string>
+  <string name="permgrouprequest_sms">&lt;b&gt;%1$s&lt;/b&gt; için SMS mesajları gönderme ve görüntüleme izni verilsin mi?</string>
+  <string name="permgrouprequest_storage">&lt;b&gt;%1$s&lt;/b&gt; için cihazınızdaki fotoğraflara, medyaya ve dosyalara erişme izni verilsin mi?</string>
+  <string name="permission">İzin</string>
+  <string name="permission_remember_choice">Hatırla</string>
+  <string name="permlab_acceptHandover">başka bir uygulamadan aramaya devam et</string>   
 </resources>
