@@ -5975,5 +5975,6 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="doubletap_home_title">Çift tıkla</string>
   <string name="swipe_up_home_title">Yukarı kaydır</string>
   <string name="doubletap_app_title">Uygulama seç</string>
-  <string name="swipeup_app_title">Uygulama seç</string>  
+  <string name="swipeup_app_title">Uygulama seç</string>
+  <string name="4GtoLTE">LTE yerine 4G göster</string>
 </resources>
