@@ -1295,5 +1295,19 @@
     <item>El fenerini aç</item>
     <item>Okuma modunu aç</item>
     <item>Yok</item>
-  </string-array>  
+  </string-array>
+  <string-array name="home_gesture_entries">
+    <item>Kilit ekranı</item>
+    <item>Güç menüsü</item>
+    <item>Arkaplan uygulamaları</item>
+    <item>Arama</item>
+    <item>Ses modu: ses / titreşim</item>
+    <item>Bildirim paneli</item>
+    <item>Wi-Fi</item>
+    <item>Bluetooth</item>
+    <item>Mobil veri</item>
+    <item>RAM temizle</item>
+    <item>Uygulamayı başlat</item>
+    <item>Devre dışı</item>
+    </string-array>  
 </resources>

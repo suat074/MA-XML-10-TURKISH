@@ -5966,5 +5966,14 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="ai_settings_single_press_des">Google Asistan ile konuşmak için AI düğmesine basın, ardından cevabı almak için bırakın.</string>
   <string name="miui_sos_call_log_time_unit">%1$dd %2$ds</string>
   <string name="single_press_AI_button">AI düğmesine basın</string> 
-  <string name="miui_input_method_settings">Giriş yöntemi ayarları</string>  
+  <string name="miui_input_method_settings">Giriş yöntemi ayarları</string>
+  <string name="icons_shadow_title">Simge gölgesi(Ana Ekran)</string>
+  <string name="show_dock_icons_title">Simge ismi göster(Alt Bar)</string>
+  <string name="hide_icons_title">Simge ismi gizle(Ana ekran)</string>
+  <string name="hide_dock_reflection">Simge gölgesi gizle(Alt Bar)</string>
+  <string name="home_gestures">Parmak hareketleri</string>
+  <string name="doubletap_home_title">Çift tıkla</string>
+  <string name="swipe_up_home_title">Yukarı kaydır</string>
+  <string name="doubletap_app_title">Uygulama seç</string>
+  <string name="swipeup_app_title">Uygulama seç</string>  
 </resources>

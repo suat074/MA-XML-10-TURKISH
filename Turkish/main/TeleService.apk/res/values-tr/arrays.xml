@@ -88,4 +88,8 @@
         <item>Sesi kapat</item>
         <item>Devre dışı</item>
     </string-array>
+    <string-array name="avatar_size_entries">
+        <item>Büyük</item>
+        <item>Küçük</item>
+    </string-array>	
 </resources>
