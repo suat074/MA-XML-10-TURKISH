@@ -5979,4 +5979,14 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="4GtoLTE">LTE yerine 4G göster</string>
   <string name="ambient_display_screen_title">Ortam ekranı</string>
   <string name="keywords_ambient_display_screen">Ortam ekranı, Kilit ekranı</string>
+  <string name="long_press_power_key_half_of_second">Google Asistan\'ı açmak için güç düğmesine 0,5 saniye basılı tutun.</string>
+  <string name="power_key_how_power_force_off">Cihazınızı yeniden başlatmaya zorlama nasıl yapılır?</string>
+  <string name="power_key_how_power_force_off_detail">Cihazınız yeniden başlatılıncaya kadar Güç düğmesine basılı tutun</string>
+  <string name="power_key_how_power_off">Kapatma sayfası nasıl açılır</string>
+  <string name="power_key_how_power_off_detail">Güç düğmesine basın ve 3 saniye basılı tutun</string>
+  <string name="power_key_how_start">Google Asistan\'ı nasıl uyandırırım?</string>
+  <string name="power_key_how_start_detail">Güç düğmesine 0,5 saniye basılı tutun. Konuşmak için bırakın.</string>
+  <string name="power_key_start_enjoy">Anladım, google asistan hakkında daha fazla bilgi edinin</string>
+  <string name="power_key_start_guide">Tam ekran cihazlarda Güç düğmesini kullanarak Google Asistan\'ı uyandırma</string>
+  <string name="the_way_of_wakeup_voice_assistant_summary">Tam ekran modunda sesli asistanı uyandırın (sanal buton yok)</string>
 </resources>

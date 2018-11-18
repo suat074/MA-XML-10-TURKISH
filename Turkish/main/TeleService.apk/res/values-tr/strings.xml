@@ -1588,5 +1588,7 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
   <string name="tools_panel_in_one_row">Bir satırdaki düğmeler</string>
   <string name="choose_sim_summary">%s s.</string>
   <string name="avatar_size_title">Fotoğraf boyutu</string>
-  <string name="call_backlight_category">Ekran parlaklığı</string>  
+  <string name="call_backlight_category">Ekran parlaklığı</string> 
+  <string name="sip_account_disable">Hesap aktif değil. Çağrı kabul edilemez.</string>
+  <string name="sip_receive_call_disable">Çağrı kabul edilemez. Önce çağrıları kabul etmeye izin verin.</string> 
 </resources>

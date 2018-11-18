@@ -178,7 +178,12 @@
   <string name="cit_fpc_sensor_check_title">FPC fingerprint sensor</string>
   <string name="cit_fptest_summary">Parmak izi testi yapmak için FpTest düğmesine basın</string>
   <string name="cit_fptest_title">Parmak izi Fp testi</string>
-  <string name="cit_front_camera_check_summary">Test yönergeleri:\n\n1. Ön kamera arayüzüne giriş yapmak için aşağıdaki kamera tuşuna dokunun\n2. Deklanşör tuşuna basın\n4. Kontrol et simgesine dokunun. Sistem fotoğrafı otomatik olarak kaydedecektir\nÇekmiş olduğunuz fotoğraf aşağıda görüntüleniyor olmalıdır. Testi tamamlamak için sil tuşuna dokunun</string>
+  <string name="cit_front_camera_check_summary">"Test yönergeleri:
+
+1.Ön Kamera arayüzüne girmek için aşağıdaki Kamera düğmesine dokunun
+2.Deklanşöre dokunun
+3.Sistem fotoğraf çekildikten sonra otomatik olarak kaydeder
+4.Çektiğiniz fotoğrafın ekranda görünmesi gerekiyor, testi tamamlamak için Geç\'e dokunun."</string>
   <string name="cit_front_camera_check_title">Ön kamera</string>
   <string name="cit_get_signature_failed">imza al BAŞARISIZ</string>
   <string name="cit_goodix_sensor_check_summary">Goodix sensör testi, düğmeye basın ve yeşil renkte vurgulanan geçiş bilgisinin doğru olmasını bekleyin.</string>
@@ -251,7 +256,12 @@
   <string name="cit_logcat_txt">Logcat günlüğü</string>
   <string name="cit_magnetic_sensor_check_summary">X，Y，Z koordinat verileri aşağıda görüntüleniyor olmalıdır</string>
   <string name="cit_magnetic_sensor_check_title">Manyetik sensör</string>
-  <string name="cit_main_camera_check_summary">Test yönergeleri:\n\n1. Arka kamera arayüzüne giriş yapmak için aşağıdaki kamera tuşuna dokunun\n2. Flaşın etkinleştirildiğinden emin olun\n3. Deklanşör tuşuna basın\n4. Kontrol et simgesine dokunun. Sistem fotoğrafı otomatik olarak kaydedecektir\nÇekmiş olduğunuz fotoğraf aşağıda görüntüleniyor olmalıdır. Testi tamamlamak için sil tuşuna dokunun</string>
+  <string name="cit_main_camera_check_summary">"Test yönergeleri:
+
+1.Arka Kamera arayüzüne girmek için aşağıdaki Kamera düğmesine dokunun
+2.Deklanşöre dokunun
+3.Sistem fotoğraf çekildikten sonra otomatik olarak kaydeder.
+4.Çektiğiniz fotoğrafın ekranda görünmesi gerekiyor, testi tamamlamak için Geç\'e dokunun."</string>
   <string name="cit_main_camera_check_title">Arka kamera</string>
   <string name="cit_name">Donanım testleri</string>
   <string name="cit_nfc_check_summary">Lütfen kartı telefonun arkasına koyun</string>
@@ -287,7 +297,12 @@
   <string name="cit_proximity_us_sensitivity">Duyarlılık:</string>
   <string name="cit_proximity_us_summary">Ultrason Yakınlık Sensörü Kalibrasyonu</string>
   <string name="cit_rear_dual_camera_check_title">Arka çift kamera</string>
-  <string name="cit_rear_sub_camera_check_summary">Test talimatları:\n\n1. Arka alt Kamera arayüzüne girmek için aşağıdaki Kamera düğmesine dokunun\n2. Deklanşöre dokunun\n3. Sistem fotoğraf çekildikten sonra otomatik olarak kaydeder\n4. Çektiğiniz fotoğraf ekranda görüntülenmelidir, testi tamamlamak için Sil\'e dokunun.</string>
+  <string name="cit_rear_sub_camera_check_summary">"Test yönergeleri:
+
+1.Arka alt Kamera arayüzüne girmek için aşağıdaki Kamera düğmesine dokunun
+2.Deklanşöre dokunun
+3.Sistem fotoğraf çekildikten sonra otomatik olarak kaydeder.
+4.Çektiğiniz fotoğrafın ekranda görünmesi gerekiyor, testi tamamlamak için Geç\'e dokunun."</string>
   <string name="cit_rear_sub_camera_check_title">Arka alt kamera</string>
   <string name="cit_recovery_signature_failed">kurtarma imzası BAŞARISIZ</string>
   <string name="cit_recovery_signature_passed">kurtarma imzası GEÇTİ</string>
@@ -491,6 +506,12 @@
   <string name="image_quality_test">GÖRÜNTÜ KALİTESİ TESTİ</string>
   <string name="info">Bilgi</string>
   <string name="init">başlatılıyor</string>
+  <string name="ir_camera_test_summary_capture">"Test yönergeleri:
+
+1.Ir Kamera arayüzüne girmek için aşağıdaki Kamera düğmesine dokunun
+2.Deklanşöre dokunun
+3.Sistem fotoğraf çekildikten sonra otomatik olarak kaydeder.
+4.Çektiğiniz fotoğrafın ekranda görünmesi gerekiyor, testi tamamlamak için Geç\'e dokunun."</string>  
   <string name="last_time_test_result">ENSON TEST SONUCU</string>
   <string name="lcminfo">LCM bilgisi</string>
   <string name="magnetic_info_hint">Lütfen cihazı 8 şeklinde döndürün</string>
@@ -609,5 +630,8 @@
   <string name="cit_tool_bluetooth_le_tx_50_payload">yük:</string> 
   <string name="cit_headset_pull_finish_test">Kulaklık bağlantısı kesilmiş, test bitti</string> 
   <string name="cit_audio_cali_fast_test_title">Hoparlör amplifikatör kalibrasyonu hızlı test</string>
-  <string name="cit_fast_screen_touch_check_title">Dokunmatik ekran kontrolü hızlı test</string>  
+  <string name="cit_fast_screen_touch_check_title">Dokunmatik ekran kontrolü hızlı test</string>
+  <string name="cit_diag_chaging_summary">Şarj günlük kayıt dosyalarını sd kart\'a kopyalayın</string>
+  <string name="cit_diag_chaging_title">Şarj günlük kaydını okuyun</string>
+  <string name="cit_diag_chaging_wait">Lütfen bekleyin... Dosyalar kopyalanıyor</string>  
 </resources>
