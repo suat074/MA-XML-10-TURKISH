@@ -658,7 +658,7 @@
   <string name="flash_time_off_title">Kapalı</string>
   <string name="flash_time_on_title">Etkin</string>
   <string name="flash_time_title">Açılma gecikmesi</string>
-  <string name="flash_when_ring_summary">Gelen aramalar için flaş bildirim ışığı</string>
+  <string name="flash_when_ring_summary">Gelen çağrıları bildirmek için flaşı kullan</string>
   <string name="flash_when_ring_title">Zil Çalarken Flaş Bildirim Işığı</string>
   <string name="force_allow_on_external">Harici uygulamalara izin verme</string>
   <string name="full_avatar_title">Tam ekran fotoğraf</string>
@@ -1187,7 +1187,7 @@
   <string name="respond_via_sms_canned_response_2">En kısa sürede seni arayacağım.</string>
   <string name="respond_via_sms_canned_response_3">Sonra arayacağım.</string>
   <string name="respond_via_sms_canned_response_4">Şu an müsait değilim. Ne oldu?</string>
-  <string name="respond_via_sms_cannot_empty">Reddetme mesjları boş olmaz</string>
+  <string name="respond_via_sms_cannot_empty">Mesaj boş olamaz</string>
   <string name="respond_via_sms_confirmation_format">%s mesaj gönderildi.</string>
   <string name="respond_via_sms_edittext_dialog_title">Hızlı Cevap</string>
   <string name="respond_via_sms_menu_reset_default_activity">Varsayılanı Yükle</string>

@@ -60,5 +60,12 @@
     <item>Al ve bildir</item>
     <item>Sadece al</item>
     <item>Reddet</item>
+  </string-array>
+  <string-array name="reason_type">
+    <item>Dolandırıcı</item>
+    <item>Müstehcen veya yasa dışı içerik</item>
+    <item>Spam</item>
+    <item>Diğer</item>
+    <item>İptal</item>
   </string-array>  
 </resources>

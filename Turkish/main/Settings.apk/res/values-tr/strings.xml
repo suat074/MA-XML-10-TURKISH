@@ -2880,7 +2880,7 @@
   <string name="no_nearby_wifi">Ağ tespit edilemedi.</string>
   <string name="no_notification_listeners">Bildirim dinleyici yüklenmedi.</string>
   <string name="no_running_services">Hiçbirşey çalışmıyor</string>
-  <string name="no_services">Faal hizmet yok</string>
+  <string name="no_services">Aktif hizmet yok</string>
   <string name="no_trust_agents">Kullanılabilir güvenli ajan yok</string>
   <string name="no_update_found">MIUI\'nin son sürümünü çalıştırıyorsun</string>
   <string name="no_updates_found">MIUI\'nin son sürümünü çalıştırıyorsun</string>
@@ -5890,9 +5890,9 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="miui_sos_statusbar_title">Acil durum SOS etkinleştirildi</string>
   <string name="sos_privacy_and_content_policy">Kullanıcı Sözleşmesi ve Gizlilik Politikası</string>
   <string name="sos_privacy_dialog_button_cancel">İptal</string>
-  <string name="sos_privacy_dialog_button_ok">Devam et</string>
-  <string name="sos_privacy_dialog_message">"SOS acil durum yardım işlevini etkinleştirin, lütfen %s okuyun ve onaylayın.
-SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu almak, mobil ağı kullanmak ve adres defterinizi okumak gerekebilir, onaylıyor musunuz?"</string>
+  <string name="sos_privacy_dialog_button_ok">Kabul</string>
+  <string name="sos_privacy_dialog_message">"Bu özelliği kullanmadan önce %s sayfamızı okuyun ve kabul edin.
+Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma için izinlere ihtiyaç duyuyor. Kabul?"</string>
   <string name="sos_privacy_dialog_title">Şartlar ve Koşullar</string>
   <string name="talkback_watermark_enable">TalkBack filigranı</string> 
   <string name="fingerprint_others_title">Diğer</string>
@@ -5922,14 +5922,14 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="status_bar_settings_notification_style">Bildirim stili</string>
   <string name="enable_atrace">Atrace\'yi aç</string>
   <string name="enable_atrace_summary">ATrace kullanarak çekirdek olaylarını yakalayın</string>
-  <string name="allow_device_id_access">Cihaz kimliğine sahip uygulamalar</string>
-  <string name="device_id">Cihaz kimliği</string>
+  <string name="allow_device_id_access">Cihaz Kimliği\'ne erişen uygulamalar</string>
+  <string name="device_id">Cihaz Kimliği</string>
   <string name="pref_show_lunar_calendar_title">Kilit ekranında geleneksel Çin takvimini göster</string>
-  <string name="restore_device_id_content">Kişiselleştirilmiş öneriyi sıfırla</string>
+  <string name="restore_device_id_content">Kişiselleştirilmiş önerileri sıfırla</string>
   <string name="restore_device_id_title">Cihaz kimliğini geri yükle</string>
-  <string name="restore_dialog_content">Cihaz kimliğinin geri yüklenmesi kişiselleştirilmiş tavsiyenizi sıfırlayacaktır.</string>
+  <string name="restore_dialog_content">Cihaz kimliğinin geri yüklenmesi kişiselleştirilmiş önerilerinizi sıfırlayacaktır.</string>
   <string name="restore_dialog_positive">Geri yükle</string>
-  <string name="restore_dialog_title">Hatırlatma</string>
+  <string name="restore_dialog_title">Dikkat</string>
   <string name="call_records_name_1">Debbie Smith</string>
   <string name="call_records_name_2">Jason Lee</string>
   <string name="call_records_name_3">Tom Fowles</string>
@@ -5986,7 +5986,7 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="power_key_how_power_off_detail">Güç düğmesine basın ve 3 saniye basılı tutun</string>
   <string name="power_key_how_start">Google Asistan\'ı nasıl uyandırırım?</string>
   <string name="power_key_how_start_detail">Güç düğmesine 0,5 saniye basılı tutun. Konuşmak için bırakın.</string>
-  <string name="power_key_start_enjoy">Anladım, google asistan hakkında daha fazla bilgi edinin</string>
+  <string name="power_key_start_enjoy">Google asistan hakkında daha fazla bilgi edinin</string>
   <string name="power_key_start_guide">Tam ekran cihazlarda Güç düğmesini kullanarak Google Asistan\'ı uyandırma</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Tam ekran modunda sesli asistanı uyandırın (sanal buton yok)</string>
 </resources>
