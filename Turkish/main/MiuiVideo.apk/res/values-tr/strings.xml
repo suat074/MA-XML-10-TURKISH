@@ -72,7 +72,6 @@
   <string name="buffering_video_netplay_label_v5">Önbellekleniyor</string>
   <string name="buy_vip">VIP üyelik satın al</string>
   <string name="cannot_support_speed">Bu video için oynatma hızını değiştiremiyorum, farklı bir tane deneyin.</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_plugin_loading">HD video eklentisi yükleniyor…</string>
   <string name="check_plugin_message">HD video eklentisini kuruluyor…</string>
   <string name="check_plugin_tips">HD video eklentisi</string>
