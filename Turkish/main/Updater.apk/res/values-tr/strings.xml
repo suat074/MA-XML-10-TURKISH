@@ -13,6 +13,8 @@
   <string name="btn_share">Paylaş</string>
   <string name="btn_stop">Durdur</string>
   <string name="btn_yes">Evet</string>
+  <string name="channel_downloading">İndirme devam ediyor</string>
+  <string name="channel_update">Yeni sürüm mevcut</string>  
   <string name="check_new_version">Denetle</string>
   <string name="dialog_3g_desc">ROM\'ları indirmek için Mobil Verilerin kullanılmasıyla paketinizin önemli miktarda kota harcayacağını unutmayın.</string>
   <string name="dialog_3g_title">Uyarı!</string>
@@ -54,5 +56,5 @@
   <string name="stable">Stabil</string>
   <string name="version">Yüklü Sürüm:</string>
   <string name="weekly">haftalık</string>
-  <string name="wifi_recommended">İndirmeye başlamak için WiFi bağlantısı yok!</string>
+  <string name="wifi_recommended">İndirmeye başlamak için WiFi bağlantısı yok!</string>  
 </resources>

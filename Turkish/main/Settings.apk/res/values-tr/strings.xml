@@ -1576,7 +1576,7 @@
   <string name="download_current_rom">MIUI\'nin en son sürümünü edinin</string>
   <string name="downloading_description">İndiriliyor…</string>
   <string name="doze_summary">Cihaz ve bildirimler geldiğinde ekranı uyandır</string>
-  <string name="doze_title">Ortam Görüntüsü</string>
+  <string name="doze_title">Ortam ekranı</string>
   <string name="draw_overlay">Diğer uygulamalar üzerinde göster</string>
   <string name="draw_overlay_title">Diğer uygulamalar üzerinde göster</string>
   <string name="dtmf_tone_enable_title">Tuş Takımı Sesleri</string>
@@ -5977,4 +5977,6 @@ SOS acil yardım işlevinin normal kullanımını sağlamak için konumunuzu alm
   <string name="doubletap_app_title">Uygulama seç</string>
   <string name="swipeup_app_title">Uygulama seç</string>
   <string name="4GtoLTE">LTE yerine 4G göster</string>
+  <string name="ambient_display_screen_title">Ortam ekranı</string>
+  <string name="keywords_ambient_display_screen">Ortam ekranı, Kilit ekranı</string>
 </resources>

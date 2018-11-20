@@ -358,7 +358,7 @@
   <string name="passport_set">Ayarla</string>
   <string name="passport_set_password_no_phone_msg">Hesabınızı korumak için telefon numaranızı ekleyin.</string>
   <string name="passport_setting">Ayarlanıyor…</string>
-  <string name="passport_skip_login">Oturum açmayı atla</string>
+  <string name="passport_skip_login">Atla</string>
   <string name="passport_skip_register">Oturum açmayı atla</string>
   <string name="passport_skip_setup_account_msg">Mi Hesabınızı daha sonra Ayarlardan değiştirebilirsiniz.</string>
   <string name="passport_skip_setup_account_title">Mi Bulut kullanma?</string>
