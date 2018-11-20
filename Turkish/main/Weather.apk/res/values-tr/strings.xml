@@ -159,7 +159,6 @@
   <string name="install">Yükle</string>
   <string name="international_detail_menu_title">Detaylar</string>
   <string name="international_details_pressure_title">Basınç</string>
-  <string name="international_details_real_feel_title">"Hissedilen®"</string>
   <string name="international_details_title">Detaylar</string>
   <string name="international_details_uv_index_title">UV İndeksi</string>
   <string name="international_details_wind_title">Rüzgar</string>
@@ -317,5 +316,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="feedback_foggy">Sisli</string>
   <string name="feedback_haze">Hafif sisli</string>
   <string name="feedback_moderate_rain">Yağmurlu</string>
-  <string name="feedback_moderate_snow">Karlı</string>    
+  <string name="feedback_moderate_snow">Karlı</string>
+  <string name="activity_main_pub_time">%1$s tarihinde yayınlandı</string>
+  <string name="radar_cloud_update_time">%1$s önce</string>
 </resources>
