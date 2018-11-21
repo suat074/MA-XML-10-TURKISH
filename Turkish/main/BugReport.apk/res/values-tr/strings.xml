@@ -327,7 +327,7 @@
   <string name="catch_full_log_add_photo">Fotoğraf ekle</string>
   <string name="catch_full_log_add_photo_dialog_content">Bildirdiğiniz sorun kameranın görüntü kalitesiyle ilgiliyse, sorunu bulmamıza yardımcı olması için orijinal örnek fotoğraf (kırpılmamış) ekleyin. Fotoğrafı şimdi ekle?</string>
   <string name="catch_full_log_dialog_confirm_text">Ana ekrana git</string>
-  <string name="catch_full_log_dialog_content">MIUI bir günlük oluşturuyor. Bu, cihazınızın genel verimliliğini etkileyebilir. Rapor etmek istediğiniz sorunu yeniden oluşturamıyorsanız, günlüklere geri dönün ve "\İptal\" öğesine dokunun.</string>
+  <string name="catch_full_log_dialog_content">MIUI bir günlük oluşturuyor. Bu, cihazınızın genel performansını etkileyebilir. Rapor etmek istediğiniz sorunu yeniden oluşturamıyorsanız, günlüklere geri dönün ve "\İptal\" öğesine dokunun.</string>
   <string name="catch_full_log_dump_hprof_failed">Gecikme günlüğü oluşturulamadı</string>
   <string name="catch_full_log_item_content_catch_direct">"Adımlar:
 1. Bildirmek ve çoğaltmak istediğiniz özelliğe geri dönün.
