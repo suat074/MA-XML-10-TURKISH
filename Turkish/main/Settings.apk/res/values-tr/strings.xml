@@ -5989,4 +5989,7 @@ Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma i
   <string name="power_key_start_enjoy">Google asistan hakkında daha fazla bilgi edinin</string>
   <string name="power_key_start_guide">Tam ekran cihazlarda Güç düğmesini kullanarak Google Asistan\'ı uyandırma</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Tam ekran modunda sesli asistanı uyandırın (sanal buton yok)</string>
+  <string name="summary_font_size_v2">Metin, resim ve simgelerin boyutunu ayarla</string>
+  <string name="title_font_v2">Metin &amp; arayüz öğeleri</string>
+  <string name="title_layout_v2">Metin Boyutu &amp; ölçekleme</string>  
 </resources>
