@@ -5225,6 +5225,7 @@
   <string name="wifi_assistant_switch_wifi">Ağı değiştir</string>
   <string name="wifi_auto_connect">Otomatik Bağlan</string>
   <string name="wifi_available_title">WLAN ağına bağlan</string>
+  <string name="status_bar_settings_show_lte_for_4g">4G yerine LTE simgesi göster</string>
   <string name="wifi_avoid_poor_network_detection_summary">Sadece iyi bir internet bağlantısına sahip ağları kullanın</string>
   <string name="wifi_band_5ghz">5GHz</string>
   <string name="wifi_band_24ghz">2.4GHz</string>
