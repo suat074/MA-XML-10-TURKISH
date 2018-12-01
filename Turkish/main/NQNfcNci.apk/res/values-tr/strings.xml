@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="accessibility_nfc_enabled">NFC etkin.</string>
-  <string name="android_beam">Android Işın</string>
+  <string name="android_beam">Android Beam</string>
   <string name="app_name">Nfc Hizmeti</string>
   <string name="ask_nfc_tap">Tamamlamak için diğer cihaza hafifçe dokunun</string>
   <string name="beam_busy">Android Işın şu anda meşgul. Önceki aktarım işlemi tamamlandığında tekrar deneyin.</string>
