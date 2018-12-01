@@ -98,7 +98,7 @@
   <string name="block_ads_title">İçerik reklam barındırabilir</string>
   <string name="bookmark">Yerimi</string>
   <string name="bookmark_add_to">Ekle</string>
-  <string name="bookmark_btn_select_all">Hepsi</string>
+  <string name="bookmark_btn_select_all">Tümü</string>
   <string name="bookmark_btn_select_none">Vazgeç</string>
   <string name="bookmark_cannot_save_url">Bu adres yerimlerine eklenemiyor.</string>
   <string name="bookmark_folder_needs_title">Bir grup ismi girin</string>
@@ -249,7 +249,7 @@
   <string name="document_open_other">Diğer uygulamalar</string>
   <string name="document_open_title">Aç</string>
   <string name="dont_remind_again">Bu seçimi hatırla</string>
-  <string name="download_btn_select_all">Hepsi</string>
+  <string name="download_btn_select_all">Tümü</string>
   <string name="download_btn_select_none">Vazgeç</string>
   <string name="download_complete">Başarıyla indirildi</string>
   <string name="download_completed">İndirildi</string>
@@ -537,7 +537,7 @@
   <string name="mw_miui_content_open_url">Link aç</string>
   <string name="mw_miui_content_paste">Yapıştır</string>
   <string name="mw_miui_content_select">Seç</string>
-  <string name="mw_miui_content_select_all">Hepsini seç</string>
+  <string name="mw_miui_content_select_all">Tümünü seç</string>
   <string name="mw_miui_content_share">Paylaş</string>
   <string name="mw_miui_content_translate">Çeviri</string>
   <string name="mw_miui_content_web_search">Ara</string>
@@ -1138,7 +1138,7 @@
   <string name="username">Adı</string>
   <string name="v5_deselect_all">Vazgeç</string>
   <string name="v5_edit_mode_title_empty">0 seçildi</string>
-  <string name="v5_select_all">Hepsi</string>
+  <string name="v5_select_all">Tümü</string>
   <string name="version_check_button_checking">Denetleniyor...</string>
   <string name="version_check_button_default">Güncellemeleri denetle</string>
   <string name="version_check_button_download_failed">İndirmeye devam et</string>
@@ -1265,7 +1265,7 @@
   <string name="suggestion_more_news">DAHA FAZLA HABER</string>
   <string name="suggestion_more_news_start_title_text">İlgili Haberler</string>
   <string name="suggestion_topic_subtitle_hyphen">Odak</string>  
-  <string name="abc_activity_chooser_view_see_all">Hepsini gör</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
   <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
   <string name="abc_capital_off">KAPAT</string>
   <string name="abc_capital_on">AÇ</string>
@@ -1322,7 +1322,7 @@
   <string name="action_menu_text_bookmark_removed">Yer işaretini sil</string>
   <string name="action_menu_text_fullscreen_enter">Tam ekran yap</string>
   <string name="action_menu_text_fullscreen_exit">Tam ekrandan çık</string>
-  <string name="action_text_all_select_bookmark">Hepsini seç</string>
+  <string name="action_text_all_select_bookmark">Tümünü seç</string>
   <string name="action_text_all_select_bookmark_cancel">Tüm seçimini kaldırın</string>
   <string name="action_text_change_textsize_bigger">Yazı tipini büyüt</string>
   <string name="action_text_change_textsize_smaller">Daha küçük yazı tipi</string>
