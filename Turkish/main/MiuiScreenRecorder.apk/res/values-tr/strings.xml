@@ -51,7 +51,7 @@
   <string name="screen_orientation_summary">Kaydedilen videoları döndür</string>
   <string name="screen_record_option">Kayıt Seçenekleri</string>
   <string name="screen_record_params">Kayıt Parametreleri</string>
-  <string name="select_all">Hepsi</string>
+  <string name="select_all">Tümü</string>
   <string name="show_hard_key">Gezinme düğmelerini görselleştir</string>
   <string name="show_hard_key_summary">Ana Sayfa, Menü ve Geri düğmelerine basınca yapılabilecekleri göster</string>
   <string name="show_screen_touch">Dokunmatik hareketleri göster</string>
