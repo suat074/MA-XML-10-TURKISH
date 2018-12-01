@@ -168,7 +168,7 @@
   </string-array>
   <string-array name="select_logpersist_titles">
     <item>Kapalı</item>
-    <item>Hepsi</item>
+    <item>Tümü</item>
     <item>Tüm radyolar hariç</item>
     <item>sadece çekirdek</item>
   </string-array>
