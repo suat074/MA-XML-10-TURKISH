@@ -2833,10 +2833,10 @@
   <string name="nfc_payment_set_default">Daima %1$s kullanıldığında dokun &amp; ödeme yapılsın mı?</string>
   <string name="nfc_payment_set_default_instead_of">Daimae %1$s olduğunda %2$s dokunup &amp; ödem yapılsın mı?</string>
   <string name="nfc_payment_set_default_label">Tercihiniz hangisi?</string>
-  <string name="nfc_payment_settings_title">Dokun &amp; Öde</string>
+  <string name="nfc_payment_settings_title">Dokundur ve öde</string>
   <string name="nfc_payment_use_default">Varsayılanı kullan</string>
   <string name="nfc_quick_toggle_summary">Telefon başka cihaza dokunduğunda veri alışverişine izin ver</string>
-  <string name="nfc_se_route_title">Güvenli eleman pozisyonu</string>
+  <string name="nfc_se_route_title">Varsayılan Cüzdan</string>
   <string name="nfc_se_wallet_title">Varsayılan Cüzdan</string>
   <string name="night_display_auto_mode_custom">Özel program</string>
   <string name="night_display_auto_mode_never">Hiçbir zaman</string>
