@@ -422,8 +422,11 @@
   <string name="enable_sync_in_account_settings">%1$s içinde aç.</string>
   <string name="enumeration_delimiter">" | "</string>
   <string name="error">Hata</string>
-  <string name="exception_cancel">" Bu olay şunun için iptal  edildi:\n%s "</string>
-  <string name="exception_updated">" Bu etkinliği değiştirenin detayları:\n%s "</string>
+  <string name="exception_cancel">"
+ Bu olay şunun için iptal 
+ edildi:\n%s "</string>
+  <string name="exception_updated">"
+ Bu etkinliği değiştirenin detayları:\n%s "</string>
   <string name="exchange_name">Kurumsal</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Alıcı ayrıntılarını genişlet</string>
@@ -1020,7 +1023,7 @@
   <string name="special_text_sender_en">gönderici</string>
   <string name="special_text_sender_zh">Gönderen</string>
   <string name="storage">Depolama</string>
-  <string name="str_select_all">Hepsi</string>
+  <string name="str_select_all">Tümü</string>
   <string name="str_select_none">Vazgeç</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Konu</string>
