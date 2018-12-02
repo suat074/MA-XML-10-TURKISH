@@ -5834,8 +5834,6 @@ Bu özellik kapalı olabilir [Ayarlar]"</string>
   <string name="status_bar_settings_user_fold_description3">Önemli olduğunu düşündüğünüz bildirimler hala Bildirimler klasörüne giriyorsa, bu tür sorunları bize bildirin. Şimdiden geribildirim için teşekkür ederiz.</string>
   <string name="status_bar_settings_user_fold_disable">Kapalı</string>
   <string name="status_bar_settings_user_fold_enable">Açık</string>
-  <string name="aod_close_color_inversion">Bu özellik, renk inversiyonu ile birleştirilemez. Önce renk inversiyonunu kapatın.</string>
-  <string name="aod_got_it">Anladım</string>
   <string name="aod_to_close">Kapat</string>
   <string name="following_us_title">Bizi takip edin</string>
   <string name="bootloader_device_bind_no_data_network">WLAN\'ı kapatın ve mobil veri kullanarak hesabınızı ve cihazınızı ekleyin.</string>
@@ -5996,5 +5994,6 @@ Bu özellik konumunuza erişme, mobil ağları kullanma ve kişilerinizi okuma i
   <string name="the_way_of_wakeup_voice_assistant_summary">Tam ekran modunda sesli asistanı uyandırın (sanal buton yok)</string>
   <string name="summary_font_size_v2">Metin, resim ve simgelerin boyutunu ayarla</string>
   <string name="title_font_v2">Metin &amp; arayüz öğeleri</string>
-  <string name="title_layout_v2">Metin Boyutu &amp; ölçekleme</string>  
+  <string name="title_layout_v2">Metin Boyutu &amp; ölçekleme</string>
+  <string name="default_vol_stream_title">Varsayılan ses kontrolü akışı</string>  
 </resources>
