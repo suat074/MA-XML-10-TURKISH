@@ -3730,7 +3730,7 @@
   <string name="sdcard_settings_unmounted_status">USB Depolama şimdi güvenli olarak çıkarılabilir.</string>
   <string name="sdcard_settings_used_bytes_label">Kullanılan Bayt:</string>
   <string name="sdcard_unmount">USB Depolamanın bağlantısını kes</string>
-  <string name="se_route_ese">Yerleşik güvenli eleman</string>
+  <string name="se_route_ese">Yerleşik güvenli bölüm</string>
   <string name="se_route_uicc">SIM Kart üzerindeki güvenli eleman</string>
   <string name="se_wallet_ese">Mi Ödeme ve NFC Nakil Kartı</string>
   <string name="se_wallet_hce">HCE Cüzdan kullan</string>
@@ -3821,7 +3821,7 @@
   <string name="search_music_mi_effect_title">Mi Ses Geliştiricisi</string>
   <string name="search_networks_title">Hücresel Ağlar</string>
   <string name="search_nfc_quick_toggle_title">NFC</string>
-  <string name="search_nfc_se_route_title">Güvenli Eleman Pozisyonu</string>
+  <string name="search_nfc_se_route_title">Varsayılan Cüzdan</string>
   <string name="search_notification_sound_title">Varsayılan Bildirim Sesi</string>
   <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
   <string name="search_oldman_mode_entry_name">Hafif Mod;Yaşlılık Modu</string>
