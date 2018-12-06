@@ -704,7 +704,7 @@
   <string name="miot_device_network_error">Mevcut ağ bağlı değil</string>
   <string name="miot_device_no_recent_frame">Görmek için tıklayın</string>
   <string name="miot_device_show_frame_toast">Negatif bir ekran ekrana git</string>
-  <string name="miot_device_shrink_list">Listeyi daralt</string>click_show_detail">Akıllı ev hakkında bilgi edinmek için tıklayın</string>
+  <string name="miot_device_shrink_list">Listeyi daralt</string>
   <string name="miuishare_account_activate_confirmation">Mi Hesabını Etkinleştir</string>
   <string name="miuishare_account_activate_ok">Etkinleştir</string>
   <string name="miuishare_account_login_cancel">İptal</string>
