@@ -1205,10 +1205,10 @@
   <string name="current_backup_pw_prompt">Buraya mevcut tam yedekleme şifrenizi yazın</string>
   <string name="current_input_method">Standart</string>
   <string name="current_screen_lock">Geçerli Ekran Kilidi</string>
-  <string name="current_use_ese">Gömülü güvenli eleman kullan</string>
+  <string name="current_use_ese">Yerleşik güvenli öğe kullan</string>
   <string name="current_use_ese_wallet">Mi Cüzdan kullanıyorsunuz. Bu Mi Ödeme ve NFC taşıma kartı kullanmanıza olanak verir.</string>
   <string name="current_use_hce_wallet">HCE Cüzdan kullanıyorsunuz</string>
-  <string name="current_use_uicc_se">SIM karttan güvenli bir öğe kullan</string>
+  <string name="current_use_uicc_se">SIM kartta güvenli öğe kullan</string>
   <string name="current_use_uicc_wallet">SIM%1$s Cüzdanını kullanıyorsunuz</string>
   <string name="current_zone">(mevcut)</string>
   <string name="daltonizer_mode_deuteranomaly">Renk Körlüğü (kırmızı-yeşil)</string>
@@ -3751,7 +3751,7 @@
   <string name="sdcard_settings_used_bytes_label">Kullanılan Bayt:</string>
   <string name="sdcard_unmount">USB Depolamanın bağlantısını kes</string>
   <string name="se_route_ese">Yerleşik güvenli bölüm</string>
-  <string name="se_route_uicc">SIM Kart üzerindeki güvenli eleman</string>
+  <string name="se_route_uicc">SIM kartta güvenli öğe</string>
   <string name="se_wallet_ese">Mi Ödeme ve NFC Nakil Kartı</string>
   <string name="se_wallet_hce">HCE Cüzdan kullan</string>
   <string name="se_wallet_uicc">SIM%1$s Cüzdanı kullan</string>
