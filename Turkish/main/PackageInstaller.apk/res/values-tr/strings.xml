@@ -167,7 +167,9 @@
   <string name="dlg_app_replacement_statement">Yüklediğiniz uygulama başka bir uygulamanın yerini alacak.\n\nÖnceki tüm kullanıcı verileriniz kaydedilecektir.</string>
   <string name="dlg_app_replacement_title">Uygulama değiştirilsin mi?</string>
   <string name="dlg_ok">Tamam</string>
-  <string name="dlg_sys_app_replacement_statement">"Bu bir sistem uygulamasıdır. Yine de değiştirmek istiyor musunuz?  Eski kullanıcı verileri kaydedilecektir."</string>
+  <string name="dlg_sys_app_replacement_statement">"Bu bir sistem uygulamasıdır. Yine de değiştirmek istiyor musunuz?
+ 
+ Eski kullanıcı verileri kaydedilecektir."</string>
   <string name="done">Tamam</string>
   <string name="enable_adb">USB Hata Ayıklama</string>
   <string name="enable_adb_summary">USB bağlandığında Hata Ayıklama Modu</string>
@@ -374,7 +376,7 @@
   <string name="simulate_color_space">Renk alanını simüle et</string>
   <string name="strict_mode">Sıkı Mod etkin</string>
   <string name="strict_mode_summary">Uygulamalar ana iş parçacık üzerinde uzun işlemleri yaptığında ekranı flaşla</string>
-  <string name="system_warning">Bu izni inkar ederseniz, cihazınızın temel özellikleri artık tasarlandığı gibi çalışmayabilir.</string>
+  <string name="system_warning">Bu izni reddederseniz, cihazınızın temel özellikleri istenen şekilde çalışmayabilir.</string>
   <string name="telephony_monitor_switch">Telefon Monitörü</string>
   <string name="telephony_monitor_switch_summary">Telefon Monitörü, telefon/modem işlevleriyle ilgili bir sorun algıladığında ve bir hatayı dosyalamak için kullanıcıya bildirimde bulunduğunda günlükleri toplar</string>
   <string name="tether_settings_title_all">Paylaşım &amp; Mobil Hotspot</string>
