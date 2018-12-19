@@ -108,5 +108,7 @@
   <string name="extreme_power_settings_title">ayarlar</string>
   <string name="notification_exit_extreme_mode_text">Pil %s üzerinde şarj edildi</string>
   <string name="notification_exit_extreme_mode_title">Aşırı pil tasarrufu kapalı</string>
-  <string name="notification_open_extreme_mode_text">Aşırı pil tasarrufu açık</string>  
+  <string name="notification_open_extreme_mode_text">Aşırı pil tasarrufu açık</string>
+  <string name="adaptive_battery_summary">Sık kullanmadığınız uygulamalar için pili sınırlayın</string>
+  <string name="adaptive_battery_title">Uyumlu Pil Kullanın</string>  
 </resources>
