@@ -48,7 +48,7 @@
   <string-array name="app_ops_categories">
     <item>Konum</item>
     <item>Kişisel</item>
-    <item>Mesajlaşma</item>
+    <item>Mesajlar</item>
     <item>Medya</item>
     <item>Cihaz</item>
   </string-array>
