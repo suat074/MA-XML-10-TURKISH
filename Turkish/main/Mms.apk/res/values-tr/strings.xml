@@ -107,7 +107,7 @@
     <string name="context_menu_send_sms">Mesaj gönder</string>
     <string name="context_menu_view_contact">Kişiyi görüntüle</string>
     <string name="context_menu_view_mms">"MMS'i görüntüle"</string>
-    <string name="conversation">Mesajlaşma</string>
+    <string name="conversation">Mesajlar</string>
     <string name="converting_to_picture_message">Ortam mesajına çevriliyor...</string>
     <string name="converting_to_text_message">Metin mesajına çevriliyor...</string>
     <string name="copy_message_text">Kopyala</string>
@@ -477,15 +477,15 @@
     <string name="saved_ringtone_fail">Zil Sesi kaydedilemedi</string>
     <string name="saved_to_sim">Kaydedildi</string>
     <string name="sdcard_has_not_enough_space">SD kartta yeterli boş alan yok!</string>
-    <string name="search">Mesajlaşma</string>
+    <string name="search">Mesajlar</string>
     <string name="search_empty">Eşleşme yok</string>
     <string name="search_hint">Mesajları Ara</string>
     <string name="search_keyword_mms">Mesaj;SMS;Text;Mesaj</string>
     <string name="search_label">Mesajlaşılıyor</string>
-    <string name="search_path_mms">Ayarlar/Sistem Uygulamaları/Mesajlaşma</string>
+    <string name="search_path_mms">Ayarlar/Sistem Uygulamaları/Mesajlar</string>
     <string name="search_setting_description">Mesajlarınızdaki metin</string>
     <string name="search_show_more_results">Fazlasını Göster</string>
-    <string name="search_title_mms">Mesajlaşma</string>
+    <string name="search_title_mms">Mesajlar</string>
     <string name="second_mms_introduction">İkinci Alana git</string>
     <string name="second_mms_switch">Kullanıcıya Geç</string>
     <string name="secs">saniye</string>
@@ -690,7 +690,7 @@ Yapılan girişim: %s."</string>
     <string name="notification_channel_sim1_name">SIM1 mesajları</string>
     <string name="notification_channel_sim2_description">SIM2 mesajları ile ilgili bildirimler</string>
     <string name="notification_channel_sim2_name">SIM2 mesajları</string>
-    <string name="notification_group_name">Mesajlaşma</string>
+    <string name="notification_group_name">Mesajlar</string>
     <string name="unsubscribe">Abonelikten çık</string>
     <string name="attach_rcs_file">Dosya</string>
     <string name="attach_rcs_location">Konum</string>
@@ -804,7 +804,7 @@ Yapılan girişim: %s."</string>
     <string name="cm_privacy_dialog_title">Dikkat</string>
     <string name="current_data_version">Mi Mesaj sürümü</string>
     <string name="imageview_ad">Reklam</string>
-    <string name="messaging">Mesajlaşma</string>
+    <string name="messaging">Mesajlar</string>
     <string name="more">Daha</string>
     <string name="mx_message">Mi Mesaj</string>
     <string name="net_sms_subscribed">Başarıyla abone olundu</string>
