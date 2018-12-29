@@ -215,7 +215,7 @@
   <string name="logining">Giriş yapılıyor…</string>
   <string name="miliao_account_guide">Herhangi bir yerden, Mi Bulut, Tema Mağazası ve diğer MI hizmetlerinden faydalanabilmek için MI Hesabını kullanın.</string>
   <string name="miliao_account_login">Mi Talk ile oturum açın</string>
-  <string name="mms_title">Multimedya Mesajlaşma</string>
+  <string name="mms_title">Multimedya Mesajlar</string>
   <string name="multi_select_title">%1$s seçildi</string>
   <string name="multi_user_mode_backup_message">Çoklu Kullanıcı Modunda Yedekleme kullanılamaz. Çoklu Kullanıcı Modunu kapatıp devam edin.</string>
   <string name="multi_user_mode_dialog_message">Çoklu-Kullanıcı Modunda Mi Transfer kullanılamaz. Çoklu-Kullanıcı Modunu kapatıp devam edin.</string>
@@ -332,7 +332,7 @@
   <string name="size_giga_byte">GB</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
-  <string name="sms_title">Mesajlaşma</string>
+  <string name="sms_title">Mesajlar</string>
   <string name="software_backup_info">Uygulama Verisi</string>
   <string name="start_backup">Yedekle</string>
   <string name="start_restore">Geri Yükle</string>
