@@ -266,7 +266,7 @@
   <string name="apps_item_virus_cleanup_text">Temizle</string>
   <string name="apps_item_virus_summary_installed">Yüklü Uygulama</string>
   <string name="apps_item_virus_summary_uninstalled">APK</string>
-  <string name="apps_list_header_title_sms">Mesajlaşma Uygulamasını Denetle</string>
+  <string name="apps_list_header_title_sms">Mesajlar Uygulamasını Denetle</string>
   <string name="apps_list_header_title_sms_access">Doğrulama koduna sınırlı eriş</string>
   <string name="auto_atsk_condition_battery_level_text_down">Pil %s değerine eriştiğinde</string>
   <string name="auto_atsk_condition_battery_level_text_up">Pil %s şarj ettiğinde</string>
@@ -883,7 +883,7 @@
   <string name="hot_today">Bugünkü popüler</string>
   <string name="i_know">Anladım</string>
   <string name="im">Anlık İleti</string>
-  <string name="info_and_call">Çağrılar ve Mesajlaşma</string>
+  <string name="info_and_call">Çağrılar ve Mesajlar</string>
   <string name="info_antispam_close">AntiSpam Kapalı</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Çağrıları Engelli</string>
@@ -1567,7 +1567,7 @@
   <string name="preferred_app_entries_email">E-Posta</string>
   <string name="preferred_app_entries_gallery">Galeri</string>
   <string name="preferred_app_entries_launcher">Başlatıcı</string>
-  <string name="preferred_app_entries_messaging">Mesajlaşma</string>
+  <string name="preferred_app_entries_messaging">Mesajlar</string>
   <string name="preferred_app_entries_music">Müzik</string>
   <string name="privacy_declare_dialog_title">Hizmet Şartları</string>
   <string name="privacy_dialog_message">Internet\'e bağlandığınızda, taşıyıcı bilgileri ile birlikte bu ileti şifrelenir ve veri kullanımı izleme geliştirmemize yardımcı olmak için Mİ sunucularına yüklenir.</string>
