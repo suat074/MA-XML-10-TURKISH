@@ -17,11 +17,6 @@
     <item>En çok 3 işlem</item>
     <item>En çok 4 işlem</item>
   </string-array>
-  <string-array name="battery_labels">
-    <item>%0</item>
-    <item>%50</item>
-    <item>%100</item>
-  </string-array>
   <string-array name="battery_options">
     <item>Her zaman yüzdeyi göster</item>
     <item>Şarj edildiğinde yüzdeyi göster (varsayılan)</item>
@@ -79,21 +74,23 @@
     <item>Sistem Seçimini Kullan (Varsayılan)</item>
     <item>SBC</item>
     <item>AAC</item>
-    <item>aptX</item>
-    <item>aptX HD</item>
+    <item>Qualcomm® aptX™ ses</item>
+    <item>Qualcomm® aptX™ HD ses</item>
     <item>LDAC</item>
-    <item>İsteğe Bağlı Codec\'leri Etkinleştir</item>
-    <item>İsteğe Bağlı Codec\'leri Devre Dışı Bırak</item>
+    <item>Qualcomm® aptX™ Uyarlanabilir ses</item>
+    <item>İsteğe Bağlı Kodekleri Etkinleştir</item>
+    <item>İsteğe Bağlı Kodekleri Devre Dışı Bırak</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_titles">
     <item>Sistem Seçimini Kullan (Varsayılan)</item>
     <item>SBC</item>
     <item>AAC</item>
-    <item>aptX</item>
-    <item>aptX HD</item>
+    <item>Qualcomm® aptX™ ses</item>
+    <item>Qualcomm® aptX™ HD ses</item>
     <item>LDAC</item>
-    <item>İsteğe Bağlı Codec\'leri Etkinleştir</item>
-    <item>İsteğe Bağlı Codec\'leri Devre Dışı Bırak</item>
+    <item>Qualcomm® aptX™ Uyarlanabilir ses</item>
+    <item>İsteğe Bağlı Kodekleri Etkinleştir</item>
+    <item>İsteğe Bağlı Kodekleri Devre Dışı Bırak</item>
   </string-array>
   <string-array name="bluetooth_avrcp_versions">
     <item>AVRCP 1.4 (Varsayılan)</item>
