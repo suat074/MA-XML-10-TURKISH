@@ -1319,5 +1319,10 @@
   <string-array name="status_bar_settings_qs_layout_entries">
     <item>Varsayılan</item>
     <item>Kompakt</item>
+  </string-array>
+  <string-array name="aod_clock_style_entries">
+    <item>Yatay</item>
+    <item>Dikey</item>
+    <item>Satır içi</item>
   </string-array>  
 </resources>

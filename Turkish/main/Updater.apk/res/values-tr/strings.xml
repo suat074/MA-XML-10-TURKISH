@@ -57,5 +57,6 @@
   <string name="version">Yüklü Sürüm:</string>
   <string name="weekly">haftalık</string>
   <string name="wifi_recommended">İndirmeye başlamak için WiFi bağlantısı yok!</string>
-  <string name="dialog_twrp">Dahili depolama alanınız şifrelenir. Cihaz kurtarma modunda yeniden başlatıldıktan sonra, devam etmek için cihaz kilidini açma şifrenizi girin.</string>  
+  <string name="dialog_twrp">Dahili depolama alanınız şifrelenir. Cihaz kurtarma modunda yeniden başlatıldıktan sonra, devam etmek için cihaz kilidini açma şifrenizi girin.</string>
+  <string name="share_desc">MIUI sürümünüz %1$s olarak güncellendi, son değişiklikleri kontrol edin: %2$s</string>  
 </resources>
