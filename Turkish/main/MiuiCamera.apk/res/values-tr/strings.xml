@@ -714,8 +714,6 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="pref_camera_live_sticker_internal_title">Dahili sihirli araçlar</string>
   <string name="accessibility_lighting_panel_on">Stüdyo aydınlatma çubuğu gösteriliyor</string>
   <string name="accessibility_lighting_panel_off">Stüdyo aydınlatma çubuğu gizlendi</string>  
-  <string name="accessibility_ultra_wide_on">Geniş açı modu açıldı</string>
-  <string name="accessibility_ultra_wide_off">Geniş açı modu kapatıldı</string>
   <string name="autozoom_hint">Hareketli nesneyi takip et</string>
   <string name="autozoom_disabled_hint">Hareketli nesneyi takip etme durduruldu</string>
   <string name="autozoom_click_hint">İzlemeye başlamak için bir nesneye dokunun. En iyi etki için en az 3 metre uzaklıkta kalın.</string>
