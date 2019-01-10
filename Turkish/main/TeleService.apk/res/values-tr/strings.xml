@@ -1088,14 +1088,9 @@
   <string name="preferred_network_mode_cdma_summary">Tercihen Ağ Modu: CDMA</string>
   <string name="preferred_network_mode_dialogtitle">Tercih Edilen Ağ Tipi</string>
   <string name="preferred_network_mode_dialogtitle_cmcc">Ağ Tipi</string>
-  <string name="preferred_network_mode_evdo_only_choice">Sadece EvDo</string>
   <string name="preferred_network_mode_evdo_only_summary">Tercihli Ağ Modu: Sadece EvDo</string>
-  <string name="preferred_network_mode_global_choice">Global</string>
   <string name="preferred_network_mode_global_summary">Tercihen Ağ Modu: Global</string>
-  <string name="preferred_network_mode_gsm_only_choice">Sadece GSM</string>
   <string name="preferred_network_mode_gsm_only_summary">Tercihli Ağ Modu: Sadece GSM</string>
-  <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA otomatik</string>
-  <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA tercih edilen</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Tercihen Ağ Modu: GSM / WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Tercihen Ağ Modu: CDMA+LTE / EVDO</string>
   <string name="preferred_network_mode_lte_cdma_summary">Tercihen Ağ Modu: LTE / CDMA</string>
@@ -1115,7 +1110,6 @@
   <string name="preferred_network_mode_tdscdma_summary">Tercih edilen ağ modu: TDSCDMA</string>
   <string name="preferred_network_mode_tdscdma_wcdma_summary">Tercih edilen ağ modu: TDSCDMA / WCDMA</string>
   <string name="preferred_network_mode_title">Tercih edilen ağ tipi</string>
-  <string name="preferred_network_mode_wcdma_only_choice">Sadece WCDMA</string>
   <string name="preferred_network_mode_wcdma_only_summary">Tercih edilen ağ modu: sadece WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Tercih edilen ağ modu: WCDMA tercih edilir</string>
   <string name="preferred_network_restrict_network_changed_incall">Görüşme sırasında mobil şebeke değiştirilemiyor</string>
