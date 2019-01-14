@@ -33,7 +33,7 @@
   <string name="buy_claim_ps">Daha fazla detay için lütfen okuyun</string>
   <string name="buy_claim_terms">Şartlar ve Koşullar*</string>
   <string name="buy_confirm">KABUL &amp; KORUMA AL</string>
-  <string name="buy_insurance_desc">Sadece yeni cihaz</string>
+  <string name="buy_insurance_desc">OneAssist tarafından desteklenmektedir</string>
   <string name="buy_privacy_agree">Devam et</string>
   <string name="buy_privacy_title">Yasal Uyarı</string>
   <string name="buy_recycle_desc">Cashify tarafından desteklenmektedir</string>
@@ -108,7 +108,7 @@
   <string name="instant_bank_transfer">Anında Banka Havalesi</string>
   <string name="insurance_button">Sigorta</string>
   <string name="insurance_description">Sigorta ek onarım kapsamı sağlar</string>
-  <string name="insurance_entrance">Mi Koruma - telefon koruması</string>
+  <string name="insurance_entrance">Yeni cihaz için Mi Koruyucu</string>
   <string name="item_name_battery">Pil</string>
   <string name="item_name_bluetooth">Bluetooth</string>
   <string name="item_name_frontcamera">Ön kamera</string>
@@ -144,11 +144,12 @@
   <string name="password_toggle_content_description">Şifre görünürlüğünü değiştir</string>
   <string name="postal_code">Posta kodu</string>
   <string name="powered_by_cashify">Tarafından desteklenmektedir</string>
-  <string name="push_ht_content">Güvenlik\'i açın, aşağı kaydırın ve donanımınızı test edin</string>
-  <string name="push_ht_title">Güvenlikte yeni bir özellik göz atın</string>
+  <string name="push_ht_content">Donanım durumu hakkında bilgi edinin</string>
+  <string name="push_ht_title">Donanım testi</string>
   <string name="push_oa_content">Cihazınızı genişletilmiş garanti kullanarak koruyun</string>
   <string name="push_oa_title">Mi Koruma</string>
-  <string name="quote_upto_price">Harika! Cihazınız hala iyi durumda ve çok değerli. %s kadar</string>
+  <string name="quote_upto_price">"Harika! Cihazınız hala iyi durumda ve çok değerli. %s.
+Lütfen, cihaz fiyatlarının değişebileceğini unutmayın. En iyi teklifi kullanmak için telefonunu şimdi sat."</string>
   <string name="recycle_button">Geri Dönüşüm</string>
   <string name="recycle_description">Eski telefonunuzu geri dönüşüme alarak maksimum fiyat elde edin</string>
   <string name="recycle_entrance">Cashify Geri Dönüşüm</string>
