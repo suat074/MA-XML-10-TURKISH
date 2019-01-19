@@ -6056,5 +6056,6 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="page_layout_confirm_message_narrow">Metin, resimler ve simgeler küçülecek. Bazı simgelerin yeri değişebilir.</string>
   <string name="page_layout_confirm_title_enlarge">Daha büyük öğeler</string>
   <string name="page_layout_confirm_title_narrow">Daha küçük öğeler</string>
-  <string name="screen_optimize_disabled">Okuma modu açıkken kontrastı ayarlayamazsınız</string>  
+  <string name="screen_optimize_disabled">Okuma modu açıkken kontrastı ayarlayamazsınız</string>
+  <string name="keyguard_double_tap_to_sleep_title">Ekranı kapatmak için iki kez dokun</string>
 </resources>
