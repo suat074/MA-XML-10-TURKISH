@@ -6058,4 +6058,7 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="page_layout_confirm_title_narrow">Daha küçük öğeler</string>
   <string name="screen_optimize_disabled">Okuma modu açıkken kontrastı ayarlayamazsınız</string>
   <string name="keyguard_double_tap_to_sleep_title">Ekranı kapatmak için iki kez dokun</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Bluetooth Sesi aptX Adaptif Modu</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Tetikleyici Bluetooth Sesi
+aptX-Adaptif: Kodek Modu"</string>  
 </resources>
