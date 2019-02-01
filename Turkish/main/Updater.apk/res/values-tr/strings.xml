@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Sistem Güncelleme</string>
-  <string name="battery_islow">&lt;font color=#f37981&gt;Şarj cihazını bağlayın&lt;/font&gt;</string>
+  <string name="battery_islow"><font color=#f37981>Şarj cihazını bağlayın</font></string>
   <string name="battery_islow_desc">Pil seviyesi zip dosyasını güvenle yüklemek için çok düşük, şarj cihazınızı takın ve daha sonra tekrar deneyin!</string>
   <string name="btn_changelog">Değişiklikler</string>
   <string name="btn_download">İndir (%1$s)</string>
@@ -27,7 +27,8 @@
   <string name="download_fail_desc">MD5 Sum eşleşmiyor ...</string>
   <string name="downloading">İndiriliyor:</string>
   <string name="downloading_desc">İndiriliyor, bildirim alanındaki durumu kontrol edin.</string>
-  <string name="install_desc">Cihaz, kurtarma için yeniden başlatılacak ve seçilen dosyayı yükleyecektir: &lt;b&gt;%1$s&lt;/b&gt;\"\nVeriler silinmeyecek.\"</string>
+  <string name="install_desc">Cihaz kurtarma modunda yeniden başlayacak ve seçilen dosyayı yükleyecek:<b> %1$s</b>"
+Verileriniz silinmeyecek."</string>
   <string name="install_title">Devam etmekten emin misin?</string>
   <string name="menu_title_current_version_log">Neler yeni?</string>
   <string name="menu_title_pick_rom_file">Güncelleme paketini seçin</string>
