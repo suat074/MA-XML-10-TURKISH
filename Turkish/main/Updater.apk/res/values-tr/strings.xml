@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Sistem Güncelleme</string>
-  <string name="battery_islow"><font color=#f37981>Şarj cihazını bağlayın</font></string>
+  <string name="battery_islow">Şarj cihazını bağlayın</string>
   <string name="battery_islow_desc">Pil seviyesi zip dosyasını güvenle yüklemek için çok düşük, şarj cihazınızı takın ve daha sonra tekrar deneyin!</string>
   <string name="btn_changelog">Değişiklikler</string>
   <string name="btn_download">İndir (%1$s)</string>
