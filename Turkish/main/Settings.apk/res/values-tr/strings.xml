@@ -1231,7 +1231,9 @@
   <string name="dangerous_option">Yüksek riskli geliştirici seçenekleri</string>
   <string name="dangerous_option_hint">%1$s etkin. Ayarları değiştirmek için dokunun.</string>
   <string name="dangerous_option_hint_title">Yüksek riskli özellik etkin</string>
-  <string name="dangerous_option_switch_title">Yüksek riskli özellikler hakkında bilgi verin</string>   
+  <string name="dangerous_option_switch_title">Yüksek riskli özellikler hakkında bilgi verin</string>
+  <string name="dark_ui_mode">Gece modu</string>
+  <string name="dark_ui_mode_title">Gece modunu ayarla</string>  
   <string name="dashboard_title">Ayarlar</string>
   <string name="data_limit">Veri Limiti</string>
   <string name="data_saver_off">Kapalı</string>
