@@ -8,4 +8,20 @@
         <item quantity="other">%1$s duvar kağıdı</item>
         <item quantity="one">%1$s duvar kağıdı</item>
     </plurals>
+     <plurals name="feed_article_entrance_title">
+        <item quantity="other">Bu konuyla ilgili %d makale</item>
+        <item quantity="one">Bu konuyla ilgili %d makale</item>
+    </plurals>
+    <plurals name="time_day_ago">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">%d gün önce</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">%d saat önce</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d dak önce</item>
+        <item quantity="one">%d dak önce</item>
+    </plurals>	
 </resources>

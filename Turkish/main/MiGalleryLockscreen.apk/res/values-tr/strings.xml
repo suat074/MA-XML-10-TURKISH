@@ -355,4 +355,12 @@
   <string name="wallpaper_relations_title">Öneriler</string>
   <string name="wlan_download">Sadece Wi-Fi üzerinden güncelle</string>
   <string name="wlan_download_cn">Sadece Wi-Fi üzerinden güncelle</string>
+  <string name="feed_article_entrance_about">\"%s\" hakkında</string>
+  <string name="more_article">Daha fazla makale</string>
+  <string name="save_to_album">Galeriye başarıyla kaydedildi</string>
+  <string name="save_to_album_fail">Kaydedilemedi</string>
+  <string name="sst_effect_next_wallpaper">Değişiklikleri uygulamak için yeni bir duvar kağıdı ayarlayın</string>
+  <string name="sst_lockscreen_show_headline_desc">Kilit ekranında saatin altında duvar kağıdının başlığını göster</string>
+  <string name="sst_lockscreen_show_headline_title">Kilit ekranında başlığı göster</string>
+  <string name="time_current">Sadece şimdi</string>  
 </resources>
