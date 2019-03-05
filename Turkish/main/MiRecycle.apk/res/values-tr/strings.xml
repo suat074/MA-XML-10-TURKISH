@@ -107,8 +107,8 @@
   <string name="input_wallet_information">Giriş Numarasını Girin</string>
   <string name="instant_bank_transfer">Anında Banka Havalesi</string>
   <string name="insurance_button">Sigorta</string>
-  <string name="insurance_description">Sigorta ek onarım kapsamı sağlar</string>
-  <string name="insurance_entrance">Yeni cihaz için Mi Koruyucu</string>
+  <string name="insurance_description">OneAssist sigortası size ek onarım kapsamı sunar</string>
+  <string name="insurance_entrance">Yeni telefonunu koru</string>
   <string name="item_name_battery">Pil</string>
   <string name="item_name_bluetooth">Bluetooth</string>
   <string name="item_name_frontcamera">Ön kamera</string>
@@ -124,6 +124,7 @@
   <string name="label_my_order">Benim siparişim</string>
   <string name="landmark">İşaret</string>
   <string name="loading">Yükleniyor…</string>
+  <string name="main_entrance">Telefonunu sat</string>
   <string name="main_overall_test">BAŞLA</string>
   <string name="msg_coupon_applied">Kupon başarıyla uygulandı.</string>
   <string name="msg_empty_cancel_reason">Lütfen iptal sebebini seçin</string>
@@ -152,7 +153,7 @@
 Lütfen, cihaz fiyatlarının değişebileceğini unutmayın. En iyi teklifi kullanmak için telefonunu şimdi sat."</string>
   <string name="recycle_button">Geri Dönüşüm</string>
   <string name="recycle_description">Eski telefonunuzu geri dönüşüme alarak maksimum fiyat elde edin</string>
-  <string name="recycle_entrance">Cashify Geri Dönüşüm</string>
+  <string name="recycle_entrance">Cashify - Telefonunu sat</string>
   <string name="reschedule">Yeniden Planlama</string>
   <string name="result_no_fail">Her şey harika</string>
   <string name="search_menu_title">Arama</string>
