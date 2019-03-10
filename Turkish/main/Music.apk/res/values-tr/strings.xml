@@ -845,5 +845,14 @@ Mutlu Ol"</string>
   <string name="v7_preference_on">AÇIK</string>
   <string name="fcm_fallback_notification_channel_label">Çeşitli</string>
   <string name="gcm_fallback_notification_channel_label">Çeşitli</string>
-  <string name="ready_to_play">Sonraki</string>  
+  <string name="ready_to_play">Sonraki</string>
+  <string name="all_albums">Tüm albümler</string>
+  <string name="all_artists">Tüm sanatçılar</string>
+  <string name="all_playlists">Tüm çalma listeleri</string>
+  <string name="all_songs">Tüm şarkılar</string>
+  <string name="all_videos">Tüm videolar</string>
+  <string name="search_hint_local">Cihazdaki şarkıları ara</string>
+  <string name="search_hint_online">Sanatçıları, albümleri, şarkıları, çalma listelerini ve videoları çevrimiçi arayın</string>
+  <string name="tab_playlist">Çalma listeleri</string>
+  <string name="tab_video">Videolar</string>  
 </resources>
