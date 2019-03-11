@@ -1283,11 +1283,11 @@
   <string name="guide_chosen_type_main_title_behind">ne seviyorsun</string>
   <string name="guide_chosen_type_main_title_front">Bize söyle</string>  
   <string name="guide_chosen_type_subtitle">İlgili önerileri almak için ilgi alanlarınızı işaretleyin</string>
-  <string name="guide_entertainment_text">eğlendirme</string>
+  <string name="guide_entertainment_text">eğlence</string>
   <string name="guide_fashion_text">moda</string>
   <string name="guide_finance_text">finans</string>
-  <string name="guide_games_text">oyunlar</string>
-  <string name="guide_history_text">geçmiş</string>
+  <string name="guide_games_text">oyun</string>
+  <string name="guide_history_text">tarih</string>
   <string name="guide_know_type_subtitle">Harika öneriler alın</string>
   <string name="guide_label_chosen_hint">En çok %d kategori seçebilirsiniz</string>
   <string name="guide_military_text">askeri</string>
