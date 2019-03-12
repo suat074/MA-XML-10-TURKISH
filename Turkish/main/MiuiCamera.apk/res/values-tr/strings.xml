@@ -863,5 +863,11 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="semantic_lift_feedback_include_message_no_text">Tanınan metin yok</string>
   <string name="semantic_lift_help_screen_header">Seçebileceğiniz şeyler</string>
   <string name="success_image_saved_camera">Görüntü Kamera\'ya kaydedildi.</string>
-  <string name="text_copied_to_clipboard">Metin panoya kopyalandı</string>  
+  <string name="text_copied_to_clipboard">Metin panoya kopyalandı</string>
+  <string name="wideselfie_press_shoot_key_to_start">Deklanşör düğmesine basın</string>
+  <string name="wideselfie_rotate_slowly">Telefonu yavaşça döndür</string>
+  <string name="wideselfie_rotate_to_back">Cihazı geriye doğru eğin</string>
+  <string name="wideselfie_rotate_to_front">Cihazı öne eğin</string>
+  <string name="wideselfie_rotate_to_left_slowly">Telefonu yavaşça sola doğru döndürün</string>
+  <string name="wideselfie_rotate_to_right_slowly">Telefonu yavaşça sağa doğru döndürün</string>  
 </resources>
