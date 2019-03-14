@@ -846,8 +846,8 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="pref_camera_long_press_viewfinder_title">Vizör tuşuna basın ve basılı tutun</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google lens</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE ve AF Kilidi</string>
-  <string name="pref_google_lens_summary">QR kodlarını, E-postaları, sayıları ve metni otomatik olarak tanımlama</string>
-  <string name="pref_google_lens_title">Akıllı Öneri</string>
+  <string name="pref_google_lens_title">Lens Önerileri</string>
+  <string name="pref_google_lens_summary">QR kodlarını, E-postaları, numaraları vb. otomatik tanımlama</string>
   <string name="qr_of_unsupported_text">İçerik: \"%s\"</string>
   <string name="qr_of_unsupported_type">QR kodu</string>
   <string name="qr_wifi_error_could_not_connect">%s ağına manuel olarak bağlanmanız gerekir</string>
@@ -869,5 +869,7 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="wideselfie_rotate_to_back">Cihazı geriye doğru eğin</string>
   <string name="wideselfie_rotate_to_front">Cihazı öne eğin</string>
   <string name="wideselfie_rotate_to_left_slowly">Telefonu yavaşça sola doğru döndürün</string>
-  <string name="wideselfie_rotate_to_right_slowly">Telefonu yavaşça sağa doğru döndürün</string>  
+  <string name="wideselfie_rotate_to_right_slowly">Telefonu yavaşça sağa doğru döndürün</string>
+  <string name="macro_mode">Makro modu</string>
+  <string name="macro_mode_tip">Lütfen objeyi 10 cm içine yerleştirin</string>  
 </resources>
