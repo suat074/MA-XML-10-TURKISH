@@ -854,5 +854,6 @@ Mutlu Ol"</string>
   <string name="search_hint_local">Cihazdaki şarkıları ara</string>
   <string name="search_hint_online">Sanatçıları, albümleri, şarkıları, çalma listelerini ve videoları çevrimiçi arayın</string>
   <string name="tab_playlist">Çalma listeleri</string>
-  <string name="tab_video">Videolar</string>  
+  <string name="tab_video">Videolar</string>
+  <string name="voice_search_first_hint">Sesli arama deneyin!</string>  
 </resources>
