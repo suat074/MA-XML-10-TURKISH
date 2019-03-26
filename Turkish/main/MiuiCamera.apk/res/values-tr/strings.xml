@@ -843,11 +843,11 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="oobe_continue">Devam et</string>
   <string name="oobe_expandable">Google Lens, her şeyi bilemez ve belirli nesneleri, metin seçimlerini veya diğer şeyleri tanırken her zaman doğru olamaz. Lens, kamera uygulamasını kapattığınızda ne gördüğünüzü analiz etmeyi bırakacak. Lens\'i kamera ayarlarından devre dışı bırakabilir veya yeniden etkinleştirebilirsiniz.</string>
   <string name="oobe_headline">Google Lens Önerilen İşlemler</string>
-  <string name="pref_camera_long_press_viewfinder_title">Vizör tuşuna basın ve basılı tutun</string>
+  <string name="pref_camera_long_press_viewfinder_title">Vizör Ayarları</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google lens</string>
-  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE ve AF Kilidi</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF Kilidi</string>
   <string name="pref_google_lens_title">Lens Önerileri</string>
-  <string name="pref_google_lens_summary">QR kodlarını, E-postaları, numaraları vb. otomatik tanımlama</string>
+  <string name="pref_google_lens_summary">QR kodlarını, E-postaları, sayıları ve daha fazlasını otomatik olarak tanımlama</string>
   <string name="qr_of_unsupported_text">İçerik: \"%s\"</string>
   <string name="qr_of_unsupported_type">QR kodu</string>
   <string name="qr_wifi_error_could_not_connect">%s ağına manuel olarak bağlanmanız gerekir</string>
@@ -895,5 +895,8 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="out_line_right_eyes_occlusion">Sağ göz kapalı</string>
   <string name="recapture_dialog_message">Geri almayı onayla?</string>
   <string name="recapture_dialog_title">Yeniden çekim yapmak geçerli görüntüyü temizler</string>
-  <string name="wideselfie_result_image_lossless">Panorama fotoğraf kaydetme başarısız oldu</string>  
+  <string name="wideselfie_result_image_lossless">Panorama fotoğraf kaydetme başarısız oldu</string>
+  <string name="dialog_google_lens_option_0">Google Lens(Tavsiye edilen)</string>
+  <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
+  <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF Kilidi</string>  
 </resources>
