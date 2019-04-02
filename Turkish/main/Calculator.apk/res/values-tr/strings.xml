@@ -174,7 +174,7 @@
   <string name="item_title_currency">Döviz</string>
   <string name="item_title_dress_size">Giysi Boyu</string>
   <string name="item_title_length_conversion">Uzunluk</string>
-  <string name="item_title_mortgage">İpotek</string>
+  <string name="item_title_mortgage">Ev borcu</string>
   <string name="item_title_relationship">Akrabalık şartları</string>
   <string name="item_title_scientific_calculator">Bilimsel</string>
   <string name="item_title_tax">Vergi</string>
@@ -279,7 +279,7 @@
   <string name="mortgage_interest_rate">Ticari faiz</string>
   <string name="mortgage_item_repayment">Geri Ödeme Usulu</string>
   <string name="mortgage_item_start_time">Başlama Tarihi</string>
-  <string name="mortgage_item_years">İpotek Dönemi</string>
+  <string name="mortgage_item_years">Borç süresi</string>
   <string name="mortgage_loans_amount">İpotek Tutarı</string>
   <string name="mortgage_provident_found_interest_rate">Fonun faiz oranı</string>
   <string name="mortgage_repayment_amount">Geri Ödeme Tutarı</string>
