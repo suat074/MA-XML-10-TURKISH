@@ -97,7 +97,7 @@
   <string name="config_name_sound">Ses</string>
   <string name="config_name_straighten">Düzelt</string>
   <string name="config_name_super_resolution">Süper çözünürlük</string>
-  <string name="config_name_tilt">Eğim kayması</string>
+  <string name="config_name_tilt">Minyatür etkisi</string>
   <string name="config_name_timer">Zamanlayıcı</string>
   <string name="confirm_install_scanner_message">Tarayıcı, QR kodlarını, barkodları ve daha fazlasını taramanıza izin verir. Yüklemek için internete bağlanmak zorunda değilsiniz.</string>
   <string name="confirm_install_scanner_title">Tarayıcıyı Yükle</string>
@@ -387,9 +387,9 @@
   <string name="pref_camera_sound_title">Kamera sesleri</string>
   <string name="pref_camera_square_mode_title">Kare</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
-  <string name="pref_camera_tilt_shift_entry_circle">Çember</string>
+  <string name="pref_camera_tilt_shift_entry_circle">Daire</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Paralel</string>
-  <string name="pref_camera_tilt_shift_title">Eğim kayması</string>
+  <string name="pref_camera_tilt_shift_title">Minyatür etkisi</string>
   <string name="pref_camera_touchafaec_entry_off">Kapalı</string>
   <string name="pref_camera_touchafaec_entry_on">Açık</string>
   <string name="pref_camera_ubifocus_title">Yeniden odakla</string>
@@ -490,7 +490,7 @@
   <string name="simple_mode_button_text_slow_video">Zaman aralığını kapat</string>
   <string name="simple_mode_button_text_square">Kare modunu kapat</string>
   <string name="simple_mode_button_text_stereo_mode">Stereo modu kapat</string>
-  <string name="simple_mode_button_text_tilt_shift">Eğim kayması\'nı kapat</string>
+  <string name="simple_mode_button_text_tilt_shift">Minyatür etkisi\'ni kapat</string>
   <string name="simple_mode_button_text_ubifocus">Yeniden odaklanmayı kapat</string>
   <string name="snap_cancel">İptal</string>
   <string name="snap_confirmed">Değiştir</string>
@@ -736,6 +736,8 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
   <string name="ultra_pixel_photography_48mp_close_tip">48MP kapalı</string>
   <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
+  <string name="ultra_wide_mode_use_hint_text_sat">"Daha geniş bir görüntü kaydedebilmeniz için 0.6X süper geniş açısını açın
+Daha heyecan verici güzelliği keşfedin"</string>  
   <string name="zoom_no_support_tip_48M">Yakınlaştırma 48MP modunda çalışmıyor</string>
   <string name="autozoom_landscape_hint">Manzara altında çekim yapılması önerilir</string>
   <string name="lighting_pattern_holi">Holi</string>
