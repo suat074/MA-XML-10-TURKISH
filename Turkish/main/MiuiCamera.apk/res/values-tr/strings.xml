@@ -736,8 +736,8 @@ Daha heyecan verici güzelliği keşfedin."</string>
   <string name="ultra_pixel_photography_32mp_open_tip">32MP</string>
   <string name="ultra_pixel_photography_48mp_close_tip">48MP kapalı</string>
   <string name="ultra_pixel_photography_48mp_open_tip">48MP</string>
-  <string name="ultra_wide_mode_use_hint_text_sat">"Daha geniş bir görüntü kaydedebilmeniz için 0.6X süper geniş açısını açın
-Daha heyecan verici güzelliği keşfedin"</string>  
+  <string name="ultra_wide_mode_use_hint_text_sat">"Fotoğrafınıza daha fazla sahne eklemek için 0.6X Ultra geniş açı modunu deneyin.
+Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı olur."</string>  
   <string name="zoom_no_support_tip_48M">Yakınlaştırma 48MP modunda çalışmıyor</string>
   <string name="autozoom_landscape_hint">Manzara altında çekim yapılması önerilir</string>
   <string name="lighting_pattern_holi">Holi</string>
