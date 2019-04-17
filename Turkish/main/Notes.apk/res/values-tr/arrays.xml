@@ -29,7 +29,7 @@
         <item>Küçük</item>
         <item>Orta</item>
         <item>Büyük</item>
-        <item>Kocaman</item>
+        <item>Çok büyük</item>
     </string-array>
     <string-array name="first_guide_contents">
         <item>Notlar\'a hoş geldiniz!</item>
