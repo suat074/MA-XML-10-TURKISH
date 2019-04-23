@@ -17,6 +17,12 @@
   <string name="abc_shareactionprovider_share_with">İle paylaş</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
+  <string name="about_download_fail">İndirilemedi</string>
+  <string name="about_downloading">%s indiriliyor</string>
+  <string name="about_item_function">Yeni özellikler</string>
+  <string name="about_net_error">Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="about_newest">Duvar kağıdı Döngüsü güncel.</string>
+  <string name="about_update">Güncelleştirme</string>
   <string name="ad_feed_badge">Reklam</string>
   <string name="ad_pop_btn_hidden">Gizle</string>
   <string name="ad_pop_des">Uygulama indir：</string>
@@ -26,7 +32,7 @@
   <string name="add_to_cw">Slayt gösterisine ekle</string>
   <string name="add_to_trust_device">Bu güvenilir bir cihazdır</string>
   <string name="addcw_apply_btn_txt">Duvar kağıdı ekle</string>
-  <string name="and"> ve</string>
+  <string name="and">" ve"</string>
   <string name="app_name">Mi Duvar Kağıdı Döngüsü</string>
   <string name="app_self_upgrade_dlg_checkbox_ignore_version">Bu sürümü yoksay</string>
   <string name="app_self_upgrade_dlg_content">Yeni bir sürüm mevcut. Şimdi güncelle?</string>
@@ -47,7 +53,7 @@
   <string name="cancel_lockscreen">İptal</string>
   <string name="cancel_network">Çıkış</string>
   <string name="carousel_declaration_btn_text">Duvar Kağıdı Döngüsünü açın</string>
-  <string name="carousel_declaration_cta">Duvar Kağıdı Döngüsünün normal şekilde çalışabilmesi için internet erişimi gerekir. Çevrimiçi içeriğe erişmek için &lt;a href=\'http://www.miui.com/res/doc/privacy/cn.html\'>Gizlilik Politikasını&lt;/a> kabul etmeniz gerekir. Kabul?</string>
+  <string name="carousel_declaration_cta">Duvar Kağıdı Döngüsünün normal çalışması için internet bağlantısı gerekir. Çevrimiçi içeriğe erişebilmek için &lt;a href=\'%s\'>Gizlilik Politikamızı&lt;/a> kabul etmeniz gerekiyor. Kabul?</string>
   <string name="carousel_declaration_cta_btn_text">Kabul et ve aç</string>
   <string name="carousel_declaration_des">Duvar Kağıdı Döngüsü ile güzel yerleri görün ve heyecan verici sürprizler elde edin</string>
   <string name="carousel_declaration_des_new">Kişiselleştirilmiş öneriler alın ve her gün Kilit ekranınıza gönderilen yeni resimleir ve hikayeleri seçin.</string>
@@ -62,6 +68,10 @@
   <string name="choose_to_signup">Hayır, bir tane oluşturacağım</string>
   <string name="clear_history">Arama geçmişini temizle</string>
   <string name="clear_search_edittext">Temizle</string>
+  <string name="comment_pop_cancel">Şimdi değil</string>
+  <string name="comment_pop_content">Eğer Wallpaper Carousel isterseniz bize bir yorum ver!</string>
+  <string name="comment_pop_ok">Puan ver</string>
+  <string name="comment_pop_title">Duvar Kağıdı Döngüsüne puan ver</string>
   <string name="confirm">Aç</string>
   <string name="create_shortcut">Ana ekran kısayolu oluştur</string>
   <string name="current_connection_invalid">Cihaz ağa bağlanana kadar bekleyin</string>
@@ -96,7 +106,7 @@
   <string name="cw_deleting">Sil (%1$d/%2$d)</string>
   <string name="cw_local_pic">Galeri</string>
   <string name="cw_my_fav">Favoriler</string>
-  <string name="cw_permission_tip">Duvar Kağıdı Döngüsü\'ne Ayarlar > Uygulama ayarları içinden depolama alanına erişmesine izin verin.</string>
+  <string name="cw_permission_tip">Duvar Kağıdı Döngüsü\'ne Ayarlar &gt; Uygulama ayarları içinden depolama alanına erişmesine izin verin.</string>
   <string name="cw_wallpaper_empty_dlg_btn">Anladım</string>
   <string name="cw_wallpaper_empty_dlg_content">Slayt gösterinize hiçbir öğe eklemediniz. Önerilere geçildi.</string>
   <string name="cw_wallpaper_empty_dlg_title">Öğe yok</string>
@@ -140,6 +150,7 @@
   <string name="favor_list_no_data">Burada öğe yok.</string>
   <string name="favor_list_title">Favoriler</string>
   <string name="favor_success">Favorilere başarıyla eklendi</string>
+  <string name="feed_article_entrance_about">\"%s\" hakkında</string>
   <string name="find_psw">Şifremi unuttum</string>
   <string name="from_migallerylockscreen">MI Duvar Kağıdı Döngüsü</string>
   <string name="get_account_no_permission">Giriş yapmadan önce Duvar Kağıdı Döngüsü\'nün bu cihazdaki hesaplara erişmesine izin verin.</string>
@@ -160,6 +171,15 @@
   <string name="lks_left_net_error">Ağa bağlanılamadı.</string>
   <string name="lks_logo_desc2">Günlük taze duvar kağıtları</string>
   <string name="lks_subscription_toast">Duvar kağıdı başarıyla değiştirildi</string>
+  <string name="llks_pop_btm_des">Güne gülümseyerek başla</string>
+  <string name="llks_pop_btm_des_backup">Güne harika bir başlangıç yapın</string>
+  <string name="llks_pop_btm_title">Günaydın</string>
+  <string name="llks_pop_btm_title_backup">Günaydın selamlar</string>
+  <string name="llks_pop_i_know">Anladım</string>
+  <string name="llks_pop_top_des">Düzenli olarak taze görüntüler alın</string>
+  <string name="llks_pop_top_des_backup">Her gün ekranınıza iletilir</string>
+  <string name="llks_pop_top_title">Yeni duvar kağıtları</string>
+  <string name="llks_pop_top_title_backup">Taze görüntüler</string>
   <string name="load_hdpicture_complete">" Orijinal görüntü yüklendi"</string>
   <string name="loading"><CDATA>Sadece bir saniye...</CDATA></string>
   <string name="lock_screen_date">d MMMM, EEEE</string>
@@ -180,7 +200,9 @@
   <string name="mode_des">Duvar Kağıdı Döngüsü şimdi önerileri gösteriyor. Özel öğelerinizi görüntüleyebilmek için slayt gösterisine geçin.</string>
   <string name="mode_ok">Slayt gösterisine geç</string>
   <string name="mode_title">Öneriler gösteriliyor</string>
+  <string name="more_article">Daha fazla makale</string>
   <string name="need_open_gallery">Duvar Kağıdı Döngüsü\'nü aç</string>
+  <string name="new_feature_title">Yenilikler</string>
   <string name="nick_name">İsim</string>
   <string name="no_long_show">Tekrar gösterme</string>
   <string name="no_networdk">Ağa bağlanılamadı</string>
@@ -195,7 +217,7 @@
   <string name="open_btn_start">Duvar Kağıdı Döngüsü\'nü aç</string>
   <string name="open_des">Kilit ekranınızda günlük olarak yeni resimler ve hikayeler almak için Duvar Kağıdı Döngüsü\'nü açın.</string>
   <string name="open_freq_title">Güncelleme sıklığını ayarla</string>
-  <string name="open_guid_des">Ayarlar > İzinler > Diğer izinler > Duvar Kağıdı Döngüsü gidin ve uygulamaya gerekli tüm izinleri verin.</string>
+  <string name="open_guid_des">Ayarlar &gt; İzinler &gt; Diğer izinler &gt; Duvar Kağıdı Döngüsü gidin ve uygulamaya gerekli tüm izinleri verin.</string>
   <string name="open_sub_title">Kategorileri seç</string>
   <string name="open_title">Duvar Kağıdı Döngüsü</string>
   <string name="open_unable">Duvar Kağıdı Döngüsü sadece MIUI varsayılan Kilit ekranı ile çalışır.</string>
@@ -254,13 +276,17 @@
   <string name="rv_with_footer_pull_load_more">Daha fazlasını görmek için aşağı çekin</string>
   <string name="save_hdpicture_in_favor">HD görüntüleri \"Favoriler\" üzerinde görüntüleyin</string>
   <string name="save_picture_success">Başarıyla kaydedildi</string>
+  <string name="save_to_album">Galeriye başarıyla kaydedildi</string>
+  <string name="save_to_album_fail">Kaydedilemedi</string>
   <string name="scribe_btn_ok">Abone ol</string>
   <string name="scribe_title1">Duvar Kağıdı Döngüsü\'ne abone ol</string>
   <string name="search">Arama</string>
   <string name="search_menu_title">Arama</string>
   <string name="search_str">Popüler istekler</string>
   <string name="select_package">Sürümü Seçin</string>
-  <string name="setting_des">Slayt gösterinizi Ayarlar > Kilit Ekranı &amp; Parmakizi > Duvar Kağıdı Döngüsü\'nden ayarlayabilirsiniz</string>
+  <string name="setting_about_item_des">Versiyon</string>
+  <string name="setting_about_item_title">Duvar Kağıdı Döngüsü Hakkında</string>
+  <string name="setting_des">Slayt gösterinizi Ayarlar &gt; Kilit Ekranı &amp; Parmakizi &gt; Duvar Kağıdı Döngüsü\'nden ayarlayabilirsiniz</string>
   <string name="setting_head">Ayarlar</string>
   <string name="setting_ok">Ayarlar</string>
   <string name="setting_tip">Tekrar gösterme</string>
@@ -286,15 +312,20 @@
   <string name="sst_custom_wallpaper_desc">Galeri ve önerilerden görüntüler seçin</string>
   <string name="sst_custom_wallpaper_title">Özel slayt gösterisi</string>
   <string name="sst_custom_wallpaper_title2">Slayt</string>
+  <string name="sst_disable_unopen">Beta özelliği</string>
+  <string name="sst_effect_next_wallpaper">Değişiklikleri uygulamak için yeni bir duvar kağıdı ayarlayın</string>
   <string name="sst_favor_desc">Favori duvar kağıtlarım</string>
   <string name="sst_favor_title">Favoriler</string>
   <string name="sst_feedback_title">Geri bildirim</string>
   <string name="sst_grid_view_select_all">Tümü</string>
   <string name="sst_grid_view_unselect_all">Vazgeç</string>
+  <string name="sst_lockscreen_show_headline_desc">Kilit ekranında saatin altında duvar kağıdının başlığını göster</string>
+  <string name="sst_lockscreen_show_headline_title">Kilit ekranında başlığı göster</string>
   <string name="sst_logo_desc">Günlük taze duvar kağıtları</string>
   <string name="sst_mode_selection">Mod</string>
   <string name="sst_more_subscription">Daha fazla abonelik</string>
   <string name="sst_morning_greeting_desc">Her sabah yeni bir görüntü alın</string>
+  <string name="sst_morning_greeting_disable_toast">Bu özellik yakında hazır olacak</string>
   <string name="sst_morning_greeting_title">Sabah selamlarını al</string>
   <string name="sst_new_feature">Yeni özellikler</string>
   <string name="sst_no_favor_wallpaper_hint">Favorilerde duvar kağıdı yok</string>
@@ -325,25 +356,28 @@
   <string name="sst_wifi_only_title">Mobil veri kullanarak duvar kağıtlarını güncelle</string>
   <string name="subscribe_item_checked">Abonelik</string>
   <string name="subscribe_item_unchecked">Abonelikten çık</string>
-  <string name="summary">Çevrimiçi içeriği görüntülemek için &lt;a href=\'http://www.miui.com/res/doc/privacy/en.html\'>Gizlilik Politikamızı&lt;/a> kabul edin. Eğer kabul etmezseniz, yerel duvar kağıtları hala kullanılabilir olacak.</string>
-  <string name="summary_international">Bu ürünü kullanmakla, şunu kabul etmiş olursunuz: &lt;a href =\'http://www.miui.com/res/doc/eula.html?lang=en_US\'>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\'http://www.miui.com/res/doc/privacy/en.html\'>Gizlilik Politikası&lt;/a>. Bu özelliğin normal bir şekilde çalışması için internete bağlanması gerekiyor.</string>
-  <string name="summary2">Bu özelliği kullanarak, &lt;a href =\'http://www.miui.com/res/doc/eula.html?lang=en_US\'>Kullanıcı Sözleşmesi&lt;/a> ve &lt;a href=\'http://www.miui.com/res/doc/privacy/en.html\'>Gizlilik Politikası&lt;/a> kabul etmiş olursunuz. Bu özelliğin normal çalışması için internete bağlanması gerekir.</string>
+  <string name="summary">Çevrimiçi içeriği görüntülemek için &lt;a href=\'%s\'>Gizlilik Politikamızı&lt;/a> kabul edin. Kabul etmezseniz, yerel duvar kâğıtları hala mevcut olacaktır.</string>
+  <string name="summary_international">Bu özelliği kullanarak, &lt;a href =\'%1$s\'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\'%2$s\'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir.</string>
+  <string name="summary2">Bu özelliği kullanarak, &lt;a href =\'%1$s\'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\'%2$s\'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir.</string>
   <string name="tab_user_title_bar_text">Ayarlar</string>
   <string name="theme_apply_failured">Uygulanamıyor, sonra tekrar deneyin</string>
-  <string name="theme_apply_success">Başarıyla eklendi</string>
+  <string name="theme_apply_success">Başarıyla uygulandı</string>
   <string name="theme_applying">Uygulanıyor...</string>
-  <string name="theme_des">Duvar Kağıdı Döngüsü sadece varsayılan MIUI temasını destekler. Duvar Kağıdı Döngüsü\'nü kullanabilmek için varsayılan temayı ayarlayın.</string>
-  <string name="theme_ok">Varsayılan temayı ayarla</string>
-  <string name="theme_title">Varsayılan tema kullanmıyorsunuz</string>
+  <string name="theme_des">Varsayılan temayı uygulayın ve Duvar Kağıdı Döngüsünü tekrar açın.</string>
+  <string name="theme_des_lock_style">Varsayılan Kilit ekranını uygulayın ve Duvar Kağıdı Döngüsünü tekrar açın.</string>
+  <string name="theme_ok">Ayarlar</string>
+  <string name="theme_title">Varsayılan temaya geç</string>
+  <string name="theme_title_lock_style">Varsayılan Kilit ekranına geçin</string>
   <string name="ticket_hint">Doğrulama kodu</string>
   <string name="ticket_invalid">Girdiğiniz kod yanlış</string>
   <string name="ticket_sign_in">SMS ile giriş yap</string>
+  <string name="time_current">Sadece şimdi</string>
   <string name="toast_ad_down_tip">Uygulama indiriliyor…</string>
   <string name="toast_ad_down_tip2">%s indiriliyor</string>
   <string name="toast_load_hd_fail">Orijinal resim yüklenemedi</string>
   <string name="toast_neterror_tip">Bir ağ hatası oluştu</string>
   <string name="top_search_tip">Beğendiğiniz kategorileri arayın</string>
-  <string name="uninstall_introducation_text_desc">Duvar Kağıdı Carousel doğrudan Kilit ekranınıza yeni kaliteli görüntüler sunar. Uygulamayı kaldırmadan önce onun özellikleri olmadan yapabileceğinizden emin olun.</string>
+  <string name="uninstall_introducation_text_desc">Duvar Kağıdı Döngüsü, yeni kaliteli görüntüleri doğrudan Kilit ekranınıza getirir. Uygulamayı kaldırmadan önce bu özellikler olmadan yapabileceğinizden emin olun.</string>
   <string name="uninstall_introduction_text_title">Duvar Kağıdı Döngüsü Hakkında</string>
   <string name="uninstall_warning_text_desc">Duvar Kağıdı Döngüsü olmadan düzenli olarak yeni Kilit ekranı duvar kağıtları alamazsınız. Ancak, uygulamayı tekrar indirip yükleyebilirsiniz. Duvar Kağıdı Döngüsü Sil?</string>
   <string name="uninstall_warning_text_title">Duvar Kağıdı Döngüsü siliniyor</string>
@@ -355,12 +389,4 @@
   <string name="wallpaper_relations_title">Öneriler</string>
   <string name="wlan_download">Sadece Wi-Fi üzerinden güncelle</string>
   <string name="wlan_download_cn">Sadece Wi-Fi üzerinden güncelle</string>
-  <string name="feed_article_entrance_about">\"%s\" hakkında</string>
-  <string name="more_article">Daha fazla makale</string>
-  <string name="save_to_album">Galeriye başarıyla kaydedildi</string>
-  <string name="save_to_album_fail">Kaydedilemedi</string>
-  <string name="sst_effect_next_wallpaper">Değişiklikleri uygulamak için yeni bir duvar kağıdı ayarlayın</string>
-  <string name="sst_lockscreen_show_headline_desc">Kilit ekranında saatin altında duvar kağıdının başlığını göster</string>
-  <string name="sst_lockscreen_show_headline_title">Kilit ekranında başlığı göster</string>
-  <string name="time_current">Sadece şimdi</string>  
 </resources>
