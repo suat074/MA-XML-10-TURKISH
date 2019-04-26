@@ -1991,7 +1991,6 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="gadget_picker_title">Araç seç</string>
   <string name="gadget_state_off">kapalı</string>
   <string name="gadget_state_on">açık</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">kapatılıyor</string>
   <string name="gadget_state_turning_on">açılıyor</string>
   <string name="gadget_sync">Eşitle</string>
