@@ -677,7 +677,7 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda size yard�
   <string name="network_exception">Ağ istisnası</string>
   <string name="live_edit_exit_message">Çekimi şimdi durdur?</string>
   <string name="live_edit_exit_confirm">Durdur</string>
-  <string name="beauty_reset_toast">Efekt başarıyla kaldırıldı</string>
+  <string name="beauty_reset_toast">Güzelleştirme efekti başarıyla sıfırlandı</string>
   <string name="color_effect_live_blue">Mavi</string>
   <string name="color_effect_live_contrast">Xpro</string>
   <string name="color_effect_live_deepblack">S&amp;B</string>
@@ -874,5 +874,8 @@ Ultra geniş açı modu, sahneden daha fazla uzaklaşamadığınızda yardımcı
   <string name="dialog_google_lens_option_0">Google Lens(Tavsiye edilen)</string>
   <string name="pref_camera_long_press_viewfinder_google_lens">Google Lens</string>
   <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF Kilidi</string>
-  <string name="accessibility_video_btn_play">Video oynat</string>  
+  <string name="accessibility_video_btn_play">Video oynat</string>
+  <string name="beauty_clear">Temizle</string>
+  <string name="beauty_clear_toast">Güzelleştirme efekti başarıyla temizlendi</string>
+  <string name="edit_hairline">Saç çizgisi</string>  
 </resources>
