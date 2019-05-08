@@ -53,7 +53,7 @@
   <string name="cancel_lockscreen">İptal</string>
   <string name="cancel_network">Çıkış</string>
   <string name="carousel_declaration_btn_text">Duvar Kağıdı Döngüsünü açın</string>
-  <string name="carousel_declaration_cta">Duvar Kağıdı Döngüsünün normal çalışması için internet bağlantısı gerekir. Çevrimiçi içeriğe erişebilmek için &lt;a href=\'%s\'>Gizlilik Politikamızı&lt;/a> kabul etmeniz gerekiyor. Kabul?</string>
+  <string name="carousel_declaration_cta">Duvar Kağıdı Döngüsünün normal çalışması için internet bağlantısı gerekir. Çevrimiçi içeriğe erişebilmek için &lt;a href=\'%s\'&gt;Gizlilik Politikamızı&lt;/a&gt; kabul etmeniz gerekiyor. Kabul?</string>
   <string name="carousel_declaration_cta_btn_text">Kabul et ve aç</string>
   <string name="carousel_declaration_des">Duvar Kağıdı Döngüsü ile güzel yerleri görün ve heyecan verici sürprizler elde edin</string>
   <string name="carousel_declaration_des_new">Kişiselleştirilmiş öneriler alın ve her gün Kilit ekranınıza gönderilen yeni resimleir ve hikayeleri seçin.</string>
@@ -169,6 +169,8 @@
   <string name="liked">Favorilerime eklendi</string>
   <string name="lks_left_net_deny">Ağ bağlantısı sınırlı</string>
   <string name="lks_left_net_error">Ağa bağlanılamadı.</string>
+  <string name="lks_left_top_notice">Başa dönmek için buraya dokunun</string>
+  <string name="lks_left_top_notice_refresh">Yeni öğeleri görüntülemek için dokunun</string>
   <string name="lks_logo_desc2">Günlük taze duvar kağıtları</string>
   <string name="lks_subscription_toast">Duvar kağıdı başarıyla değiştirildi</string>
   <string name="llks_pop_btm_des">Güne gülümseyerek başla</string>
@@ -180,6 +182,14 @@
   <string name="llks_pop_top_des_backup">Her gün ekranınıza iletilir</string>
   <string name="llks_pop_top_title">Yeni duvar kağıtları</string>
   <string name="llks_pop_top_title_backup">Taze görüntüler</string>
+  <string name="llks_setting_view_title">Ek ekran</string>
+  <string name="llks_simple_mode">Lite mod</string>
+  <string name="llks_simple_mode_desc">Basitleştirilmiş düzen ve ek kısayollar</string>
+  <string name="llks_standard_mode">Varsayılan</string>
+  <string name="llks_standard_mode_desc">Duvar kağıtları, hikayeler ve günlük tavsiyeler</string>
+  <string name="llks_tools_gallery_name">Duvar Kağıdı Döngüsü</string>
+  <string name="llks_tools_remote_control_name">Mi Kumanda</string>
+  <string name="llks_tools_smart_devices_name">Mi Ev</string>
   <string name="load_hdpicture_complete">" Orijinal görüntü yüklendi"</string>
   <string name="loading"><CDATA>Sadece bir saniye...</CDATA></string>
   <string name="lock_screen_date">d MMMM, EEEE</string>
@@ -354,6 +364,8 @@
   <string name="sst_wallpaper_history_title">Geçmiş</string>
   <string name="sst_wifi_only_desc">Duvar kağıtlarını yalnızca Wi-Fi üzerinden güncellemek için kapatın</string>
   <string name="sst_wifi_only_title">Mobil veri kullanarak duvar kağıtlarını güncelle</string>
+  <string name="subscribe_apply_wp">Kilit ekranı duvar kağıdı başarıyla uygulandı</string>
+  <string name="subscribe_dlg_content">Günlük olarak Kilit ekranınıza gönderilen taze duvar kağıtlarını almak için abone olun ve sabah selamlarını alın.</string>
   <string name="subscribe_item_checked">Abonelik</string>
   <string name="subscribe_item_unchecked">Abonelikten çık</string>
   <string name="summary">Çevrimiçi içeriği görüntülemek için &lt;a href=\'%s\'>Gizlilik Politikamızı&lt;/a> kabul edin. Kabul etmezseniz, yerel duvar kâğıtları hala mevcut olacaktır.</string>
@@ -376,6 +388,7 @@
   <string name="toast_ad_down_tip2">%s indiriliyor</string>
   <string name="toast_load_hd_fail">Orijinal resim yüklenemedi</string>
   <string name="toast_neterror_tip">Bir ağ hatası oluştu</string>
+  <string name="toast_update_no_more_newest_feeds">Şimdilik yeni öğe yok</string>
   <string name="top_search_tip">Beğendiğiniz kategorileri arayın</string>
   <string name="uninstall_introducation_text_desc">Duvar Kağıdı Döngüsü, yeni kaliteli görüntüleri doğrudan Kilit ekranınıza getirir. Uygulamayı kaldırmadan önce bu özellikler olmadan yapabileceğinizden emin olun.</string>
   <string name="uninstall_introduction_text_title">Duvar Kağıdı Döngüsü Hakkında</string>
