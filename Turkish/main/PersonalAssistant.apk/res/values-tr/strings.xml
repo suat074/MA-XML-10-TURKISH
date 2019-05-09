@@ -353,7 +353,7 @@
   <string name="express_install_open_locker">Open</string>
   <string name="express_install_order_detail">View order details</string>
   <string name="express_install_provider_app_description">%1$s, %2$s uygulamasını yüklemeyi gerektirir. Şimdi yükleyin?</string>
-  <string name="express_install_provider_app_hidden">&lt;u&gt;Tekrar gösterme&lt;/u&gt;</string>
+  <string name="express_install_provider_app_hidden"><u>Tekrar gösterme</u></string>
   <string name="express_install_provider_app_ok">Yükle</string>
   <string name="express_install_provider_app_title">%s yükle</string>
   <string name="express_install_schedule_delivery">Order delivery service</string>
@@ -826,7 +826,7 @@
   <string name="payment_record_menu_delete">Sil</string>
   <string name="payment_record_menu_select">Seçin</string>
   <string name="payment_report_failed_record_dialog_cancel">İptal</string>
-  <string name="payment_report_failed_record_dialog_message">\"Ödeme hesaplamasını daha kesin yapmamıza yardımcı olmak için işlenmemiş faturaları bildirin.\n\"&lt;b&gt;Paylaştığınız öğeler yalnızca Uygulama kasasını geliştirmek için kullanılacaktır.&lt;/b&gt;</string>
+  <string name="payment_report_failed_record_dialog_message">\"Ödeme hesaplamasını daha kesin yapmamıza yardımcı olmak için işlenmemiş faturaları bildirin.\n\"&lt;b>Paylaştığınız öğeler yalnızca Uygulama kasasını geliştirmek için kullanılacaktır.&lt;/b></string>
   <string name="payment_report_failed_record_dialog_ok">Rapor</string>
   <string name="payment_setting">ayar</string>
   <string name="payment_total_month_desc">This month</string>

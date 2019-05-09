@@ -53,7 +53,7 @@
   <string name="cancel_lockscreen">İptal</string>
   <string name="cancel_network">Çıkış</string>
   <string name="carousel_declaration_btn_text">Duvar Kağıdı Döngüsünü açın</string>
-  <string name="carousel_declaration_cta">Duvar Kağıdı Döngüsünün normal çalışması için internet bağlantısı gerekir. Çevrimiçi içeriğe erişebilmek için &lt;a href=\'%s\'&gt;Gizlilik Politikamızı&lt;/a&gt; kabul etmeniz gerekiyor. Kabul?</string>
+  <string name="carousel_declaration_cta">Duvar Kağıdı Döngüsünün normal çalışması için internet bağlantısı gerekir. Çevrimiçi içeriğe erişebilmek için &lt;a href='%s'>Gizlilik Politikamızı&lt;/a> kabul etmeniz gerekiyor. Kabul?</string>
   <string name="carousel_declaration_cta_btn_text">Kabul et ve aç</string>
   <string name="carousel_declaration_des">Duvar Kağıdı Döngüsü ile güzel yerleri görün ve heyecan verici sürprizler elde edin</string>
   <string name="carousel_declaration_des_new">Kişiselleştirilmiş öneriler alın ve her gün Kilit ekranınıza gönderilen yeni resimleir ve hikayeleri seçin.</string>
@@ -296,7 +296,7 @@
   <string name="select_package">Sürümü Seçin</string>
   <string name="setting_about_item_des">Versiyon</string>
   <string name="setting_about_item_title">Duvar Kağıdı Döngüsü Hakkında</string>
-  <string name="setting_des">Slayt gösterinizi Ayarlar &gt; Kilit Ekranı &amp; Parmakizi &gt; Duvar Kağıdı Döngüsü\'nden ayarlayabilirsiniz</string>
+  <string name="setting_des">Slayt gösterinizi Ayarlar &gt; Kilit Ekranı &amp; şifre &gt; Duvar Kağıdı Döngüsü\'nden ayarlayabilirsiniz</string>
   <string name="setting_head">Ayarlar</string>
   <string name="setting_ok">Ayarlar</string>
   <string name="setting_tip">Tekrar gösterme</string>
@@ -368,9 +368,9 @@
   <string name="subscribe_dlg_content">Günlük olarak Kilit ekranınıza gönderilen taze duvar kağıtlarını almak için abone olun ve sabah selamlarını alın.</string>
   <string name="subscribe_item_checked">Abonelik</string>
   <string name="subscribe_item_unchecked">Abonelikten çık</string>
-  <string name="summary">Çevrimiçi içeriği görüntülemek için &lt;a href=\'%s\'>Gizlilik Politikamızı&lt;/a> kabul edin. Kabul etmezseniz, yerel duvar kâğıtları hala mevcut olacaktır.</string>
-  <string name="summary_international">Bu özelliği kullanarak, &lt;a href =\'%1$s\'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\'%2$s\'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir.</string>
-  <string name="summary2">Bu özelliği kullanarak, &lt;a href =\'%1$s\'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href=\'%2$s\'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir.</string>
+  <string name="summary">Çevrimiçi içeriği görüntülemek için &lt;a href='%s'>Gizlilik Politikamızı&lt;/a> kabul edin. Kabul etmezseniz, yerel duvar kâğıtları hala mevcut olacaktır.</string>
+  <string name="summary_international">Bu özelliği kullanarak, &lt;a href ='%1$s'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href='%2$s'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir.</string>
+  <string name="summary2">Bu özelliği kullanarak, &lt;a href ='%1$s'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href='%2$s'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir.</string>
   <string name="tab_user_title_bar_text">Ayarlar</string>
   <string name="theme_apply_failured">Uygulanamıyor, sonra tekrar deneyin</string>
   <string name="theme_apply_success">Başarıyla uygulandı</string>
