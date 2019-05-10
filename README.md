@@ -1,10 +1,10 @@
 MIUI V10 Turkish Translation
 
-[![Issue Stats](https://github.com/suat074/MA-XML-10-TURKISH/issues)
+[![Issue Stats](https://img.shields.io/github/issues-raw/suat074/MA-XML-10-TURKISH.svg)](https://github.com/suat074/MA-XML-10-TURKISH/issues)
 
 ## Introduction
 
-This repository contains the Turkish Translation of the MIUI Weekly ROM Releases from [xiaomi.eu](http://xiaomi.eu/community/forums/103/).
+This repository contains the Turkish Translation of the MIUI Weekly ROM Releases from [xiaomi.eu](https://xiaomi.eu/community/forums/103/).
 
 Main Translator:
 Suat SARIOĞLU (suatsari) :: suatsarioglu@gmail.com
@@ -12,7 +12,7 @@ Suat SARIOĞLU (suatsari) :: suatsarioglu@gmail.com
 
 ## Reporting issues
 
-Use the [Github Issue tracker](https://github.com/suat074/MA-XML-10-TURKISH/issues) to report a bug or the following [forum thread](http://xiaomi.eu/community/)
+Use the [Github Issue tracker](https://github.com/suat074/MA-XML-10-TURKISH/issues) to report a bug or the following [forum thread](https://xiaomi.eu/community/)
 
 
 ## Current improvements
@@ -26,12 +26,13 @@ Use the [Github Issue tracker](https://github.com/suat074/MA-XML-10-TURKISH/issu
 
 ## Changes will be added
 
-* This is MIUI 9.3 Turkish Language Project supported all of models...
+* This is MIUI 10.x Turkish Language Project supported all of models...
 
 Check [Contributing to a project](https://guides.github.com/activities/forking) for further informations.
 
 ## For all problems:
-Administrator :: ingbrzy (ingbrzy@miuios.cz)
-TR Translator : Suat SARIOĞLU     :: suatsari (suatsarioglu@gmail.com)
+
+- Administrator :: ingbrzy (ingbrzy@miuios.cz)
+- TR Translator : Suat SARIOĞLU :: suatsari (suatsarioglu@gmail.com)
 
 I want to thank everyone for their help, dont forget: "If you do not fly, run; If you do not run, walk; if you can not walk, crawl, but do not give up."
