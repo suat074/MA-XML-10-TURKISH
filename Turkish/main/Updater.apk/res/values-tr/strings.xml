@@ -16,6 +16,8 @@
   <string name="channel_downloading">İndirme devam ediyor</string>
   <string name="channel_update">Yeni sürüm mevcut</string>  
   <string name="check_new_version">Denetle</string>
+  <string name="default_filedownloader_notification_content">Dosyaİndirici çalışıyor.</string>
+  <string name="default_filedownloader_notification_title">Dosyaİndirici</string>  
   <string name="dialog_3g_desc">ROM\'ları indirmek için Mobil Verilerin kullanılmasıyla paketinizin önemli miktarda kota harcayacağını unutmayın.</string>
   <string name="dialog_3g_title">Uyarı!</string>
   <string name="dialog_btn_3g">Yinede Devam Et</string>
@@ -27,8 +29,8 @@
   <string name="download_fail_desc">MD5 Sum eşleşmiyor ...</string>
   <string name="downloading">İndiriliyor:</string>
   <string name="downloading_desc">İndiriliyor, bildirim alanındaki durumu kontrol edin.</string>
-  <string name="install_desc">Cihaz kurtarma modunda yeniden başlayacak ve seçilen dosyayı yükleyecek:<b> %1$s</b>"
-Verileriniz silinmeyecek."</string>
+  <string name="install_desc">Cihaz kurtarma modunda yeniden başlatılacak ve seçilen dosyayı yükleyecektir: <b>%1$s</b>"
+Veriler silinmeyecek."</string>
   <string name="install_title">Devam etmekten emin misin?</string>
   <string name="menu_title_current_version_log">Neler yeni?</string>
   <string name="menu_title_pick_rom_file">Güncelleme paketini seçin</string>
