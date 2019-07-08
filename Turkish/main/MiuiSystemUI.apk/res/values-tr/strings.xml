@@ -774,7 +774,6 @@
   <string name="keyguard_charged">Şarj oldu</string>
   <string name="keyguard_charging_info_battery_used_time_text">Pilde</string>
   <string name="keyguard_charging_info_click_to_detail">Detaylara bak</string>
-  <string name="keyguard_charging_info_data_percent">%s%%</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Boşalma</string>
   <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Bugün %s</string>
