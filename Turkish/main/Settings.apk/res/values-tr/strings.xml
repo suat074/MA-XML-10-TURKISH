@@ -2023,7 +2023,6 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="gesture_preference_title">Hareketler</string>
   <string name="gesture_setting_off">Kapalı</string>
   <string name="gesture_setting_on">Açık</string>
-  <string name="gesture_wakeup_title">Ekranı uyandırmak veya kapatmak için iki kez dokun</string>
   <string name="getConfiguredNetworks">Yapılandırılmış ağa bakın</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
   <string name="giga_hertz">GHz</string>
