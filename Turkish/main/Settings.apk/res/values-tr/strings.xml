@@ -5366,9 +5366,11 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="wifi_connect_cmcc_dialog_content">Mobil veri ağına bağlandı. Eğer planladığınız veri sınırı üzerine çıkarsanız, operatörünüz sizden ek ücret alabilir.</string>
   <string name="wifi_connect_cmcc_dialog_not_remind">Tekrar gösterme</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC bağlandı</string>
-  <string name="wifi_connect_failed_message">Telefon bu Wi-Fi ağına bağlanamadı.</string>
-  <string name="wifi_connected_no_internet">Bağlandı, İnternet yok</string>
-  <string name="wifi_connection_management">WLAN bağlantılarını yönetin</string>
+  <string name="wifi_connect_failed_message">WLAN ağına bağlanılamadı</string>
+  <string name="wifi_connected_mac_randomization">Bağlı MAC randomizasyonu</string>
+  <string name="wifi_connected_mac_randomization_summary">WLAN ağlarına bağlanırken MAC adresini rastgele seç</string>  
+  <string name="wifi_connected_no_internet">Bağlandı, internet yok</string>
+  <string name="wifi_connection_management">WLAN bağlantı yönetimi</string>
   <string name="wifi_context_menu_change_password">Şifreyi değiştir</string>
   <string name="wifi_context_menu_change_wapi_certificate">WAPI sertifikasını değiştir</string>
   <string name="wifi_context_menu_connect">Bağlan</string>
@@ -6653,6 +6655,7 @@ Bu özelliği açın ve menüyü açmak için ekranın altındaki Erişilebilirl
   <string name="manage_password">Şifreleri yönet</string>
   <string name="manage_password_summary">Kayıtlı hesapları ve şifreleri otomatik doldur</string>
   <string name="gesture_wakeup_summary">Varsayılan veya Klasik tema uygulandığında ekranı kapatmak için iki kez dokunabilirsiniz</string>
+  <string name="gesture_wakeup_title">Ekranı uyandırmak veya kapatmak için iki kez dokun</string>
   <string name="notch_style_mod_description">Çentik ve durum çubuğu görüntüleme seçenekleri</string>
   <string name="notch_style_mod_title">Çentiği gizle</string>
   <string name="notch_style_show">Gizleme</string>
