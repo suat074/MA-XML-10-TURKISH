@@ -48,7 +48,7 @@
   <string-array name="app_ops_categories">
     <item>Konum</item>
     <item>Kişisel</item>
-    <item>Mesajlar</item>
+    <item>Mesajlaşma</item>
     <item>Medya</item>
     <item>Cihaz</item>
   </string-array>
@@ -1258,7 +1258,8 @@
   </string-array>
   <string-array name="notch_battery_indicator_style_entries">
     <item>Grafiksel</item>
-    <item>Yüzdeli</item>
+    <item>Yüzde (simge içinde)</item>
+    <item>Yüzde (simgenin yanında)</item>
   </string-array>
   <string-array name="wifi_signal">
     <item>Zayıf</item>
@@ -1366,5 +1367,10 @@
     <item>Grafiksel</item>
     <item>Yüzde (simgenin içinde)</item>
     <item>Yüzde (simgenin yanında)</item>
+  </string-array>
+  <string-array name="wide_notch_battery_indicator_style_entries">
+    <item>Grafiksel</item>
+    <item>Yüzde (simge içinde)</item>
+    <item>Yüzde (Bildirim alanındaki simgenin yanında)</item>
   </string-array>  
 </resources>
