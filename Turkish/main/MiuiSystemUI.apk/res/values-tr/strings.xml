@@ -695,6 +695,7 @@
   <string name="inactive_apps_title">Devre dışı uygulamalar</string>
   <string name="incorrect_pincode">PIN Kodu hatalı!</string>
   <string name="incorrect_pukcode">PUK kodu hatalı!</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Ultra pil tasarrufu açıkken alanlar arasında geçiş yapamazsınız</string>  
   <string name="input_password_after_boot_msg">Cihazın kilidini açmak için şifrenizi girin</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Görüşme esnasındaki boşluklar arasında geçiş yapılamaz</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Cihaz yeniden başlatıldıktan sonra İlk Alana girmeniz gerekiyor</string>
@@ -947,10 +948,12 @@ almak için dokunun"</string>
   <string name="miui_ringer_standard_description">Gelen aramalar ve bildirimler için zil sesleri sessiz</string>
   <string name="miui_ringer_total">Rahatsız etme</string>
   <string name="miui_ringer_total_description">Alarm haricinde tüm öğeler için sessiz ve titreşim kapalı</string>
-  <string name="miui_toast_zen_dnd_to_off">Sesler ve titreşim normale döndü</string>
-  <string name="miui_toast_zen_standard_to_off">Zil sesleri normale döndü</string>
-  <string name="miui_toast_zen_to_dnd">Ses yok ve titreşim kapalı</string>
-  <string name="miui_toast_zen_to_standard">Aramalar ve bildirimler için zil sesleri susturuldu</string>
+  <string name="miui_toast_zen_dnd_to_off">Rahatsız etme şimdi kapalı. Sesler ve titreşim normale döndü.</string>
+  <string name="miui_toast_zen_standard_to_off">Rahatsız etme şimdi kapalı. Zil sesleri normale döndü.</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Rahatsız etme şimdi kapalı. Zil sesleri, yanı sıra bildirim ve medya sesleri, çalınacak.</string>
+  <string name="miui_toast_zen_to_dnd">Rahatsız etme moduna geçildi. Sesler susturuldu ve titreşim şimdi kapalı.</string>
+  <string name="miui_toast_zen_to_standard">Rahatsız etme moduna geçildi. Çağrılar ve bildirimler için zil sesleri şimdi susturuldu.</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Rahatsız etme moduna geçildi. Zil sesleri, yanı sıra bildirim ve medya sesleri, şimdi susturuldu.</string>  
   <string name="mobile_data">Mobil veri</string>
   <string name="mobile_data_always_on">Mobil veri her zaman etkin</string>
   <string name="mobile_data_always_on_summary">Kablosuz bağlantı etkin bile olsa mobil veri kullanımını her zaman etkin tut (ağlar arasında hızlı geçiş yapmak için).</string>
@@ -1063,8 +1066,8 @@ almak için dokunun"</string>
   <string name="oem_unlock_enable_summary">Önyükleyicinin kilidinin açılmasına izin ver</string>
   <string name="oldman_airplane_mode_text">Uçak modu</string>
   <string name="oldman_incall_text">Aramaya dön</string>
-  <string name="open_camera_hint_text">Kamerayı açmak için sola kaydırın</string>
-  <string name="open_remote_center_hint_text">Ek programları çalıştırmak için sağa kaydırın</string>
+  <string name="open_camera_hint_text">Kamera\'yı açmak için simgeyi sürükleyin</string>
+  <string name="open_remote_center_hint_text">Kontrolleri görüntülemek için simgeyi sürükleyin</string>
   <string name="other">Diğer</string>
   <string name="overlay_display_devices_title">İkincil ekranları simüle et</string>
   <string name="overview">Genel bakış</string>
@@ -1655,8 +1658,6 @@ d MMM"</string>
   <string name="miui_guide_dialog_button_negative_text">Ayarlar</string>
   <string name="miui_guide_dialog_button_positive_text">Anladım</string>
   <string name="miui_guide_dialog_message">Medya sesleri (müzik, videolar, vb.) Sessiz modda oynatılmaya devam eder. Bunu Ayarlar\'dan değiştirebilirsiniz.</string>
-  <string name="miui_toast_zen_standard_to_off_when_shield_media">Zil seslerinin yanı sıra bildirim ve medya sesleri de çalacak.</string>
-  <string name="miui_toast_zen_to_standard_when_shield_media">Zil seslerinin yanı sıra bildirim ve medya sesleri de susturulacak.</string>
   <string name="lockscreen_storage_locked">Tüm özellikler ve veriler için kilidini aç</string>
   <string name="wireless_change_to_ac_charging">Kablolu şarja geçti</string>
   <string name="wireless_charge_current">Şarj</string>
@@ -1727,7 +1728,7 @@ d MMM"</string>
   <string name="enable_atrace">Atrace\'yi aç</string>
   <string name="enable_atrace_summary">ATrace kullanarak çekirdek olaylarını yakalayın</string>
   <string name="structure_face_unlock_tof_covered">Yüz verisi eklenemedi. Ekrandan uzaklaşın.</string>
-  <string name="download_lock_wallpaper">Müzik indirmek için çift tıklayın</string>
+  <string name="download_lock_wallpaper">Müzik indirmek için iki kez dokunun</string>
   <string name="wapi_auto_sel_cert">Otomatik olarak seç</string>
   <string name="wapi_cert_select">WAPI sertifikası</string>
   <string name="wapi_password_empty">Şifreyi girin</string>
@@ -1742,7 +1743,7 @@ d MMM"</string>
   <string name="lock_screen_magazine_default_content">Günlük yeni görüntüler bölümü</string>
   <string name="lock_screen_magazine_default_entry_title">Duvar kağıdı detayları</string>
   <string name="lock_screen_magazine_default_title">Duvar Kağıdı Döngüsü</string>
-  <string name="open_lock_screen_magazine_hint_text">Daha fazla seçenek için sağa kaydır</string>
+  <string name="open_lock_screen_magazine_hint_text">Duvar Kağıdı Döngüsü\'nü açmak için simgeyi sürükleyin</string>
   <string name="recents_title_app_manager">Uygulamaları yönet</string>
   <string name="recents_title_game">Oyunlar</string>
   <string name="recents_title_garbage_cleanup">Temizleyici</string>
