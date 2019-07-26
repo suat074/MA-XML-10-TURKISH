@@ -61,5 +61,16 @@ Veriler silinmeyecek."</string>
   <string name="weekly">haftalık</string>
   <string name="wifi_recommended">İndirmeye başlamak için WiFi bağlantısı yok!</string>
   <string name="dialog_twrp">Dahili depolama alanınız şifrelenir. Cihaz kurtarma modunda yeniden başlatıldıktan sonra, devam etmek için cihaz kilidini açma şifrenizi girin.</string>
-  <string name="share_desc">MIUI sürümünüz %1$s olarak güncellendi, son değişiklikleri kontrol edin: %2$s</string>  
+  <string name="share_desc">MIUI sürümünüz %1$s olarak güncellendi, son değişiklikleri kontrol edin: %2$s</string>
+  <string name="warning_dialog_title">Risk tespit edildi</string>
+  <string name="warning_dialog_content">Bu güncelleştirme, Android sürümünü yükseltme içerir. Aşağıdaki uygulamalar bunun için optimize edilmedi ve ciddi uyumluluk sorunları içerebilir. Yine de güncelleme yapabilir, bu güncellemeyi atlayabilir veya aşağıdaki uygulamaları güncelleyip tekrar deneyebilirsiniz.</string>
+  <string name="warning_dialog_pos">Güncelleme</string>
+  <string name="warning_dialog_neg">Güncelle</string>
+  <string name="warning_dialog_item_tag">"Risk: "</string>
+  <string name="warning_dialog_error_tag1">Başlatılamıyor</string>
+  <string name="warning_dialog_error_tag2">Zorla kapanıyor</string>
+  <string name="warning_dialog_error_tag3">Yüklenemiyor veya kaldırılamıyor</string>
+  <string name="warning_dialog_error_tag4">Cevap vermiyor</string>
+  <string name="warning_dialog_error_tag5">Uyumsuz kullanıcı arayüzü</string>
+  <string name="warning_dialog_error_tag99">Diğer sorunlar</string>  
 </resources>
