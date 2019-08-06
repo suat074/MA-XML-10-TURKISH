@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-  <plurals name="find_applications">
-    <item quantity="other">%d şehir arasında ara</item>
-    <item quantity="one">%d şehir arasında ara</item>
-  </plurals>
-</resources>
