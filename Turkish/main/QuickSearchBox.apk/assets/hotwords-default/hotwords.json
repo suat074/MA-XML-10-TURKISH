@@ -1,0 +1,40 @@
+{
+    "message": "success",
+    "random_color": true,
+    "result": [
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "Xiaomi.eu",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "MiuiTurkiye",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "MIUIos.cz",
+            "type": "unknown",
+            "url": ""
+        },
+        {
+            "min_version": -1,
+            "package": "com.android.quicksearchbox",
+            "style": "text",
+            "text": "MIUIPolska.pl",
+            "type": "unknown",
+            "url": ""
+        }
+    ],
+    "status": 0,
+    "track_id": ""
+}
