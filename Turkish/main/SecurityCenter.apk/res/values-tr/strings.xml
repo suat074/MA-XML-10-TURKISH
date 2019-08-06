@@ -2015,6 +2015,7 @@ Mobil veri bağlantısını tekrar kullanırsanız, operatörünüz sizden ek ü
   <string name="tc_diagnostic_all_error_notification_title">Teşhis tamamlanamadı</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Şebeke türünü ayarlamak için dokunun</string>
   <string name="tc_diagnostic_brand_error_notification_title">Yanlış Ağ Tipi</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Sonuç: Yanlış operatör markası&lt;br/>&lt;br/>Markayı ayarla: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Gerçek marka: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
   <string name="tc_diagnostic_complete">Tamam</string>
   <string name="tc_diagnostic_fragment_default">"Teşhis hakkında
 1. Cihaz, operatör şebekesine bağlanır, ücretsiz bir mesaj gönderir ve operatör yanıtını bekler. Bu işlem 5 dakika kadar sürebilir.
