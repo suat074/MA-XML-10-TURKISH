@@ -373,13 +373,17 @@
   <string name="summary2">"Bu özelliği kullanarak, &lt;a href ='%1$s'>Kullanıcı Sözleşmemizi&lt;/a> ve &lt;a href='%2$s'>Gizlilik Politikamızı&lt;/a> kabul etmiş oluyorsunuz. Bu özelliğin normal çalışması için internet bağlantısı gerekir."</string>
   <string name="tab_user_title_bar_text">Ayarlar</string>
   <string name="theme_apply_failured">Uygulanamıyor, sonra tekrar deneyin</string>
+  <string name="theme_apply_lockscreen_success">Başarıyla uygulandı</string>  
   <string name="theme_apply_success">Başarıyla uygulandı</string>
   <string name="theme_applying">Uygulanıyor...</string>
+  <string name="theme_close_maml">Duvar Kağıdı Döngüsü görüntüleri Kilit ekranı duvar kağıdı yerini alacak.</string>
   <string name="theme_des">Varsayılan temayı uygulayın ve Duvar Kağıdı Döngüsünü tekrar açın.</string>
   <string name="theme_des_lock_style">Varsayılan Kilit ekranını uygulayın ve Duvar Kağıdı Döngüsünü tekrar açın.</string>
+  <string name="theme_des_maml">Mevcut temanın diğer bileşenleri etkilenmeyecek. Tema, değişiklikleri uygulamak için yenilenecektir.</string>
   <string name="theme_ok">Ayarlar</string>
   <string name="theme_title">Varsayılan temaya geç</string>
   <string name="theme_title_lock_style">Varsayılan Kilit ekranına geçin</string>
+  <string name="theme_title_subscribe">Duvar Kağıdı Döngüsü\'ne abone ol</string>
   <string name="ticket_hint">Doğrulama kodu</string>
   <string name="ticket_invalid">Girdiğiniz kod yanlış</string>
   <string name="ticket_sign_in">SMS ile giriş yap</string>

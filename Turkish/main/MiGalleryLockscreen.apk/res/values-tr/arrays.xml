@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="feature_desc">
-        <item>Sabah selamlarında artık daha yumuşak bir kilit açma deneyimi için \"Kilidi açmak için yukarı kaydır\" özelliği desteklenmektedir.</item>
-        <item>Slayt gösterisi duvar kağıtları eklerken \"Tümünü seç\" düğmesi eklendi.</item>
+        <item>Bazı bilinen sorunlar düzeltildi.</item>
     </string-array>
 </resources>
