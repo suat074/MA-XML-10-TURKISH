@@ -1411,7 +1411,6 @@
   <string name="quick_settings_settings_label">Ayarlar</string>
   <string name="quick_settings_sync_label">Eşitleme</string>
   <string name="quick_settings_tethering_label">Tethering</string>
-  <string name="quick_settings_tiles">varsayılan</string>
   <string name="quick_settings_time_label">Zaman</string>
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Bir öğe eklemek için, üzerine basılı tutun ve ardından panelin üst kısmına sürükleyin.</string>
   <string name="quick_settings_user_label">Ben</string>
