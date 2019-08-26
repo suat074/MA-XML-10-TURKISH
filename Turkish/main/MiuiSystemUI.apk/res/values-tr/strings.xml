@@ -510,6 +510,7 @@
   <string name="debug_drawing_category">Çizim</string>
   <string name="debug_hw_drawing_category">Donanım hızlandırmalı oluşturma</string>
   <string name="debug_hw_overdraw">GPU fazla çizim hatasını ayıkla</string>
+  <string name="debug_hw_renderer">GPU Oluşturucuyu ayarla</string>
   <string name="debug_input_category">Girdi</string>
   <string name="debug_layout">Düzen sınırlarını göster</string>
   <string name="debug_layout_summary">Klip sınırlarını, kenar boşluklarını vb. göster</string>
@@ -523,6 +524,7 @@
   <string name="description_direction_left">%s için sola kaydırın.</string>
   <string name="description_direction_up">%s için yukarı doğru kaydırın.</string>
   <string name="description_image_button_answer">Yanıtla</string>
+  <string name="description_image_button_bubble_answer">Hoparlör</string>
   <string name="description_image_button_reject">Reddet</string>
   <string name="description_image_icon_sim_card">SIM Kart %1$d</string>
   <string name="description_target_search">Ara</string>
@@ -580,6 +582,8 @@
   <string name="empty_shade_text">Bildirim yok</string>
   <string name="enable_adb">USB hata ayıklaması</string>
   <string name="enable_adb_summary">USB bağlandığında hata ayıklama modu</string>
+  <string name="enable_atrace">ATrace aç</string>
+  <string name="enable_atrace_summary">ATrace kullanarak çekirdek olaylarını yakalayın</string>
   <string name="enable_bluetooth_confirmation_ok">Aç</string>
   <string name="enable_bluetooth_message">Klavyeyi tabletinize bağlamak için önce Bluetooth\'u açın.</string>
   <string name="enable_bluetooth_title">Bluetooth açılsın mı?</string>
@@ -703,6 +707,8 @@
   <string name="float_incall_message">Mesaj</string>
   <string name="force_allow_on_external">Harici depolamadaki uygulamalara izin vermeyi zorla</string>
   <string name="force_allow_on_external_summary">Manifest değerlerinden bağımsız olarak uygulamaları harici depolamaya yazmak için uygun hale getirir</string>
+  <string name="force_hw_ui">GPU oluşturmayı zorla</string>
+  <string name="force_hw_ui_summary">2B çizim için GPU kullanmaya zorla</string>
   <string name="force_msaa">4x MSAA\'yı zorla</string>
   <string name="force_msaa_summary">OpenGL ES 2.0 uygulamalarda 4x MSAA\'yı etkinleştir</string>
   <string name="force_resizable_activities">Etkinlikleri yeniden boyutlandırılabilmeye zorla</string>
@@ -1289,12 +1295,14 @@
 - Uygulamadaki tüm bildirimleri engelle "</string>
   <string name="power_remaining_charging_duration_only">Tam olarak şarj olmasına %1$s kaldı</string>
   <string name="power_remaining_duration_only">Yaklaşık %1$s kaldı</string>
+  <string name="power_remaining_duration_only_short">%1$s kaldı</string>
   <string name="power_remaining_duration_only_enhanced">Kullanımınıza göre yaklaşık %1$s kaldı</string>
   <string name="power_remaining_duration_only_shutdown_imminent">Telefon yakında kapanabilir</string>
   <string name="power_remaining_duration_shutdown_imminent">Telefon yakında kapanabilir (%1$s)</string>
-  <string name="power_remaining_less_than_duration">Kalan %1$ değerinden az (%2$s)</string>
-  <string name="power_remaining_less_than_duration_only">Kalan %1$ değerinden az</string>
-  <string name="power_remaining_more_than_subtext">Kalan %1$ değerinden fazla (%2$s)</string>
+  <string name="power_remaining_less_than_duration">Kalan %1$s değerinden az (%2$s)</string>
+  <string name="power_remaining_less_than_duration_only">Kalan %1$s değerinden az</string>
+  <string name="power_remaining_more_than_subtext">Kalan %1$s değerinden fazla (%2$s)</string>
+  <string name="power_remaining_only_more_than_subtext">Kalan %1$s değerinden fazla</string>
   <string name="power_save_ps_clean">Cihaz kilitlendiğinde önbelleği temizle</string>
   <string name="power_save_ps_close_setting">Pilden tasarruf etmek için arka plan servislerini (eşitleme, GPS) kapat</string>
   <string name="power_save_ps_freeze">Arka planda uygulamaları dondur</string>
@@ -1322,6 +1330,7 @@
   <string name="qs_dnd_replace">Değiştir</string>
   <string name="qs_dnd_until">%s kadar</string>
   <string name="qs_edit">Düzenle</string>
+  <string name="qs_open_night_mode_alert_summary">Bazı ekran ayarları Karanlık modla uyumlu değil. Ancak, Karanlık modu kapattığınızda bunlar geri yüklenir.</string>
   <string name="qs_paging">Yeni Hızlı ayarları kullanın</string>
   <string name="qs_rearrange">Hızlı ayarları yeniden düzenle</string>
   <string name="quick_settings">Hızlı Ayarlar</string>
@@ -1391,6 +1400,7 @@
   <string name="quick_settings_night_secondary_label_on_at">%s üzerinde</string>
   <string name="quick_settings_night_secondary_label_on_at_sunset">Gün batımında</string>
   <string name="quick_settings_night_secondary_label_until_sunrise">Güneş doğana kadar</string>
+  <string name="quick_settings_nightmode_label">Karanlık mod</string>
   <string name="quick_settings_notifications_label">Bildirimler</string>
   <string name="quick_settings_papermode_label">Okuma modu</string>
   <string name="quick_settings_powermode_label">Performans modu</string>
@@ -1523,6 +1533,7 @@
   <string name="search_menu">Arama ayarları</string>
   <string name="search_menu_title">Arama</string>
   <string name="select_application">Uygulama seçin</string>
+  <string name="select_logd_level">Günlük seviyesini seçin</string>
   <string name="select_logd_size_dialog_title">Günlük arabellek için boyut seçin</string>
   <string name="select_logd_size_title">Günlük Kaydedici arabellek boyutları</string>
   <string name="select_logpersist_dialog_title">Cihazda kalıcı olarak depolanacak günlük arabelleklerini seçin</string>
@@ -1698,6 +1709,8 @@
   <string name="system_ui_tuner">System UI Tuner</string>
   <string name="tap_to_sign_up">Kaydolmak için dokunun</string>
   <string name="task_access_locked_app_msg">Uygulama kilidi açıldı</string>
+  <string name="telephony_monitor_switch">Telefon monitörü</string>
+  <string name="telephony_monitor_switch_summary">Telefon monitörü, telefon/modem işlevleriyle ilgili bir sorun tespit ettiğinde günlükleri toplar ve kullanıcıdan bir hata bildirmesini ister.</string>
   <string name="tether_settings_title_all">Tethering ve taşnblr hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="tether_settings_title_usb">USB tethering</string>
@@ -1892,6 +1905,10 @@
   <string name="wapi_psk_type_hex">Onaltılık</string>
   <string name="wapi_yes">Evet</string>
   <string name="weather_publish_time">Güncellendi: %1$s</string>
+  <string name="wifi_aggressive_handover">Mobil aktarmaya karşı agresif WLAN</string>
+  <string name="wifi_aggressive_handover_summary">Etkinleştirildiğinde, WLAN sinyali düşük olduğunda bağlantı daha etkin bir şekilde mobil verilere geçer.</string>
+  <string name="wifi_allow_scan_with_traffic">WLAN dolaşım taramasına her zaman izin ver</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Arabirimde mevcut veri trafiğinin miktarına bağlı olarak WLAN gezinme taramalarına izin verin veya kısıtlayın.</string>
   <string name="wifi_ap_unable_to_handle_new_sta">Erişim noktası geçici olarak dolu</string>
   <string name="wifi_auto_sel_wapi_cert">Otomatik seç</string>
   <string name="wifi_cant_connect">Bağlanılamıyor</string>
