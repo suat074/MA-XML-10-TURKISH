@@ -970,13 +970,13 @@
     <item>Menüyü göster</item>
   </string-array>
   <string-array name="screen_optimize_summary">
-    <item>Mevcut ışık için kontrastı optimize et</item>
-    <item>Ekranın kontrastını arttır</item>
+    <item>Mevcut ışığa göre renkleri ayarla</item>
+    <item>Her zaman renkleri geliştir</item>
     <item>Kontrast sabit kalacak</item>
   </string-array>
   <string-array name="screen_optimize_title">
-    <item>Otomatik kontrast</item>
-    <item>Artan kontrast</item>
+    <item>Otomatik (önerilir)</item>
+    <item>Doygun</item>
     <item>Standart</item>
   </string-array>
   <string-array name="screen_saturation_title">
@@ -1279,9 +1279,9 @@
     <item>Android</item>
   </string-array>  
   <string-array name="keyguard_notification_status_entries">
+    <item>Ekranı uyandırma</item>
     <item>Ekranı uyandır</item>
     <item>Animasyonu göster</item>
-    <item>Ekranı uyandırma</item>
   </string-array>
   <string-array name="badge_counter_entries">
     <item>Sağ üst</item>
