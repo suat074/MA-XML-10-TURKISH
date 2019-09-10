@@ -40,7 +40,7 @@ Veriler silinmeyecek."</string>
   <string name="new_version">Yeni sürüm bulundu!</string>
   <string name="no_info">Bilgi yok.</string>
   <string name="no_network">Ağ erişimi yok.</string>
-  <string name="no_update">Güncel ya da bir sunucu sorunu var, yeni sürüm için xiaomi.eu sitesini kontrol edin!</string>
+  <string name="no_update">Güncelsiniz!</string>
   <string name="no_xioamieu">Xiaomi.eu ekibi tarafından oluşturulan MIUI Rom kullanmıyorsunuz!\nGüncellemeler sizin için uygun değildir!</string>
   <string name="notif_cancel">İptal et</string>
   <string name="notif_install">Yükle</string>
